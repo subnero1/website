@@ -31,7 +31,7 @@ section_id: products
   						{% for page in product_pages %}
   						{% if page.title contains "Platinum Edition Modems" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}/#surface"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mps3.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}#surface"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mps3.jpg" />
 				          	<div class='content'>
 				            <h3 style="text-transform: none;">Surface Configuration</h3>
 				          </div></a>
@@ -46,7 +46,7 @@ section_id: products
   						{% for page in product_pages %}
   						{% if page.title contains "Platinum Edition Modems" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}/#title"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mpe3.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}#title"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mpe3.jpg" />
 				          	<div class='content'>
 				            <h3 style="text-transform: none;">Embedded Configuration</h3>
 				          </div></a>
@@ -67,7 +67,7 @@ section_id: products
   						{% for page in product_pages %}
   						{% if page.title contains "Silver Edition Modems" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}/#title"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25msn3.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}#title"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25msn3.jpg" />
 				          	<div class='content'>
 				            <h3 style="text-transform: none;">Node Configuration</h3>
 				          </div></a>
@@ -97,7 +97,7 @@ section_id: products
   						{% for page in product_pages %}
   						{% if page.title contains "Silver Edition Modems" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}/#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mse3.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mse3.jpg" />
 				          	<div class='content'>
 				            <h3 style="text-transform: none;">Embedded Configuration</h3>
 				          </div></a>
