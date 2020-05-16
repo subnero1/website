@@ -17,7 +17,7 @@ During February 2020, we conducted a set of experiments at the straits of Singap
 
 ![Test setup]({{site.baseurl}}/images/test-setup.jpg){: .center-image  }
 
-We are pleased to announce that the Subnero [M25M series platinum edition modems](https://subnero.com/products/platinum.html) have achieved over 2 km of communication range while configured at a data rate of 1.3 kbps (DATA channel) with a packet success ratio o 70% or more. The average depth of the communication channel was 15m. Both the transmitting and receiving modems were deployed at the mid-water column. However, due to very strong currents, the modems were at an angle of 45 deg at times. The strong currents also caused the constant motion of the deployment platform and hence a Doppler of up to 4 knots was recorded. This also shows the Doppler resilience of the Subnero modems.
+We are pleased to announce that the Subnero [M25M series platinum edition modems](https://subnero.com/products/platinum.html) have achieved over 2 km of communication range while configured at a data rate of 1.3 kbps (DATA channel) with a packet success ratio o 70% or more. The average depth of the communication channel was 15m. Both the transmitting and receiving modems were deployed at the mid-water column. However, due to very strong currents, the modems were at an angle of 45° at times. The strong currents also caused the constant motion of the deployment platform and hence a Doppler of up to 4 knots was recorded. This also shows the Doppler resilience of the Subnero modems.
 
 ![Strong current displacing the modems]({{site.baseurl}}/images/deployment.png){: .center-image  }
 
