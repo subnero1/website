@@ -13,7 +13,7 @@ Acoustic wireless communications have always been very challenging in shallow co
 
 This is why, we at Subnero, constantly test our underwater acoustic modems at these challenging conditions, to push the limits of what is possible.
 
-During February 2020, we conducted a set of experiments at the straits of Singapore, to test the communication range between two of our modems. The goal of the test was to establish a maximum communication range at a given data rate with a more than 70% packet success ratio.
+During February 2020, we conducted a set of experiments at the [Singapore Strait](https://en.wikipedia.org/wiki/Singapore_Strait), to test the communication range between two of our modems in shallow waters. The goal of the test was to establish a maximum communication range at a given data rate with a more than 70% packet success ratio.
 
 ![Test setup]({{site.baseurl}}/images/test-setup.jpg){: .center-image  }
 
