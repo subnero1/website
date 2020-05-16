@@ -21,7 +21,7 @@ We are pleased to announce that the Subnero [M25M series platinum edition modems
 
 ![Strong current displacing the modems]({{site.baseurl}}/images/deployment.png){: .center-image  }
 
-The modems used their OFDM modulation (DATA channel) with a 1/6th rate LDPC setting as the forward error correction. Over 5000 packets were transmitted in both directions and the results were tabulated.
+The modems used their OFDM modulation ([DATA channel](https://unetstack.net/handbook/unet-handbook_physical_service.html#_control_and_data_channels)) with a 1/6th rate LDPC setting as the forward error correction. After transmitting and receiving 5000 packets were transmitted in both directions we were able to conclude a packet success ratio great than 70%.
 
 ### Get in touch
 If you would like to know more about Subnero underwater acoustic modems, get in touch with us at sales@subnero.com
