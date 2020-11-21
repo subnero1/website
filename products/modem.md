@@ -5,6 +5,7 @@ banner : images/banner-modem.jpg
 thumbnail: images/boxart-modem.jpg
 categories: underwatermodem
 section_id: products
+excerpt: Subnero's software-defined underwater acoustic modems for underwater wireless communication and networking. Subnero's multi-channel modems for data acquisition.
 ---
 
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>
@@ -131,6 +132,28 @@ section_id: products
 			</ul>
 		</div>
 		<div class='cmXrEt'>
+			<h1 class='thin' style='text-align: center'>Multi-channel modems</h1>
+			<ul class="gfXsQG">
+				<li class="fuqHMA"></li>
+				<li class="fuqHMA">
+					<div class="hOXnHC">
+						{% assign product_pages = site.pages | where:"categories","modem" %}
+  						{% for page in product_pages %}
+  						{% if page.title contains "Underwater acoustic modem with a secondary data acquisition system" %}
+				        <div class='mod modBlogPost'>
+				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
+				          	<div class='content'>
+				            <h3 style="text-transform: none;">Surface Configuration</h3>
+				          </div></a>
+				        </div>
+				        {% endif %}
+				        {% endfor %}
+					</div>
+				</li>
+				<li class="fuqHMA"></li>
+			</ul>
+		</div>
+		<!-- <div class='cmXrEt'>
 			{% assign product_pages = site.pages | where:"categories","solutions" %}
 			{% for page in product_pages %}
 			{% if page.title contains "Solutions" %}
@@ -138,7 +161,7 @@ section_id: products
             </h1>
             {% endif %}
 			{% endfor %}
-		</div>
+		</div> -->
 	</div>
 </section>
 </div>
