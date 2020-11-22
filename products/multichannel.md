@@ -2,10 +2,10 @@
 layout: page
 title: Underwater acoustic modem with a secondary data acquisition system
 banner : images/banner-pulse-custommodem.jpg
-thumbnail : images/pulse-thumbnail-multichannel.jpg
+thumbnail : images/thumbnail-wnc-multichannel.jpg
 excerpt:
   Subnero's underwater acoustic modems with multiple channels for high-speed data acquisition.
-categories: modem
+categories: wnc
 section_id: products
 ---
 
