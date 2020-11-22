@@ -2,6 +2,7 @@
 layout: default
 title: Products
 banner : images/banner-products.jpg
+excerpt: Subnero's underwater acoustic modems with UnetStack for underwater wireless communication and networking and SWAN for real-time water-quality monitoring.
 ---
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>
   <div class='row'>
