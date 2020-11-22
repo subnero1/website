@@ -150,7 +150,6 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 		<div class='cmXrEt'>
 			<h1 class='thin' style='text-align: center'>Optional Accessories & Upgrades</h1>
 			<ul class="gfXsQG">
-				<li class="fuqHMA"></li>
 				<li class="fuqHMA">
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","accessories" %}
@@ -166,7 +165,6 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 				        {% endfor %}
 					</div>
 				</li>
-				<li class="fuqHMA"></li>
 			</ul>
 		</div>
 		<div class='cmXrEt'>
