@@ -4,6 +4,7 @@ title:  Solutions
 banner : images/banner-solutions.jpg
 categories: solutions
 thumbnail: images/thumbnail-wnc-m25mss3-c.jpg
+excerpt: Subnero's solutions for underwater wireless communication and networking, navigation and cloud-based real-time water-quality monitoring using SWAN.
 ---
 
 ## Underwater communications & networking
