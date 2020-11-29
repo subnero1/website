@@ -51,12 +51,25 @@ excerpt: Subnero's underwater acoustic modems with UnetStack for underwater wire
   <div class ='media product'>
     <img class='align-self-start mr-3' alt="" src="{{site.baseurl}}/{{page.thumbnail}}"/>      
      <div class='media-body product product-content'>
-    <h3 style="text-transform: none;">Water Quality Monitoring</h3>
+    <h3 style="text-transform: none;">Subnero Water Assessment Network</h3>
     <p>Scalable automous platforms for in-situ water quality measurements.</p>
     </div>
   </div>
   </a>
     {% endfor %}
+
+  {% assign product_pages = site.pages | where:"categories","daq" %}
+  {% for page in product_pages %}
+  <a href="{{site.baseurl}}{{page.url}}">
+  <div class ='media product' style='background:#F5F5F5;'>      
+    <div class='media-body product product-content' style='background:#F5F5F5'>
+    <h3 style="text-transform: none;">Acoustic Data Acquisition System</h3>
+    <p>An agent-based software stack and simulator for underwater networks.</p>
+    </div>
+    <img class='ml-3' alt="" src="{{site.baseurl}}/{{page.thumbnail}}"/>
+  </div>
+  </a>
+  {% endfor %}
 <div class='four spacing'></div>
 </div>
 </div>
