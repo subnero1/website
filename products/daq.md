@@ -11,14 +11,12 @@ excerpt: Subnero's underwater acoustic modems with multiple channels for high-sp
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>
   <div class='row'>
     <div class='large-12 columns'>
-      <!-- {% include section-header.html title=page.title tagline=page.tagline color=page.title_color class="big" %} -->
     </div>
   </div>
   <div class='four spacing'></div>
   <div class='four spacing'></div>
 </div>
 
-<!--<div class='full' style='background:#F5F5F5'>-->
 <div class='cGBxoB'>
 <section class='bsPRnx'>
     <h1 class='thin' style='text-align: center'>Subnero acoustic data acquisition</h1>
