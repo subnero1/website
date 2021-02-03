@@ -115,7 +115,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
 				          	<div class='content'>
-				            <h2>Multi-channel modem for high-speed data acquisition system</h2>
+				            <h2>Multi-Channel Configuration <br>WNC-M25MSM3</h2>
 				          	</div>
 				          	</a>
 				        </div>
