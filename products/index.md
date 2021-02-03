@@ -63,8 +63,8 @@ excerpt: Subnero's underwater acoustic modems with UnetStack for underwater wire
   <a href="{{site.baseurl}}{{page.url}}">
   <div class ='media product' style='background:#F5F5F5;'>      
     <div class='media-body product product-content' style='background:#F5F5F5'>
-    <h3 style="text-transform: none;">Acoustic Data Acquisition System</h3>
-    <p>An agent-based software stack and simulator for underwater networks.</p>
+    <h3 style="text-transform: none;">Acoustic Monitoring Systems</h3>
+    <p>Modular systems for acoustic data acquisition and monitoring.</p>
     </div>
     <img class='ml-3' alt="" src="{{site.baseurl}}/{{page.thumbnail}}"/>
   </div>
