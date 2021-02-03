@@ -19,10 +19,10 @@ excerpt: Subnero's underwater acoustic modems with multiple channels for high-sp
 
 <div class='cGBxoB'>
 <section class='bsPRnx'>
-    <h1 class='thin' style='text-align: center'>Subnero acoustic data acquisition</h1>
+    <h1 class='thin' style='text-align: center'>Subnero Acoustic Monitoring Systems</h1>
     <div class='eyXpDN'>
         <div class='cmXrEt'>
-            <h1 class='thin' style='text-align: center'>Multi-channel Edition</h1>
+            <h1 class='thin' style='text-align: center'> </h1>
             <ul class="gfXsQG">
                 <li class="fuqHMA">
                     <div class="hOXnHC">
@@ -32,7 +32,7 @@ excerpt: Subnero's underwater acoustic modems with multiple channels for high-sp
                         <div class='mod modBlogPost'>
                             <a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
                             <div class='content'>
-                            <h2>Multi-channel modem for high-speed data acquisition system</h2>
+                            <h2>Multi-channel modem for acoustic data acquisition</h2>
                             </div>
                             </a>
                         </div>
@@ -48,7 +48,7 @@ excerpt: Subnero's underwater acoustic modems with multiple channels for high-sp
                         <div class='mod modBlogPost'>
                             <a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
                             <div class='content'>
-                            <h2>aRecorder with mutiple hydrophones and sensors</h2>
+                            <h2>Acoustic recorder with mutiple hydrophones and sensors</h2>
                           </div></a>
                         </div>
                         {% endif %}
