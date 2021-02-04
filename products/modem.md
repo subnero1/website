@@ -111,7 +111,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","wnc" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Underwater acoustic modem with a secondary data acquisition system" %}
+  						{% if page.title contains "Modems with multiple receiving channels" %}
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
 				          	<div class='content'>
