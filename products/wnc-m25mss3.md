@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WNC-M25MSS3 Silver Edition Surface Configuration Modem
+title: WNC-M25MSS3 Silver Edition Standalone Configuration Modem
 banner : images/banner-wnc-m25mss3.jpg
 thumbnail : images/thumbnail-wnc-m25mss3.jpg
 excerpt:
@@ -9,7 +9,9 @@ categories: modem
 section_id: products
 ---
 
-WNC-M25MSS3 is a silver edition underwater modem in surface (gateway) configuration. This modem is the workhorse communication node to be used in the general commercial deployments with larger range and depth-rating when compared to the research edition modem. A modem in the surface configuration operates on external power source and can be deployed from the surface.  This modem also provides options for customization and extension at many levels, allowing network protocols as well as physical layer algorithms to be implemented and tested easily. The applications can be develeoped using a [simulator]({{ site.baseurl }}{link products/unetsim.md}) before the commercial deployments. The modem runs the [UnetStack]({{ site.baseurl }}{link products/unetstack.md}) underwater networking stack, and provides a wide-range of functionality such as data transmission, navigation, time synchronization, and networked operations.
+
+WNC-M25MSS3 is a silver edition underwater modem in standalone (gateway) configuration. This modem is the workhorse communication node to be used in the general commercial deployments with larger range and depth-rating when compared to the research edition modem. A modem in the standalone configuration operates on external power source and can be deployed from the surface.  This modem also provides options for customization and extension at many levels, allowing network protocols as well as physical layer algorithms to be implemented and tested easily. The applications can be develeoped using a [simulator]({{ site.baseurl }}{link products/unetsim.md}) before the commercial deployments. The modem runs the [UnetStack]({{ site.baseurl }}{link products/unetstack.md}) underwater networking stack, and provides a wide-range of functionality such as data transmission, navigation, time synchronization, and networked operations.
+
 
 ## Technical specifications
 

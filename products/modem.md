@@ -32,9 +32,9 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
   						{% for page in product_pages %}
   						{% if page.title contains "Platinum Edition Modems" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}#surface"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mps3.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}#standalone"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mps3.jpg" />
 				          	<div class='content'>
-				            <h2>Surface Configuration <br>WNC-M25MPS3</h2>
+				            <h2>Standalone Configuration <br>WNC-M25MPS3</h2>
 				          </div></a>
 				        </div>
 				        {% endif %}
@@ -47,7 +47,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
   						{% for page in product_pages %}
   						{% if page.title contains "Platinum Edition Modems" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}#title"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mpe3.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mpe3.jpg" />
 				          	<div class='content'>
 				            <h2>Embedded Configuration <br>WNC-M25MPE3</h2>
 				          </div></a>
@@ -62,7 +62,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 		<div class='cmXrEt'>
 			<h1 class='thin' style='text-align: center'>Silver Edition</h1>
 			<ul class="gfXsQG">
-				<li class="fuqHMA">
+				<!-- <li class="fuqHMA">
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","modem" %}
   						{% for page in product_pages %}
@@ -76,16 +76,16 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 				        {% endif %}
 				        {% endfor %}
 					</div>
-				</li>
+				</li> -->
 				<li class="fuqHMA">
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","modem" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Silver Edition Modems" %}
+  						{% if page.title contains "WNC-M25MSS3 Silver Edition Standalone Configuration Modem" %}
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}#surface"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mss3.jpg" />
 				          	<div class='content'>
-				            <h2>Surface Configuration <br>WNC-M25MSS3</h2>
+				            <h2>Standalone Configuration <br>WNC-M25MSS3</h2>
 				          </div></a>
 				        </div>
 				        {% endif %}
@@ -96,7 +96,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","modem" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Silver Edition Modems" %}
+  						{% if page.title contains "WNC-M25MSE3 Silver Edition Embedded Configuration Modem" %}
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mse3.jpg" />
 				          	<div class='content'>
@@ -137,7 +137,29 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
 				          	<div class='content'>
-				            <h2>Surface Configuration <br>WNC-M25MRS3</h2>
+				            <h2>Standalone Configuration <br>WNC-M25MRS3</h2>
+				          </div></a>
+				        </div>
+				        {% endif %}
+				        {% endfor %}
+					</div>
+				</li>
+				<li class="fuqHMA"></li>
+			</ul>
+		</div>
+		<div class='cmXrEt'>
+			<h1 class='thin' style='text-align: center'>Optional Accessories & Upgrades</h1>
+			<ul class="gfXsQG">
+				<li class="fuqHMA"></li>
+				<li class="fuqHMA">
+					<div class="hOXnHC">
+						{% assign product_pages = site.pages | where:"categories","modem" %}
+  						{% for page in product_pages %}
+  						{% if page.title contains "Research Edition Modems" %}
+				        <div class='mod modBlogPost'>
+				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
+				          	<div class='content'>
+				            <h2>Accessories</h2>
 				          </div></a>
 				        </div>
 				        {% endif %}

@@ -24,9 +24,9 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
   </div>
   <div class ='media product' style='background: #f5f5f5' >   
     <div class='media-body product product-content' style='background: #f5f5f5'>
-    <h3 style="text-transform: none;">Surface Configuration</h3>
+    <h3 style="text-transform: none;">Standalone Configuration</h3>
           <h4 style="text-transform: none;">WNC-M25MPS3</h4>
-          <p>A modem in the surface configuration operates on external power source and can be deployed from the surface.</p>
+          <p>A modem in the standalone configuration operates on external power source and can be deployed from the water surface.</p>
     </div>
     <img class = "ml-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-m25mps3.png"/> 
   </div>

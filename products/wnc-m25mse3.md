@@ -9,7 +9,11 @@ categories: modem
 section_id: products
 ---
 
+
+
 WNC-M25MSE3 is a silver edition underwater modem in embedded (AUV/sensor) configuration. Designed with ease of integration and flexibilty as the primary focus, this modem is ideal for integration to underwater platforms (AUVs, ROVs). These modems provide a flexible platform with a substantial computing power packed into a compact form factor. This modem also provides options for customization and extension at many levels, allowing network protocols as well as physical layer algorithms to be implemented and tested easily. The applications can be develeoped using a [simulator]({{ site.baseurl }}{link products/unetsim.md}) before the commercial deployments. The modem runs the [UnetStack]({{ site.baseurl }}{link products/unetstack.md}) underwater networking stack, and provides a wide-range of functionality such as data transmission, navigation, time synchronization, and networked operations.
+
+
 
 ## Technical specifications
 
@@ -34,5 +38,7 @@ WNC-M25MSE3 is a silver edition underwater modem in embedded (AUV/sensor) config
 |  Bandwidth                    |  16 kHz (nominal)                                                                    |
 |  Source level                 |  max. 185 dB re 1 μPa @ 1 m (rms)                                                    |
 |  Modulation (software-defined)|  PSK-OFDM, incoherent OFDM, FH-BFSK, JANUS (subject to operating frequency band)     |
+
+
 
 Detailed documentation is available on the [UnetStack documentation page](https://www.unetstack.net/docs.html).
