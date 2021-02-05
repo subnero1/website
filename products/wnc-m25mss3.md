@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WNC-M25MSS3 Silver Edition Standalone Configuration Modem
-banner : images/banner-wnc-m25mss3.jpg
+banner : images/banner-silver.jpg
 thumbnail : images/thumbnail-wnc-m25mss3.jpg
 excerpt:
   Silver edition modems are the workhorse communication nodes for use in general commercial deployments
