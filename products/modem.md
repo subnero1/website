@@ -153,9 +153,9 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 				<li class="fuqHMA"></li>
 				<li class="fuqHMA">
 					<div class="hOXnHC">
-						{% assign product_pages = site.pages | where:"categories","modem" %}
+						{% assign product_pages = site.pages | where:"categories","accessories" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Research Edition Modems" %}
+  						{% if page.title contains "Subnero Modem Accessories" %}
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
 				          	<div class='content'>
