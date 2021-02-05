@@ -2,7 +2,7 @@
 layout: default
 title: Underwater acoustic data acquisition system
 banner : images/banner-pulse-custommodem.jpg
-thumbnail: images/boxart-wnc-arecorder.jpg
+thumbnail: images/boxart-ams.jpg
 categories: daq
 section_id: products
 excerpt: Subnero's underwater acoustic modems with multiple channels for high-speed data acquisition.
