@@ -28,11 +28,11 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 			<ul class="gfXsQG">
 				<li class="fuqHMA">
 					<div class="hOXnHC">
-						{% assign product_pages = site.pages | where:"categories","modem" %}
+						{% assign product_pages = site.pages | where:"categories","accessories" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Platinum Edition Modems" %}
+  						{% if page.title contains "Battery Packs" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}#standalone"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mps3.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mps3.jpg" />
 				          	<div class='content'>
 				            <h2>Battery Packs</h2>
 				          </div></a>
