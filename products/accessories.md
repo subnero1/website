@@ -23,7 +23,6 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 	<h1 class='thin' style='text-align: center'>Optional Accessories and Upgrades</h1>
 	<div class='eyXpDN'>
 		<div class='cmXrEt'>
-			<!-- <h1 class='thin' style='text-align: center'>Platinum Edition</h1> -->
 			<ul class="gfXsQG">
 				<li class="fuqHMA">
 					<div class="hOXnHC">
