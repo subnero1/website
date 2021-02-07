@@ -15,7 +15,7 @@ The Subnero underwater modems provide options for customization and extension at
 <div class='full' style='background: #f5f5f5'>
 
   <div class ='media product' >
-    <img class = "align-self-start mr-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-multichannel2.jpg"/>    
+    <img class = "align-self-start mr-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-multichannel3.jpg"/>    
     <div class='media-body product product-content'>
     <h3 style="text-transform: none;" id="surface">Acoustic Modem with Multi-Channel Recorder</h3>
           <!-- <h4 style="text-transform: none;">WNC-M25MPE3</h4> -->
