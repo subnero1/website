@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modems with multiple receiving channels
+title: Subnero Multi-Channel Modems
 banner : images/banner-multichannel.jpg
 thumbnail : images/thumbnail-wnc-multichannel.jpg
 excerpt:
@@ -9,7 +9,7 @@ categories: wnc
 section_id: products
 ---
 ​
-The Subnero underwater modems provide options for customization and extension at many levels. For many applications, it is often a requirement to record synchronized signals from multiple hydrophones in addition to the regular communication channel. Our modems with multiple receiving channels provide this capability thereby enabling a new range of applications
+The Subnero underwater modems provide options for customization and extension at many levels. For many applications, it is often a requirement to record synchronized signals from multiple hydrophones in addition to the regular communication channel. Our modems, with multiple receiving channels provide this capability thereby enabling a new range of applications.
 
 <div id="embedded"></div>
 <div class='full' style='background: #f5f5f5'>
@@ -17,44 +17,82 @@ The Subnero underwater modems provide options for customization and extension at
   <div class ='media product' >
     <img class = "align-self-start mr-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-multichannel2.jpg"/>    
     <div class='media-body product product-content'>
-    <h3 style="text-transform: none;" id="surface">USBL Ready</h3>
+    <h3 style="text-transform: none;" id="surface">Acoustic Modem with Multi-Channel Recorder</h3>
           <!-- <h4 style="text-transform: none;">WNC-M25MPE3</h4> -->
-          <p>A modem in the surface configuration operates on external power source and can be deployed from the surface.</p>
+          <p>Combine a versatile aocutic modem with a powerful multi-channel acoustic recorder, ideal for long term deployments.</p>
     </div>
   </div>
   <div class ='media product' style='background: #f5f5f5' >   
     <div class='media-body product product-content' style='background: #f5f5f5'>
-    <h3 style="text-transform: none;">Exploit Spatial Diversity</h3>
+    <h3 style="text-transform: none;">Enhanced Performance using Spatial Diversity</h3>
           <!-- <h4 style="text-transform: none;">WNC-M25MPS3</h4> -->
-          <p>A modem in the surface configuration operates on external power source and can be deployed from the surface.</p>
+          <p>Having multiple synchronized channels lets you exploit spatial diversity gain to improve communication range and link robustness.</p>
     </div>
     <img class = "ml-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-multichannel1.png"/> 
+  </div>
+  <div class ='media product' >
+    <img class = "align-self-start mr-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-multichannel2.jpg"/>    
+    <div class='media-body product product-content'>
+    <h3 style="text-transform: none;" id="surface">USBL Ready</h3>
+          <!-- <h4 style="text-transform: none;">WNC-M25MPE3</h4> -->
+          <p>Develop and deploy your own prositioning algorithms to unlock USBL functionality.</p>
+    </div>
   </div>
 </div>
 
 <div class='two spacing'></div>
 
 ​
-## Use it as a recorder using multiple hydrophones
+## + Product Description
 
-With option to customize the number of additional channels, these devices provide unparalleled - "TODO"
+### 1. Recorder with multiple hydrophones
 
-Every time a signal is detected on the main hydrophone/transducer a recording can be triggered on all the hydrophones.
+Aimed at deployments where users need the ability to record, process and communicate acoustic signals, Subnero multi-channel modems provide:
+   - Multiple synchronized receiving hydrophones
+   - Storage and computing power for real-time data processing
+   - Acoustic communication capability
+   - Ability to schedule recording or trigger recording from an external signal
+
+### 2. Spatial Diversity enabled receiver modem
 ​
- This driver publishes its data to UnetStack using standard baseband recording messages, so that the customer’s software could request these messages. At the event of detection of a signal on the main hydrophone, a baseband reception notification message `RxBasebandSignalNtf` is sent by the modem. The customer’s script can look for the reception of this notification message and request a recording using the secondary data acquisition system.
+Utilizing the flexibility of UnetStack, users can easily combine signals recorded from various spatially separated receiving channels to successfully decode the signal, using diversity combining techniques. This translates directly to improved performance in terms of increased communication range or robust communication link. 
+
+Users can also choose the software upgrade option to get Subnero's Unity technology in this platform. Learn more... [TODO: Link to Unity premium agent in UnetStack page].
+
+### 3. USBL ready platform
 ​
-## Use it to build USBL based navigation system
-​
-The ability to record using multiple hydrophones enables us to develop high resolution ultra short baseline (USBL) acoustic navigation system to provide an accurate range and bearing estimates to an underwater target (e.g., an acoustic transponder). The multiple hydrophones can be conveniently positioned to form a desired receiver array geometry. The arrival times (and resulting phase) of the signals on these hydrophones slightly differ based on the array geometry and can be used to estimate the direction of arrival. This technique is used for estimating the bearing of the target/source node such as an acoustic transponder. Note that this system also allows communication with other underwater assets with an acoustic modem since the USBL system is built with just a software customization of the multi-channel modem.
-​
-​
-## Use it as a spatial diversity enabled receiver modem
-​
-Received signal recordings on multiple hydrophones may differ due to a different channel that each of them might experience. Since the received signals on all hydrophones may differ; an attempt to decode might result in a different result. Some of them might get decoded correctly and some might result in bit errors. It is also possible that all of the received signals get decoded to result in errors which cannot be corrected. However, the power of selection diversity and diversity combining comes into play here. Utilizing the flexibility of UnetStack, we can immediately publish a successfully decoded frame from one of the hydrophones to be consumed by user. And if none of the hydrophones and main transducer of the modem is able to successfully decode the signal, all of them can be optimally combined and fed to the decoder to potentially decode the frame.
+The ability to record raw signals using multiple hydrophones enable users to develop high resolution Ultra Short BaseLine (USBL) capability to provide an accurate range and bearing estimates. Hydrophones can be conveniently positioned to form a desired receiver array geometry. This makes the Subnero mutli-channel modem an ideal platform for users to develop their own USBL algorithms.
+
+Users can also opt to go for the software upgrade option to unlock the Subnero USBL functionality. Learn more... [TODO: Link to USBL premium agent in UnetStack page].
 
 
-The Subnero underwater modems provide options for customization and extension at many levels. For a research application, a customer required 4 synchronized recordings of a received signal from carefully positioned hydrophones, everytime the signal was detected on the main hydrophone. In order to fulfill this requirement, we integrated 4 preamplifiers and a USB-1608G Series high-speed USB data acquisition system in our standard modem. A driver was developed (in C language) for the multi-channel acquisition system. This driver published its data to UnetStack using standard baseband recording messages, so that the customer's software could request these messages.
+## + Technical Specifications
 
+### General
+- TODO
+
+### Acoustic Communication
+- TODO
+
+### Acoustic Recorder
+- Number of channels: 1 - 4
+- Sampling rate: 128 kSa/s
+- Storage: 32 GB - 256 GB
+
+### Dimensions
+- TODO
+
+### Interface
+- Ethernet
+- RS232
+
+### Contact us for a quote [TODO: Button?]
+
+
+## + Additional Information (TODO: Need to fix the following description)
+
+Subnero multi-channel modem has additional synchronized receiving channels. The software driver publishes the received signals on various channels to UnetStack using standard baseband recording messages, so that the customer’s software could request these messages. At the event of detection of a signal on the main hydrophone, a baseband reception notification message `RxBasebandSignalNtf` is sent by the modem. The customer’s script can look for the reception of this notification message and request a recording using the secondary data acquisition system.
+​
 At the event of detection of a signal on the main hydrophone, a baseband reception notification message `RxBasebandSignalNtf` is sent by the modem. The customer's script can look for the reception of this notification message and request a recording using the secondary data acquisition system:
 
 ```java
