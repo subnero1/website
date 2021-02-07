@@ -26,7 +26,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
             </div>
         </li>
         <li class='fuqHMA'>
-          <div class='modSectionHeader'>
+          <div class='modSectionHeader col2'>
             <h1> 30W USB-C Power Adapter</h1>
             <ul>
               <li> DCB112 lithium Battery Charger </li>
@@ -37,15 +37,16 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
       </ul>
       <hr>
       <div class='cGBxoB'>
-          <div class='media hOXnHC modBlogPost'>
-            <h2> Product Information</h2>
-          </div>
-          <div class='media modBlogPost'>
-            <ul class="shortcode-list">
-              <li> The 61W USB-C Power Adapter offers fast, efficient charging at home, in the office or on the go. While this power adapter is compatible with any USB-C–enabled device, Apple recommends pairing it with your 13-inch MacBook Pro with Thunderbolt 3 (USB-C) ports for optimal charging performance. </li>
-              <li>Charging cable sold separately.</li>
-            </ul>
-          </div>
+        <div class='media hOXnHC modBlogPost'>
+          <h2> Product Information</h2>
+          <!-- <a class='media-body'><h2 class='right'>+</h2></a> -->
+        </div>
+        <div class='media modBlogPost'>
+          <ul class="shortcode-list">
+            <li> The 61W USB-C Power Adapter offers fast, efficient charging at home, in the office or on the go. While this power adapter is compatible with any USB-C–enabled device, Apple recommends pairing it with your 13-inch MacBook Pro with Thunderbolt 3 (USB-C) ports for optimal charging performance. </li>
+            <li>Charging cable sold separately.</li>
+          </ul>
+        </div>
       </div>
       <hr>
       <div class='cGBxoB'>
