@@ -41,13 +41,13 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 				</li>
 				<li class="fuqHMA">
 					<div class="hOXnHC">
-						{% assign product_pages = site.pages | where:"categories","modem" %}
+						{% assign product_pages = site.pages | where:"categories","accessories" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Platinum Edition Modems" %}
+  						{% if page.title contains "Coprocessor" %}
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mpe3.jpg" />
 				          	<div class='content'>
-				            <h2>Coprocessors <br>WNC-M25MPE3</h2>
+				            <h2>Coprocessors</h2>
 				          </div></a>
 				        </div>
 				        {% endif %}
