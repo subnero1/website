@@ -1,0 +1,15 @@
+<!-- Start display.html -->
+<script>
+var imgColl = document.getElementsByClassName("image-nav");
+var mainImage = document.getElementById('main-img');
+for (let i = 0; i < imgColl.length; i++) {
+  imgColl[i].addEventListener("click", function() {
+		mainImage.src = this.firstChild.src;
+		var current = document.getElementsByClassName('current-li')[0]
+		console.log('paent current:'+this.parentNode.classList)
+		current.classList.remove('current-li')
+		this.parentNode.classList.add('current-li')
+  });
+}
+</script>
+<!-- End display.html -->
