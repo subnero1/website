@@ -3313,6 +3313,7 @@ body {
   position: relative;
   overflow: hidden;
   margin-bottom: 20px;
+  margin-right: 10px;
 }
 .modTeamMember ul {
   margin: 0;
@@ -5076,4 +5077,17 @@ img {
 .collapsible-content {
   display: block;
   overflow: hidden;
+}
+
+.image-nav img{
+  width:200px;
+  height: auto;
+}
+
+.current-li{
+  border-bottom: 2px solid #e9e9e9;
+}
+
+.modGallery.extra{
+  width: 25em;
 }
