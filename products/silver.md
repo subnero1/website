@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Silver Edition Modems
-banner : images/banner-wnc-m25mse3.jpg
+banner : images/banner-silver.jpg
 thumbnail : images/thumbnail-wnc-m25mss3.jpg
 excerpt:
   Silver edition modems are the workhorse communication nodes for use in general commercial deployments
@@ -31,7 +31,7 @@ Subnero's silver edition underwater modem is the workhorse communication node to
     <div class='media-body product product-content'>
       <h3 style="text-transform: none;" id="embedded">Embedded Configuration</h3>
       <h4 style="text-transform: none;">WNC-M25MSE3</h4>
-      <p>Designed with ease of integration and flexibilty as the primary focus, the embedded configuration (EC) is ideal for integration to underwater platforms such as AUV, ROVs or sensor platforms.</p>
+      <p>Designed with ease of integration and flexibilty as the primary focus, the embedded configuration (EC) is ideal for integration to bigger platforms such as AUV, ROVs or sensors. Available with pressure hull option for free flodded platforms.</p>
     </div>
   </div>
 
