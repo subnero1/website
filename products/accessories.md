@@ -5,7 +5,7 @@ banner : images/banner-modem.jpg
 thumbnail: images/boxart-modem.jpg
 categories: accessories
 section_id: products
-excerpt: Subnero's software-defined underwater acoustic modems for underwater wireless communication and networking. Subnero's multi-channel modems for data acquisition.
+excerpt: Optional upgrades and accessories for Subnero underwater modems.
 ---
 
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>

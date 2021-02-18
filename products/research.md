@@ -3,8 +3,7 @@ layout: page
 title: Research Edition Modems
 banner : images/banner-research.jpg
 thumbnail : images/thumbnail-wnc-m25mrs3.jpg
-excerpt:
-  Research edition modems aimed directly at academic researchers and underwater technology enthusiasts
+excerpt: Subnero research edition modems are geared towards academic researchers and underwater technology enthusiasts.
 categories: modem
 section_id: products
 ---
