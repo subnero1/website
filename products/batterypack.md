@@ -4,7 +4,7 @@ title: Battery Packs
 banner : images/banner-solutions.jpg
 thumbnail: images/boxart-modem.jpg
 categories: accessories
-excerpt: Subnero's software-defined underwater acoustic modems for underwater wireless communication and networking. Subnero's multi-channel modems for data acquisition.
+excerpt: Underwater battery packs for deployment of Subnero underwater modems.
 ---
 
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>
@@ -22,24 +22,23 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
       <ul class='gfXsQG'>
         <li class='fuqHMA'>
             <div class='mod modBlogPost'>
-              <img id='main-img' src='/images/boxart-wnc-multichannel3.jpg'>
+              <img id='main-img' src='/images/accessories-batterypack01.jpg'>
             </div>
             <div class='modGallery extra'>
               <ul class='media modTeamMember gallery shortcode-list'>
-                <li class="member current-li"><a class='image-nav'><img src='/images/boxart-wnc-multichannel3.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/boxart-wnc-m25mpn3.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/boxart-wnc-m25mse3.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/boxart-wnc-arecorder.jpg'></a></li>
+                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-batterypack01.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack02.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack03.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack04.jpg'></a></li>
               </ul>
             </div>
         </li>
         <li class='fuqHMA'>
           <div class='modSectionHeader col2'>
-            <h1> 30W USB-C Power Adapter</h1>
-            <p>DCB112 lithium Battery Charger</p>
+            <h1>Underwater Battery Pack</h1>
             <ul>
-              <li> DCB112 lithium Battery Charger </li>
-              <li>for Dewei DeWalt 14.4V/18V/20V fast charge</li>
+              <li>Primary and rechargeable options</li>
+              <li>Designed for easy </li>
             </ul>
           </div>
         </li>
@@ -47,15 +46,16 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
       <hr>
       <div class='cGBxoB'>
         <div class='media hOXnHC modBlogPost'>
-          <h2> Product Information</h2>
+          <h2>Production Information</h2>
           <a class='media-body links collapsible' id ='batProduct'>
             <h2 class='right' id='batProduct-icon'>-</h2>
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
+          <p>Designed to be used with Subnero underwater modems, the battery packs are available with both primary and rehcargeable options. These are ideal for longer term deployments of various Subnero products.</p>
           <ul class="shortcode-list">
-            <li> The 61W USB-C Power Adapter offers fast, efficient charging at home, in the office or on the go. While this power adapter is compatible with any USB-C–enabled device, Apple recommends pairing it with your 13-inch MacBook Pro with Thunderbolt 3 (USB-C) ports for optimal charging performance. </li>
-            <li>Charging cable sold separately.</li>
+            <li>TODO: Table with following information</li>
+            <li>TODO: Table with following information</li>
           </ul>
         </div>
       </div>
@@ -69,8 +69,8 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
           </div>
           <div class='media modBlogPost collapsible-content' id = 'batCompatibilitydata'>
             <ul class="shortcode-list">
-              <li> The 61W USB-C Power Adapter offers fast, efficient charging at home, in the office or on the go. While this power adapter is compatible with any USB-C–enabled device, Apple recommends pairing it with your 13-inch MacBook Pro with Thunderbolt 3 (USB-C) ports for optimal charging performance. </li>
-              <li>Charging cable sold separately.</li>
+              <li> WNC-M25MSS3: Silver Edition Standalone Configuration</li>
+              <li> WNC-M25MRS3: Research Edition Standalone Configuration</li>
             </ul>
           </div>
       </div>

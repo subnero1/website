@@ -3,8 +3,7 @@ layout: page
 title: Multi-Channel Modems
 banner : images/banner-multichannel.jpg
 thumbnail : images/thumbnail-wnc-multichannel.jpg
-excerpt:
-  Subnero's underwater acoustic modems with multiple channels for high-speed data acquisition.
+excerpt: Subnero's underwater acoustic modems with multiple channels for high-speed data acquisition.
 categories: wnc
 section_id: products
 ---

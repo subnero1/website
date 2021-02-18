@@ -3,8 +3,7 @@ layout: page
 title: Platinum Edition Modems
 banner : images/banner-platinum.jpg
 thumbnail : images/thumbnail-wnc-m25mps3.jpg
-excerpt:
-  Platinum edition modems delivering performance under the toughest environmental conditions
+excerpt: Subnero platinum edition modems delivering performance under the toughest environmental conditions.
 categories: modem
 section_id: products
 ---
