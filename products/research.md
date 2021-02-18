@@ -14,10 +14,13 @@ Our research edition modems are designed to bridge the gap between developing ap
 ## Key Features
 
 - Up to 15 kbps data rate\*.
+- Ranging functionality with 0.1 m precision.
 - Doppler resiliance of ±4 knots or better.
 - Support for coherent and incoherent communication schemes.
 - Support for arbitrary signal transmission as well as recording (passband, baseband).
 - Support for user defined communication schemes using [UnetStack]({{ site.baseurl }}{%link products/unet.md %}).
+
+\* Depending on channel conditions and reliability requirements.
 
 <div class='one spacing'></div>
 
@@ -39,24 +42,16 @@ Our research edition modems are designed to bridge the gap between developing ap
 
 <h2 style="text-transform: none;" id="r_techspec">+ TECHNICAL SPECIFICATIONS</h2>
 
-### Acoustics
+### Communication
 
 | Feature                                | Details                                   |
 | -------------------------------------- | ----------------------------------------- |
-| Data rate                              | Up to 15 kbps*                            |
-| Operating range                        | 1 km (nominal, depending on channel conditions)|
-| Ranging precision                      | 0.1 m                                     |
-| Doppler resilience                     | ±4 knots or better                        |
 | Modulation (software defined)          | PSK-OFDM, FH-BFSK                         |
 | FEC (Forward Error Correction)         | - LDPC (up to 1/6 rate code)<br>- JANUS (1/2 rate convolution code)|
 | JANUS support                          | Yes, subject to operating frequency band  |
 | Carrier frequency                      | 24 kHz                                    |
 | Bandwidth                              | 12 kHz (20 - 32 kHz)                      |
 | Source level                           | 175 dB re 1 µPa @ 1 m rms (nominal)       |
-| Beam pattern                           | Omnidirectional                           |
-
-\*(depending on channel conditions and reliability requirements)
-
 
 ### Software
 
@@ -66,17 +61,14 @@ Our research edition modems are designed to bridge the gap between developing ap
 | User Interface                         | Interactive web UI                        |
 | Software Interfaces                    | Java, Groovy, Python, C, Javascript, Julia, Matlab|
 
-Visit [www.unetstack.net](http://www.unetstack.net) for more details.
-
 ### Electrical
 
 | Feature                                | Details                                   |
 | -------------------------------------- | ----------------------------------------- |
 | Power source                           | 22 - 28 VDC (24 VDC recommended)          |
 | Power consumption                      | < 4 W (receive mode, nominal)<br>< 25 W (transmit mode, avg.)|
-| Supported interfaces                   | Ethernet                                  |
+| External interface                     | Ethernet (10/100 Mbps)                    |
 | Onboard storage                        | 32 GB                                     |
-
 
 ### Mechanical
 
@@ -85,20 +77,7 @@ Visit [www.unetstack.net](http://www.unetstack.net) for more details.
 | Hull material                          | Acrylic                                   |
 | Operating depth                        | 100 m                                     |
 | Dimensions                             | ⌀ 130 ✕ 290 mm                            |
-| Weight                                 | SC: 3.0 / 1.0 kg (air / water)            |
-
-
-### Additional features
-
-| Feature                                | Details                                   |
-| -------------------------------------- | ----------------------------------------- |
-| Wake-up support                        | Ethernet                                  |
-| Arbitary waveform transmission         | Supported                                 |
-| Raw waveform reception - passband      | Supported                                 |
-| Raw waveform reception - baseband      | Supported                                 |
-
-- Optional upgrades and accessories are available [here](./accessories.md).
-
+| Operating temperature                  | 0 to 40 °C                                |
 
 ## TODO: Contact US for a quote
 
@@ -111,6 +90,3 @@ Visit [www.unetstack.net](http://www.unetstack.net) for more details.
   <a href="{{site.baseurl}}/brochures/Subnero-Modem-Specifications-v4.0.pdf"><img class="brochure-thumb" src="{{site.baseurl}}/brochures/spec.jpg"></a>
   <a href="{{site.baseurl}}/brochures/Subnero-Modem-Specifications-v4.0.pdf" target="_blank">Subnero Underwater Modems Technical Specifications</a>
 </div>
-
-## + Useful Links
-- TODO

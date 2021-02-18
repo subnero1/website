@@ -14,10 +14,13 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 ## Key Features
 - Up to 15 kbps data rate\*.
 - Up to 5 km communication range in tropical waters.
+- Ranging functionality with 0.1 m precision.
 - Doppler resiliance of ±4 knots or better.
 - Support for coherent and incoherent communication schemes.
 - Support for arbitrary signal transmission as well as recording (passband, baseband).
 - Support for user defined communication schemes using [UnetStack]({{ site.baseurl }}{%link products/unet.md %}).
+
+\* Depending on channel conditions and reliability requirements.
 
 <div class='one spacing'></div>
 
@@ -48,43 +51,32 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 
 <h2 style="text-transform: none;" id="p_techspec">+ TECHNICAL SPECIFICATIONS</h2>
 
-### Acoustics
+### Communication
 
 | Feature                                | Details                                   |
 | -------------------------------------- | ----------------------------------------- |
-| Data rate                              | Up to 15 kbps*                            |
-| Operating range                        | 3-5 km (nominal, depending on channel conditions)|
-| Ranging precision                      | 0.1 m                                     |
-| Doppler resilience                     | ±4 knots or better                        |
 | Modulation (software defined)          | PSK-OFDM, FH-BFSK                         |
 | FEC (Forward Error Correction)         | - LDPC (up to 1/6 rate code)<br>- JANUS (1/2 rate convolution code)|
 | JANUS support                          | Yes, subject to operating frequency band  |
 | Carrier frequency                      | 24 kHz                                    |
 | Bandwidth                              | 12 kHz (20 - 32 kHz)                      |
 | Source level                           | 185 dB re 1 µPa @ 1 m rms (nominal)       |
-| Beam pattern                           | Omnidirectional                           |
-
-
-\*(depending on channel conditions and reliability requirements)
-
 
 ### Software
 
 | Feature                                | Details                                   |
 | -------------------------------------- | ----------------------------------------- |
 | Framework                              | [UnetStack]({{ site.baseurl }}{%link products/unet.md %})|
-| User Interface                         | Interactive web UI                        |
-| Software Interfaces                    | Java, Groovy, Python, C, Javascript, Julia, Matlab|
-
-Visit [www.unetstack.net](http://www.unetstack.net) for more details.
+| User interface                         | Interactive web UI                        |
+| Software interfaces                    | Java, Groovy, Python, C, Javascript, Julia, Matlab|
 
 ### Electrical
 
 | Feature                                | Details                                   |
 | -------------------------------------- | ----------------------------------------- |
-| Power source                           | 22 - 28 VDC (24 VDC recommended)          |
-| Power consumption                      | < 4 W (receive mode, nominal)<br>< 60 W (transmit mode, avg.)<br>< 80 W (transmit mode, max.)<br><1.5 W (sleep mode)|
-| Supported interfaces                   | Ethernet, RS232                           |
+| Power supply                           | 22 - 28 VDC (24 VDC recommended)          |
+| Power consumption                      | < 4 W (receive mode, nominal)<br>< 60 W (transmit mode, avg.)<br>< 80 W (transmit mode, max.)<br>< 1.5 W (sleep mode)|
+| External interface                     | Ethernet (10/100 Mbps), RS232 (115200 bps)|
 
 
 ### Mechanical
@@ -93,20 +85,11 @@ Visit [www.unetstack.net](http://www.unetstack.net) for more details.
 | -------------------------------------- | ----------------------------------------- |
 | Hull material                          | Aluminium                                 |
 | Operating depth                        | Hull: 300 m<br> Transducer: 2000 m        |
-| Dimensions                             | SC: ⌀ 127 ✕ 400 mm<br> EC: 90 ✕ 90 ✕ 180 mm |
-| Weight                                 | SC: 6.0 / 2.5 kg (air / water)<br> EC: 1.0 kg (air)|
-
-### Additional features
-
-| Feature                                | Details                                   |
-| -------------------------------------- | ----------------------------------------- |
-| Wake-up support                        | Acoustic, Ethernet, RS232                 |
-| Arbitary waveform transmission         | Supported                                 |
-| Raw waveform recording - passband      | Supported                                 |
-| Raw waveform recording - baseband      | Supported                                 |
+| Dimensions                             | SC: ⌀ 127 ✕ 400 mm<br> EC: 90 ✕ 90 ✕ 180 mm|
+| Operating temperature                  | SC: 0 to 50 °C<br>EC: 0 to 70 °C (Electronics), 0 to 50 °C (Transducer)|
 | Supported MIL standards                | MIL-STD-810G, MIL-STD-810E, MIL-STD-461E  |
 
-- Optional upgrades and accessories are available [here](./accessories.md).
+- Details of optional upgrades and accessories available [here](./accessories.md).
 
 ## TODO: Contact US for a quote
 
@@ -121,5 +104,3 @@ Visit [www.unetstack.net](http://www.unetstack.net) for more details.
   <a href="{{site.baseurl}}/brochures/Subnero-Modem-Specifications-v4.0.pdf" target="_blank">Subnero Underwater Modems Technical Specifications</a>
 </div>
 
-## + Useful Links
-- TODO
