@@ -8,9 +8,9 @@ categories: modem
 section_id: products
 ---
 
-## Research Edition Standalone Configuration Modem
+## Research Edition Modem
 
-Our research edition modems are designed to bridge the gap between developing applications using a [simulator]({{ site.baseurl }}{%link products/unet.md %}) and high-end commercial deployments. Due to its low cost, these modems provide an easier entry to the world of underwater communications to any underwater technology enthusiasts. The modem runs the [UnetStack]({{ site.baseurl }}{%link products/unetstack.md %}) underwater networking stack, and provides a wide-range of functionality such as data transmission & reception, navigation, time synchronization, and networked operations.
+Our research edition modems are designed to bridge the gap between developing applications using a [simulator]({{ site.baseurl }}{%link products/unet.md %}) and high-end commercial deployments. Due to its low cost, these modems provide an easier entry to the world of underwater communications to any underwater technology enthusiasts.
 
 ## Key Features
 
@@ -29,7 +29,6 @@ Our research edition modems are designed to bridge the gap between developing ap
     <img class = "align-self-start mr-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-m25mrs3.jpg"/>
     <div class='media-body product product-content'>
     <h3 style="text-transform: none;" id="surface">Standalone Configuration</h3>
-        <h4 style="text-transform: none;">WNC-M25MRS3</h4>
         <p>A modem in the standalone configuration (SC) operates on external power source such as a battery (for underwater deployments) or a power supply (for deployments from the water surface).</p>
     </div>
   </div>

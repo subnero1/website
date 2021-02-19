@@ -8,9 +8,9 @@ categories: wnc
 section_id: products
 ---
 
-## Silver Edition Multi-channel Configuration Modem
+## Multi-channel Configuration Modem
 
-The Subnero underwater modems provide options for customization and extension at many levels. For many applications, it is often a requirement to record synchronized signals from multiple hydrophones in addition to the regular communication channel. Subnero's multi-channel modems, with multiple receiving channels provide this capability thereby enabling a plethora of new applications.
+Subnero underwater modems provide options for customization and extension at many levels. For many applications, it is often a requirement to record synchronized signals from multiple hydrophones in addition to the regular communication channel. Subnero's multi-channel modems, with multiple receiving channels provide this capability thereby enabling a plethora of new applications.
 
 ## Key Features
 
@@ -54,7 +54,6 @@ The Subnero underwater modems provide options for customization and extension at
 </div>
 
 <div class='two spacing'></div>
-
 
 <h2 style="text-transform: none;" id="m_techspec">+ TECHNICAL SPECIFICATIONS</h2>
 
