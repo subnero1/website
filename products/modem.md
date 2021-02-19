@@ -66,7 +66,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","modem" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Silver Edition Modems" %}
+  						{% if page.title contains "WNC-M25MSS3" %}
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mss3.jpg" />
 				          	<div class='content'>
@@ -81,7 +81,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","modem" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Silver Edition Modems" %}
+  						{% if page.title contains "WNC-M25MSE3" %}
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mse3.jpg" />
 				          	<div class='content'>
@@ -96,9 +96,9 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","wnc" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Multi-Channel Modems" %}
+  						{% if page.title contains "WNC-M25MSM3" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
+				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-multichannel.jpg" />
 				          	<div class='content'>
 				            <h2>Multi-Channel Configuration <br>WNC-M25MSM3</h2>
 				          	</div>
@@ -118,7 +118,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","modem" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Research Edition Modems" %}
+  						{% if page.title contains "WNC-M25MRS3" %}
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
 				          	<div class='content'>
