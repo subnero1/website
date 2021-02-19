@@ -8,9 +8,9 @@ categories: modem
 section_id: products
 ---
 
-## Silver Edition Embedded Configuration Modem
+## Silver Edition Modem
 
-Subnero's silver edition underwater modem is the workhorse communication node to be used in the general commercial deployments with larger range and depth-rating when compared to the research edition modem. This modem also provides options for customization and extension at many levels, allowing network protocols as well as physical layer algorithms to be implemented and tested easily.
+Subnero's silver edition underwater modem is the workhorse communication node to be used in the general commercial deployments. This modem also provides options for customization and extension at many levels, allowing network protocols as well as physical layer algorithms to be implemented and tested easily.
 
 ## Key Features
 
@@ -21,43 +21,18 @@ Subnero's silver edition underwater modem is the workhorse communication node to
 - Support for coherent and incoherent communication schemes.
 - Support for arbitrary signal transmission as well as recording (passband, baseband).
 - Support for user defined communication schemes using [UnetStack]({{ site.baseurl }}{%link products/unet.md %}).
-- Support for [multiple receiving channels](./multichannel.md) for a variety of applications.
 
 \* Depending on channel conditions and reliability requirements.
 
-
-<div class='one spacing'></div>
-
-## Available Configurations
-
 <div class='full' style='background: #f5f5f5'>
+
   <div class ='media product' >
     <img class = "align-self-start mr-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-m25mse3.jpg"/>
     <div class='media-body product product-content'>
-      <h3 style="text-transform: none;" id="embedded">Embedded Configuration</h3>
-      <h4 style="text-transform: none;">WNC-M25MSE3</h4>
-      <p>Designed with ease of integration and flexibilty as the primary focus, the embedded configuration (EC) is ideal for integration to bigger platforms such as AUV, ROVs or sensors. Available with pressure hull option for free flodded platforms.</p>
+    <h3 style="text-transform: none;" id="surface">Embedded Configuration</h3>
+        <p>Designed with ease of integration and flexibilty as the primary focus, the embedded configuration (EC) is ideal for integration to bigger platforms such as AUV, ROVs or sensors. Available with pressure hull option for free flodded platforms.</p>
     </div>
   </div>
-
-  <div class ='media product' style='background: #f5f5f5' >   
-    <div class='media-body product product-content' style='background: #f5f5f5'>
-      <h3 style="text-transform: none;" id="standalone">Standalone Configuration</h3>
-      <h4 style="text-transform: none;">WNC-M25MSS3</h4>
-      <p>A modem in the standalone configuration (SC) operates on external power source such as a battery (for underwater deployments) or a power supply (for deployments from the water surface).</p>
-    </div>
-    <img class = "ml-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-m25mss3.png"/> 
-  </div>
-
-  <div class ='media product' >
-    <img class = "align-self-start mr-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-multichannel2.jpg"/>
-    <div class='media-body product product-content'>
-      <h3 style="text-transform: none;">Multi-channel Configuration</h3>
-      <h4 style="text-transform: none;">WNC-M25MSM3</h4>
-      <p>Subnero's multi-channel configuration enables a variety of applications such as synchronized acoustic recording, exploitation of spatial diversity as well as underwater positioning (e.g. USBL). <a href="{{site.baseurl}}/products/multichannel.html" target="_blank">Read more.</a></p>
-    </div>
-  </div>
-
 </div>
 
 <div class='two spacing'></div>
@@ -96,15 +71,12 @@ Subnero's silver edition underwater modem is the workhorse communication node to
 
 | Feature                                | Details                                   |
 | -------------------------------------- | ----------------------------------------- |
-| Hull material                          | Aluminium*                                |
-| Operating depth                        | Hull: 100 m*<br> Transducer: 2000 m        |
-| Dimensions                             | SC: ⌀ 127 ✕ 280 mm<br> EC: ⌀ 105 ✕ 150 mm |
-| Operating temperature                  | SC: 0 to 40 °C<br>EC: 0 to 70 °C (Electronics), 0 to 40 °C (Transducer)|
+| Hull material                          | Aluminium                                 |
+| Operating depth                        | 2000 m (Transducer)                       |
+| Dimensions                             | ⌀ 105 ✕ 150 mm                            |
+| Operating temperature                  | 0 to 70 °C (Electronics), 0 to 40 °C (Transducer)|
 
-\* Upgrades available
-
-- Details of optional upgrades and accessories available [here](./accessories.md).
-
+\* Upgrades available. [Read more](./accessories.md).
 
 ## TODO: Contact US for a quote
 
