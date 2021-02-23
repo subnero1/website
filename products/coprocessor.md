@@ -22,7 +22,15 @@ excerpt: Coprocessor for Subnero underwater modems.
       <ul class='gfXsQG'>
         <li class='fuqHMA'>
             <div class='mod modBlogPost'>
-              <img src='/images/boxart-wnc-m25mse3.jpg'>
+              <img id='main-img' src='/images/accessories-batterypack01.jpg'>
+            </div>
+            <div class='modGallery extra'>
+              <ul class='media modTeamMember gallery shortcode-list'>
+                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-batterypack01.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack02.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack03.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack04.jpg'></a></li>
+              </ul>
             </div>
         </li>
         <li class='fuqHMA'>
@@ -68,3 +76,4 @@ excerpt: Coprocessor for Subnero underwater modems.
   </div>
 </div>
 {%- include collapse.html -%}
+{%- include display.html -%}
