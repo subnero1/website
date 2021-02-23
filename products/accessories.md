@@ -139,7 +139,7 @@ excerpt: Optional upgrades and accessories for Subnero underwater modems.
   						{% for page in product_pages %}
   						{% if page.title contains "Battery Packs" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mps3.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-storage.jpg" />
 				          	<div class='content'>
 				            <h2>Storage</h2>
 				          </div></a>
@@ -169,7 +169,7 @@ excerpt: Optional upgrades and accessories for Subnero underwater modems.
   						{% for page in product_pages %}
   						{% if page.title contains "Battery Packs" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mpe3.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-rs232.jpg" />
 				          	<div class='content'>
 				            <h2>External Interfaces</h2>
 				          </div></a>
@@ -226,7 +226,7 @@ excerpt: Optional upgrades and accessories for Subnero underwater modems.
   						{% for page in product_pages %}
   						{% if page.title contains "Battery Packs" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mps3.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-cables.jpg" />
 				          	<div class='content'>
 				            <h2>Cables</h2>
 				          </div></a>
@@ -241,24 +241,9 @@ excerpt: Optional upgrades and accessories for Subnero underwater modems.
   						{% for page in product_pages %}
   						{% if page.title contains "Battery Packs" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mpe3.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-clamps.jpg" />
 				          	<div class='content'>
 				            <h2>Clamps</h2>
-				          </div></a>
-				        </div>
-				        {% endif %}
-				        {% endfor %}
-					</div>
-				</li>
-				<li class="fuqHMA">
-					<div class="hOXnHC">
-						{% assign product_pages = site.pages | where:"categories","accessories" %}
-  						{% for page in product_pages %}
-  						{% if page.title contains "Battery Packs" %}
-				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mpe3.jpg" />
-				          	<div class='content'>
-				            <h2>Bulkhead connectors</h2>
 				          </div></a>
 				        </div>
 				        {% endif %}
