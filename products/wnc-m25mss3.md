@@ -8,7 +8,7 @@ categories: modem
 section_id: products
 ---
 
-## Silver Edition Modem
+## Silver Edition Standalone Configuration Modem
 
 Subnero's silver edition underwater modem is the workhorse communication node to be used in the general commercial deployments. This modem also provides options for customization and extension at many levels, allowing network protocols as well as physical layer algorithms to be implemented and tested easily.
 
