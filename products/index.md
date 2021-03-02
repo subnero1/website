@@ -58,18 +58,6 @@ excerpt: Subnero's underwater acoustic modems with UnetStack for underwater wire
   </a>
     {% endfor %}
 
-  {% assign product_pages = site.pages | where:"categories","daq" %}
-  {% for page in product_pages %}
-  <a href="{{site.baseurl}}{{page.url}}">
-  <div class ='media product' style='background:#F5F5F5;'>      
-    <div class='media-body product product-content' style='background:#F5F5F5'>
-    <h3 style="text-transform: none;">Acoustic Monitoring Systems</h3>
-    <p>Modular systems for acoustic data acquisition and monitoring.</p>
-    </div>
-    <img class='ml-3' alt="" src="{{site.baseurl}}/{{page.thumbnail}}"/>
-  </div>
-  </a>
-  {% endfor %}
 <div class='four spacing'></div>
 </div>
 </div>

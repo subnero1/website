@@ -30,7 +30,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","modem" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Platinum Edition Modems" %}
+  						{% if page.title contains "WNC-M25MPS3" %}
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mps3.jpg" />
 				          	<div class='content'>
@@ -45,7 +45,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","modem" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Platinum Edition Modems" %}
+  						{% if page.title contains "WNC-M25MPE3" %}
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-m25mpe3.jpg" />
 				          	<div class='content'>
