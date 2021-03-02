@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Battery Packs
+title: Primary Battery Packs
 banner : images/banner-solutions.jpg
 thumbnail: images/boxart-modem.jpg
 categories: accessories
@@ -29,16 +29,16 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
                 <li class="member current-li"><a class='image-nav'><img src='/images/accessories-batterypack01.jpg'></a></li>
                 <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack02.jpg'></a></li>
                 <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack03.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack04.jpg'></a></li>
               </ul>
             </div>
         </li>
         <li class='fuqHMA'>
           <div class='modSectionHeader col2'>
-            <h1>Underwater Battery Pack</h1>
+            <h1>Primary Battery Pack</h1>
+            <h3>Pressure Rated Underwater Battery Pack</h3>
             <ul>
-              <li>Primary and rechargeable options</li>
-              <li>Designed for easy </li>
+              <li>18 Alkaline D-Cells</li>
+              <li>User replaceable</li>
             </ul>
           </div>
         </li>
@@ -69,8 +69,8 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
           </div>
           <div class='media modBlogPost collapsible-content' id = 'batCompatibilitydata'>
             <ul class="shortcode-list">
-              <li> WNC-M25MSS3: Silver Edition Standalone Configuration</li>
-              <li> WNC-M25MRS3: Research Edition Standalone Configuration</li>
+              <li><a href="{{site.baseurl}}/products/wnc-m25mps3">WNC-M25MPS3 - Platinum Edition Standalone Configuration Modem</a></li>
+              <li><a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a></li>
             </ul>
           </div>
       </div>

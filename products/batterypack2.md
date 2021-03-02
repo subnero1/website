@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Coprocessor
+title: Rechargeable Battery Packs
 banner : images/banner-solutions.jpg
 thumbnail: images/boxart-modem.jpg
 categories: accessories
-excerpt: Coprocessor for Subnero underwater modems.
+excerpt: Underwater battery packs for deployment of Subnero underwater modems.
 ---
 
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>
@@ -22,22 +22,23 @@ excerpt: Coprocessor for Subnero underwater modems.
       <ul class='gfXsQG'>
         <li class='fuqHMA'>
             <div class='mod modBlogPost'>
-              <img id='main-img' src='/images/accessories-coprocessor01.jpg'>
+              <img id='main-img' src='/images/accessories-batterypack01.jpg'>
             </div>
             <div class='modGallery extra'>
               <ul class='media modTeamMember gallery shortcode-list'>
-                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-coprocessor01.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-coprocessor02.jpg'></a></li>
+                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-batterypack01.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack02.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack04.jpg'></a></li>
               </ul>
             </div>
         </li>
         <li class='fuqHMA'>
           <div class='modSectionHeader col2'>
-            <h1> nVidia Jetson TX1/TX2</h1>
+            <h1>Underwater Rechargeable Battery Pack</h1>
+            <h3>Pressure Rated Underwater Battery Pack</h3>
             <ul>
-              <li>256-core NVIDIA Pascal™ GPU architecture with 256 NVIDIA CUDA cores</li>
-              <li>Dual-Core NVIDIA Denver 2 64-Bit CPU</li>
-              <li>8GB 128-bit LPDDR4 Memory</li>
+              <li>7S </li>
+              <li>ddd</li>
             </ul>
           </div>
         </li>
@@ -45,14 +46,16 @@ excerpt: Coprocessor for Subnero underwater modems.
       <hr>
       <div class='cGBxoB'>
         <div class='media hOXnHC modBlogPost'>
-          <h2> Product Information</h2>
+          <h2>Production Information</h2>
           <a class='media-body links collapsible' id ='batProduct'>
             <h2 class='right' id='batProduct-icon'>-</h2>
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
+          <p>Designed to be used with Subnero underwater modems, the battery packs are available with both primary and rehcargeable options. These are ideal for longer term deployments of various Subnero products.</p>
           <ul class="shortcode-list">
-            <li> While Subnero modems provide flexibility to extend various aspects of the device by the user, there are at times when a customer may want to deploy their applications and algorithms to run with close proximity to the modem hardware. The co-processor option provides a powerful secondary Single Board Computer (SBC) with a Linux distribution connected directly to the modem. This SBC is directly accessible by the user over an IP address in the same subnet as the modem. Once logged into the co-processor, the customer can access the modem over the IP network, using a set of standard Unet APIs that are preinstalled in the coprocessor.</li>
+            <li>TODO: Table with following information</li>
+            <li>TODO: Table with following information</li>
           </ul>
         </div>
       </div>
@@ -66,8 +69,8 @@ excerpt: Coprocessor for Subnero underwater modems.
           </div>
           <div class='media modBlogPost collapsible-content' id = 'batCompatibilitydata'>
             <ul class="shortcode-list">
+              <li><a href="{{site.baseurl}}/products/wnc-m25mps3">WNC-M25MPS3 - Platinum Edition Standalone Configuration Modem</a></li>
               <li><a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a></li>
-              <li><a href="{{site.baseurl}}/products/wnc-m25mse3">WNC-M25MSE3 - Silver Edition Embedded Configuration Modem</a></li>
             </ul>
           </div>
       </div>
