@@ -33,7 +33,7 @@ excerpt: Coprocessor for Subnero underwater modems.
         </li>
         <li class='fuqHMA'>
           <div class='modSectionHeader col2'>
-            <h1> nVidia Jetson TX1/TX2</h1>
+            <h1> nVidia Jetson TX2</h1>
             <ul>
               <li>256-core NVIDIA Pascal™ GPU architecture with 256 NVIDIA CUDA cores</li>
               <li>Dual-Core NVIDIA Denver 2 64-Bit CPU</li>
