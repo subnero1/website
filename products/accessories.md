@@ -2,7 +2,7 @@
 layout: default
 title: Subnero Modem Accessories
 banner : images/banner-modem.jpg
-thumbnail: images/boxart-modem.jpg
+thumbnail: images/thumbnail-accessories.jpg
 categories: accessories
 section_id: products
 excerpt: Optional upgrades and accessories for Subnero underwater modems.

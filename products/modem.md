@@ -133,7 +133,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
 			</ul>
 		</div>
 		<div class='cmXrEt'>
-			<h1 class='thin' style='text-align: center'>Optional Upgrades & Accessories</h1>
+			<h1 class='thin' style='text-align: center'>Optional Accessories and Upgrades</h1>
 			<ul class="gfXsQG">
 				<li class="fuqHMA"></li>
 				<li class="fuqHMA">
