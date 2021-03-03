@@ -22,23 +22,23 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
       <ul class='gfXsQG'>
         <li class='fuqHMA'>
             <div class='mod modBlogPost'>
-              <img id='main-img' src='/images/accessories-batterypack01.jpg'>
+              <img id='main-img' src='/images/accessories-batterypack02.jpg'>
             </div>
             <div class='modGallery extra'>
               <ul class='media modTeamMember gallery shortcode-list'>
-                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-batterypack01.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack02.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack04.jpg'></a></li>
+                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-batterypack02.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack05.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack06.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack01.jpg'></a></li>
               </ul>
             </div>
         </li>
         <li class='fuqHMA'>
           <div class='modSectionHeader col2'>
-            <h1>Underwater Rechargeable Battery Pack</h1>
-            <h3>Pressure Rated Underwater Battery Pack</h3>
+            <h1>Rechargeable Battery Pack</h1>
             <ul>
-              <li>7S </li>
-              <li>ddd</li>
+              <li>Li-ion battery pack</li>
+              <li>Ideal for sea bed deployments</li>
             </ul>
           </div>
         </li>
@@ -52,11 +52,42 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
-          <p>Designed to be used with Subnero underwater modems, the battery packs are available with both primary and rehcargeable options. These are ideal for longer term deployments of various Subnero products.</p>
-          <ul class="shortcode-list">
-            <li>TODO: Table with following information</li>
-            <li>TODO: Table with following information</li>
-          </ul>
+          <p>Designed to be used with Subnero underwater modems, the rehcargeable battery packs are ideal for seabed deployments.</p>
+          <h3>Specifications</h3>
+          <table style="width:100%">
+            <tr>
+              <td>Chemistry</td>
+              <td>Li-ion</td>
+            </tr>
+            <tr>
+              <td>Maximum voltage</td>
+              <td>16.8 V</td>
+            </tr>
+            <tr>
+              <td>Nominal voltage</td>
+              <td>14.5 V</td>
+            </tr>
+            <tr>
+              <td>Threshold voltage</td>
+              <td>12.5 V</td>
+            </tr>
+            <tr>
+              <td>Capacity</td>
+              <td>26 Ah</td>
+            </tr>
+            <tr>
+              <td>Dimensions</td>
+              <td>ø 127 x 361 mm</td>
+            </tr>
+            <tr>
+              <td>Weight (in air / water)</td>
+              <td>7.5 / 4 kg</td>
+            </tr>
+            <tr>
+              <td>Available depth ratings</td>
+              <td>100 m, 300 m</td>
+            </tr>
+          </table>
         </div>
       </div>
       <hr>
