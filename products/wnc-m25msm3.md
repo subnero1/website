@@ -26,6 +26,7 @@ Subnero underwater modems provide options for customization and extension at man
 <!-- - Software upgarde option for [Unity](./unity.md) to enhance communication performance using spatial diversity techniques -->
 <!-- - Software upgarde option for enabling [USBL](./usbl.md) functionality -->
 
+<h3><a href="mailto:sales@subnero.com">Contact US for a quote</a></h3>
 
 <div id="embedded"></div>
 <div class='full' style='background: #f5f5f5'>
@@ -76,8 +77,6 @@ Subnero underwater modems provide options for customization and extension at man
 | -------------------------------------- | ----------------------------------------- |
 | Power consumption                      | < 7 W (receive mode, nominal)<br>< 60 W (transmit mode, avg.)<br>< 80 W (transmit mode, max.)|
 | Dimensions                             | ⌀ 127 ✕ 324 mm                            |
-
-## TODO: Contact US for a quote
 
 ## + Useful Links
 - [Underwater modem with a secondary data acquisition system](https://subnero.com/wnc/2017/12/12/Underwater-modem-with-multiple-hydrophones.html)

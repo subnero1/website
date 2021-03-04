@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Storage
+title: Interfaces
 banner : images/banner-solutions.jpg
-thumbnail: images/thumbnail-storage.jpg
+thumbnail: images/thumbnail-rs232.jpg
 categories: accessories
-excerpt: Additional storage for Subnero underwater modems.
+excerpt: Electrical interfaces for Subnero underwater modems
 ---
 
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>

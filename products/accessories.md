@@ -33,7 +33,7 @@ excerpt: Optional upgrades and accessories for Subnero underwater modems.
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-coprocessor.jpg" />
 				          	<div class='content'>
-				            <h2>nVidia Jeston TX1/TX2</h2>
+				            <h2>nVidia Jeston TX2</h2>
 				          </div></a>
 				        </div>
 				        {% endif %}
@@ -52,7 +52,7 @@ excerpt: Optional upgrades and accessories for Subnero underwater modems.
   						{% for page in product_pages %}
   						{% if page.title contains "Primary Battery Packs" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/accessories-batterypack02.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-batterypack.jpg" />
 				          	<div class='content'>
 				            <h2>Primary Battery Packs</h2>
 				          </div></a>
@@ -67,7 +67,7 @@ excerpt: Optional upgrades and accessories for Subnero underwater modems.
   						{% for page in product_pages %}
   						{% if page.title contains "Rechargeable Battery Packs" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/accessories-batterypack02.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-batterypack.jpg" />
 				          	<div class='content'>
 				            <h2>Rechargeable Battery Packs</h2>
 				          </div></a>

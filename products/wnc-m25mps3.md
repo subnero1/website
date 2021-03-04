@@ -24,6 +24,8 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 
 \* Depending on channel conditions and reliability requirements.
 
+<h3><a href="mailto:sales@subnero.com">Contact US for a quote</a></h3>
+
 <div class='one spacing'></div>
 
 <div id="embedded"></div>
@@ -83,10 +85,7 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 | Workmanship                            | - IPC class 2A<br> - Conformal coating<br> - Environmental Stress Screening (ESS)|
 
 
-## TODO: Contact US for a quote
-
-
-## Brochures
+## + Brochures
 <div class="brochure-container">
   <a href="{{site.baseurl}}/brochures/Subnero-Modem-v4.0.pdf"><img class="brochure-thumb" src="{{site.baseurl}}/brochures/modem4.jpg"></a>
   <a href="{{site.baseurl}}/brochures/Subnero-Modem-v4.0.pdf" target="_blank">Subnero Underwater Modems</a>

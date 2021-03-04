@@ -23,6 +23,8 @@ Our research edition modems are designed to bridge the gap between developing ap
 
 \* Depending on channel conditions and reliability requirements.
 
+<h3><a href="mailto:sales@subnero.com">Contact US for a quote</a></h3>
+
 <div class='full' style='background: #f5f5f5'>
 
   <div class ='media product' >
@@ -75,9 +77,7 @@ Our research edition modems are designed to bridge the gap between developing ap
 | Dimensions                             | ⌀ 130 ✕ 290 mm                            |
 | Operating temperature                  | 0 to 40 °C                                |
 
-## TODO: Contact US for a quote
-
-<h2>Brochures</h2>
+## + Brochures
 <div class="brochure-container">
   <a href="{{site.baseurl}}/brochures/Subnero-Modem-v4.0.pdf"><img class="brochure-thumb" src="{{site.baseurl}}/brochures/modem4.jpg"></a>
   <a href="{{site.baseurl}}/brochures/Subnero-Modem-v4.0.pdf" target="_blank">Subnero Underwater Modems</a>
