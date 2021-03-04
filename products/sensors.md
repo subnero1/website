@@ -2,9 +2,9 @@
 layout: default
 title: Sensors
 banner : images/banner-solutions.jpg
-thumbnail: images/boxart-modem.jpg
+thumbnail: images/thumbnail-sensors.jpg
 categories: accessories
-excerpt: Underwater battery packs for deployment of Subnero underwater modems.
+excerpt: Additional sensors for Subnero underwater modems.
 ---
 
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>
@@ -27,15 +27,15 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
             <div class='modGallery extra'>
               <ul class='media modTeamMember gallery shortcode-list'>
                 <li class="member current-li"><a class='image-nav'><img src='/images/accessories-sensors01.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-storage02.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-storage03.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-storage04.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-sensors02.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-sensors03.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-sensors04.jpg'></a></li>
               </ul>
             </div>
         </li>
         <li class='fuqHMA'>
           <div class='modSectionHeader col2'>
-            <h1>Additional Sensors</h1>
+            <h1>Sensors</h1>
             <ul>
               <li>Attitude and Heading Reference System (AHRS)</li>
               <li>GPS</li>
@@ -54,7 +54,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
-          <p>Integrate additional sensors such as GPS, compass, low drift clocks to your devices to enable development of applications for localization & positioning, sonar, etc.</p>
+          <p>Integrate additional sensors such as GPS, compass, low drift clocks to your devices to enable a new range of applications such as localization & positioning, sonar, etc.</p>
           <h3>Specifications</h3>
           <table style="width:100%">
             <tr>
@@ -71,7 +71,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
             </tr>
             <tr>
               <td>Low-drift clock</td>
-              <td>TODO</td>
+              <td>Oven Controlled Crystal Oscillator (25 ppb)</td>
             </tr>
           </table>
         </div>
