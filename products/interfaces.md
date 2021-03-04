@@ -22,23 +22,23 @@ excerpt: Electrical interfaces for Subnero underwater modems
       <ul class='gfXsQG'>
         <li class='fuqHMA'>
             <div class='mod modBlogPost'>
-              <img id='main-img' src='/images/accessories-storage01.jpg'>
+              <img id='main-img' src='/images/accessories-interfaces01.jpg'>
             </div>
             <div class='modGallery extra'>
               <ul class='media modTeamMember gallery shortcode-list'>
-                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-storage01.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-storage02.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-storage03.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-storage04.jpg'></a></li>
+                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-interfaces01.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-interfaces02.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-interfaces03.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-interfaces04.jpg'></a></li>
               </ul>
             </div>
         </li>
         <li class='fuqHMA'>
           <div class='modSectionHeader col2'>
-            <h1>Storage</h1>
+            <h1>Interfaces</h1>
             <ul>
-              <li>SD card or USB storage</li>
-              <li>Up to 1 TB</li>
+              <li>RS232</li>
+              <li>Baud rate: 115200 bps</li>
             </ul>
           </div>
         </li>
@@ -52,8 +52,7 @@ excerpt: Electrical interfaces for Subnero underwater modems
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
-          <p>Increase the storage space available for your devices with additonal storage options.</p>
-          <p>Available sizes: 64 GB, 128 GB, 256 GB, 512 GB, 1 TB</p>
+          <p>Support for legacy systems using RS232.</p>
         </div>
       </div>
       <hr>

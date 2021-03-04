@@ -28,6 +28,8 @@ excerpt: Coprocessor for Subnero underwater modems.
               <ul class='media modTeamMember gallery shortcode-list'>
                 <li class="member current-li"><a class='image-nav'><img src='/images/accessories-coprocessor01.jpg'></a></li>
                 <li class="member"><a class='image-nav'><img src='/images/accessories-coprocessor02.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-coprocessor03.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-coprocessor04.jpg'></a></li>
               </ul>
             </div>
         </li>
