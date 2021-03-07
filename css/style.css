@@ -1068,6 +1068,14 @@ form input.error, form textarea.error {
   margin-bottom: 30px;
 }
 
+.sales-form {
+  width:50%;
+}
+
+.sales-form label{
+  font-size: 1.2em;
+}
+
 /*Pager */
 .pager {
   width: 97%;
@@ -4764,7 +4772,7 @@ menu, dir {
   margin-bottom: 3em;
   margin-left: 3em;
   text-align: center;
-  width:20em;
+  width:30em;
 }
 
 
