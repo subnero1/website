@@ -20,21 +20,21 @@ excerpt: Coprocessor for Subnero underwater modems.
 <div class='full'>
   <div class='row'>
       <ul class='gfXsQG'>
-        <li class='fuqHMA'>
-            <div class='mod modBlogPost'>
+        <li class='accessories'>
+            <div class='mod modBlogPost big'>
               <img id='main-img' src='/images/accessories-coprocessor01.jpg'>
             </div>
-            <div class='modGallery extra'>
-              <ul class='media modTeamMember gallery shortcode-list'>
-                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-coprocessor01.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-coprocessor02.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-coprocessor03.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-coprocessor04.jpg'></a></li>
-              </ul>
+            <div class='modGallery'>
+              <div class='media modTeamMember gallery shortcode-list'>
+                <div class="member current-li"><a class='image-nav'><img src='/images/accessories-coprocessor01.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-coprocessor02.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-coprocessor03.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-coprocessor04.jpg'></a></div>
+              </div>
             </div>
         </li>
-        <li class='fuqHMA'>
-          <div class='modSectionHeader col2'>
+        <li class='accessories'>
+          <div class='hOXnHC'>
             <h1> nVidia Jetson TX2</h1>
             <ul>
               <li>256-core NVIDIA Pascal™ GPU architecture with 256 NVIDIA CUDA cores</li>
