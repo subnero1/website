@@ -20,11 +20,11 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
 <div class='full'>
   <div class='row'>
       <ul class='gfXsQG'>
-        <li class='fuqHMA'>
-            <div class='mod modBlogPost'>
+        <li class='accessories'>
+            <div class='mod modBlogPost big'>
               <img id='main-img' src='/images/accessories-batterypack02.jpg'>
             </div>
-            <div class='modGallery extra'>
+            <div class='modGallery'>
               <ul class='media modTeamMember gallery shortcode-list'>
                 <li class="member current-li"><a class='image-nav'><img src='/images/accessories-batterypack02.jpg'></a></li>
                 <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack05.jpg'></a></li>
@@ -33,8 +33,8 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
               </ul>
             </div>
         </li>
-        <li class='fuqHMA'>
-          <div class='modSectionHeader col2'>
+        <li class='accessories'>
+          <div class='hOXnHC'>
             <h1>Rechargeable Battery Pack</h1>
             <ul>
               <li>Li-ion battery pack</li>
