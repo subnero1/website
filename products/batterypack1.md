@@ -89,7 +89,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
       <hr>
       <div class='cGBxoB'>
           <div class='media hOXnHC modBlogPost'>
-            <h2> Compatibility</h2>
+            <h2>Compatibility</h2>
             <a class='media-body links collapsible' id ='batCompatibility'>
             <h2 class='right' id='batCompatibility-icon'>-</h2>
           </a>
@@ -98,6 +98,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
             <ul class="shortcode-list">
               <li><a href="{{site.baseurl}}/products/wnc-m25mps3">WNC-M25MPS3 - Platinum Edition Standalone Configuration Modem</a></li>
               <li><a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a></li>
+              <li><a href="{{site.baseurl}}/products/wnc-m25mss3+xch">WNC-M25MSS3+xCh - Silver Edition Multi-Channel Configuration Modem</a></li>
             </ul>
           </div>
       </div>
