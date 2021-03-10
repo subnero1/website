@@ -40,10 +40,7 @@ Subnero's silver edition underwater modem is the workhorse communication node to
 
 <div class='two spacing'></div>
 <h2 style="text-transform: none;" id="s_techspec">+ TECHNICAL SPECIFICATIONS</h2>
-<details>
-  <summary><h2>TECHNICAL SPECIFICATIONS</h2></summary>
 
-<pre>
 ### Communication
 
 | Feature                                | Details                                   |
@@ -82,9 +79,6 @@ Subnero's silver edition underwater modem is the workhorse communication node to
 | Operating temperature                  | 0 to 40 °C                                |
 
 \* Upgrades available. [Read more](./accessories.md).
-</pre>
-
-</details>
 
 ## + Brochures
 <div class="brochure-container">
