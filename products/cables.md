@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cables
-banner : images/banner-solutions.jpg
+banner : images/banner-mechanical.jpg
 thumbnail: images/thumbnail-cables.jpg
 categories: accessories
 excerpt: Additional storage for Subnero underwater modems.
@@ -22,23 +22,23 @@ excerpt: Additional storage for Subnero underwater modems.
       <ul class='gfXsQG'>
         <li class='accessories'>
             <div class='mod modBlogPost big'>
-              <img id='main-img' src='/images/accessories-hull01.jpg'>
+              <img id='main-img' src='/images/accessories-cables01.jpg'>
             </div>
             <div class='modGallery'>
               <ul class='media modTeamMember gallery shortcode-list'>
-                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-hull01.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-hull02.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-hull03.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-hull04.jpg'></a></li>
+                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-cables01.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-cables02.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-cables03.jpg'></a></li>
+                <li class="member"><a class='image-nav'><img src='/images/accessories-cables04.jpg'></a></li>
               </ul>
             </div>
         </li>
         <li class='accessories'>
           <div class='hOXnHC'>
-            <h1>Stainless Steel Hull</h1>
+            <h1>Cables</h1>
             <ul>
-              <li>2000 m depth rated</li>
-              <li>Up to 1 TB</li>
+              <li>TODO: xx m Depth rated</li>
+              <li>Multiple connection options</li>
             </ul>
           </div>
         </li>
@@ -52,23 +52,55 @@ excerpt: Additional storage for Subnero underwater modems.
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
-          <p>Increase the storage space available for your devices with additonal storage options.</p>
-          <p>Available sizes: 64 GB, 128 GB, 256 GB, 512 GB, 1 TB</p>
+          <p>Available as both underwater and lab cables, Subnero cables provided the option to use Subnero products in a variety of conditions.</p>
         </div>
       </div>
       <hr>
       <div class='cGBxoB'>
           <div class='media hOXnHC modBlogPost'>
-            <h2> Compatibility</h2>
+            <h2>Compatibility</h2>
             <a class='media-body links collapsible' id ='batCompatibility'>
             <h2 class='right' id='batCompatibility-icon'>-</h2>
           </a>
           </div>
           <div class='media modBlogPost collapsible-content' id = 'batCompatibilitydata'>
-            <ul class="shortcode-list">
-              <li><a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a></li>
-              <li><a href="{{site.baseurl}}/products/wnc-m25mse3">WNC-M25MSE3 - Silver Edition Embedded Configuration Modem</a></li>
-            </ul>
+            <table style="width:100%">
+            <tr>
+              <td>Model Number</td>
+              <td>Type and Length</td>
+              <td>Termination - User</td>
+              <td>Termination - Device</td>
+              <td>Compatibility</td>
+            </tr>
+            <tr>
+              <td>TODO: xxxx</td>
+              <td>Underwater cable, 10 m</td>
+              <td>Power, Ethernet</td>
+              <td>Subconn xxx TODO</td>
+              <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+            </tr>
+            <tr>
+              <td>TODO: xxxx</td>
+              <td>Underwater cable, 25 m</td>
+              <td>Power, Ethernet</td>
+              <td>Subconn xxx TODO</td>
+              <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+            </tr>
+            <tr>
+              <td>TODO: xxxx</td>
+              <td>Underwater cable, 30 m</td>
+              <td>Power, Ethernet</td>
+              <td>Subconn xxx TODO</td>
+              <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+            </tr>
+            <tr>
+              <td>TODO: xxxx</td>
+              <td>Power cable, 5 m</td>
+              <td>Banana plugs</td>
+              <td>Barrel jack xxx TODO</td>
+              <td><a href="{{site.baseurl}}/products/wnc-m25mse3">Silver Edition Embedded Configuration</a></td>
+            </tr>
+          </table>
           </div>
       </div>
   </div>

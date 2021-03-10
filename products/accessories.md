@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Subnero Modem Accessories
-banner : images/banner-modem.jpg
+banner : images/banner-accessories.jpg
 thumbnail: images/thumbnail-accessories.jpg
 categories: accessories
 section_id: products
@@ -159,9 +159,9 @@ excerpt: Optional upgrades and accessories for Subnero underwater modems.
 					<div class="hOXnHC">
 						{% assign product_pages = site.pages | where:"categories","accessories" %}
   						{% for page in product_pages %}
-  						{% if page.title contains "Clamps" %}
+  						{% if page.title contains "Mechanical Accessories" %}
 				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-clamps.jpg" />
+				        	<a href="{{site.baseurl}}{{page.url}}#embedded"><img alt="" src="{{site.baseurl}}/images/thumbnail-mechanical.jpg" />
 				          	<div class='content'>
 				            <h2>Mechanical Accessories</h2>
 				          </div></a>

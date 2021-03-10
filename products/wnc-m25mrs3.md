@@ -83,6 +83,6 @@ Our research edition modems are designed to bridge the gap between developing ap
   <a href="{{site.baseurl}}/brochures/Subnero-Modem-v4.0.pdf" target="_blank">Subnero Underwater Modems</a>
 </div>
 <div class="brochure-container">
-  <a href="{{site.baseurl}}/brochures/Subnero-Modem-Specifications-v4.0.pdf"><img class="brochure-thumb" src="{{site.baseurl}}/brochures/spec.jpg"></a>
-  <a href="{{site.baseurl}}/brochures/Subnero-Modem-Specifications-v4.0.pdf" target="_blank">Subnero Underwater Modems Technical Specifications</a>
+  <a href="{{site.baseurl}}/brochures/Subnero-Modem-Specifications.pdf"><img class="brochure-thumb" src="{{site.baseurl}}/brochures/spec.jpg"></a>
+  <a href="{{site.baseurl}}/brochures/Subnero-Modem-Specifications.pdf" target="_blank">Subnero Underwater Modems Technical Specifications</a>
 </div>
