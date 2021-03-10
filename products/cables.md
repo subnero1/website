@@ -35,9 +35,9 @@ excerpt: Additional storage for Subnero underwater modems.
         </li>
         <li class='accessories'>
           <div class='hOXnHC'>
-            <h1>ables</h1>
+            <h1>Cables</h1>
             <ul>
-              <li>TODO: Depth rated</li>
+              <li>TODO: xx m Depth rated</li>
               <li>Multiple connection options</li>
             </ul>
           </div>

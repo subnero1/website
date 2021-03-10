@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rechargeable Battery Packs
-banner : images/banner-solutions.jpg
+banner : images/banner-battery.jpg
 thumbnail: images/accessories-batterypack02.jpg
 categories: accessories
 excerpt: Underwater battery packs for deployment of Subnero underwater modems.
