@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Interfaces
-banner : images/banner-solutions.jpg
+banner : images/banner-electrical.jpg
 thumbnail: images/thumbnail-rs232.jpg
 categories: accessories
 excerpt: Electrical interfaces for Subnero underwater modems
@@ -38,7 +38,7 @@ excerpt: Electrical interfaces for Subnero underwater modems
             <h1>Interfaces</h1>
             <ul>
               <li>RS232</li>
-              <li>Baud rate: 115200 bps</li>
+              <li>Support for up to 115200 bps</li>
             </ul>
           </div>
         </li>
@@ -58,7 +58,7 @@ excerpt: Electrical interfaces for Subnero underwater modems
       <hr>
       <div class='cGBxoB'>
           <div class='media hOXnHC modBlogPost'>
-            <h2> Compatibility</h2>
+            <h2>Compatibility</h2>
             <a class='media-body links collapsible' id ='batCompatibility'>
             <h2 class='right' id='batCompatibility-icon'>-</h2>
           </a>

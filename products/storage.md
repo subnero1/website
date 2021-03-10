@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Storage
-banner : images/banner-solutions.jpg
+banner : images/banner-electrical.jpg
 thumbnail: images/thumbnail-storage.jpg
 categories: accessories
 excerpt: Additional storage for Subnero underwater modems.
@@ -37,8 +37,7 @@ excerpt: Additional storage for Subnero underwater modems.
           <div class='hOXnHC'>
             <h1>Storage</h1>
             <ul>
-              <li>SD card or USB storage</li>
-              <li>Up to 1 TB</li>
+              <li>Support for upto 1 TB of additonal storage:</li>
             </ul>
           </div>
         </li>
@@ -53,13 +52,13 @@ excerpt: Additional storage for Subnero underwater modems.
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
           <p>Increase the storage space available for your devices with additonal storage options.</p>
-          <p>Available sizes: 64 GB, 128 GB, 256 GB, 512 GB, 1 TB</p>
+          <p>Available sizes: 256 GB, 1 TB</p>
         </div>
       </div>
       <hr>
       <div class='cGBxoB'>
           <div class='media hOXnHC modBlogPost'>
-            <h2> Compatibility</h2>
+            <h2>Compatibility</h2>
             <a class='media-body links collapsible' id ='batCompatibility'>
             <h2 class='right' id='batCompatibility-icon'>-</h2>
           </a>
@@ -68,6 +67,7 @@ excerpt: Additional storage for Subnero underwater modems.
             <ul class="shortcode-list">
               <li><a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a></li>
               <li><a href="{{site.baseurl}}/products/wnc-m25mse3">WNC-M25MSE3 - Silver Edition Embedded Configuration Modem</a></li>
+              <li><a href="{{site.baseurl}}/products/wnc-m25mss3+xch">WNC-M25MSS3+xCh - Silver Edition Multi-Channel Configuration Modem</a></li>
             </ul>
           </div>
       </div>

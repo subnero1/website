@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hulls
-banner : images/banner-solutions.jpg
+banner : images/banner-mechanical.jpg
 thumbnail: images/thumbnail-hull.jpg
 categories: accessories
 excerpt: Additional storage for Subnero underwater modems.
@@ -37,8 +37,8 @@ excerpt: Additional storage for Subnero underwater modems.
           <div class='hOXnHC'>
             <h1>Hull Options</h1>
             <ul>
-              <li>Stainless Stell with 2000+ m depth rating</li>
-              <li>Delrin hulls for weight sensitive deployments</li>
+              <li>Supported depths: 100 m, 300 m, 2000 m</li>
+              <li>Supported materials: Aluminum, Stainless Steel</li>
             </ul>
           </div>
         </li>
@@ -52,23 +52,40 @@ excerpt: Additional storage for Subnero underwater modems.
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
-          <p>Increase the storage space available for your devices with additonal storage options.</p>
-          <p>Available sizes: 64 GB, 128 GB, 256 GB, 512 GB, 1 TB</p>
+          <p>Support for depth ratings up to 2000 m with different hull material options.</p>
         </div>
       </div>
       <hr>
       <div class='cGBxoB'>
           <div class='media hOXnHC modBlogPost'>
-            <h2> Compatibility</h2>
+            <h2>Compatibility</h2>
             <a class='media-body links collapsible' id ='batCompatibility'>
             <h2 class='right' id='batCompatibility-icon'>-</h2>
           </a>
           </div>
           <div class='media modBlogPost collapsible-content' id = 'batCompatibilitydata'>
-            <ul class="shortcode-list">
-              <li><a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a></li>
-              <li><a href="{{site.baseurl}}/products/wnc-m25mse3">WNC-M25MSE3 - Silver Edition Embedded Configuration Modem</a></li>
-            </ul>
+            <table style="width:100%">
+            <tr>
+              <td>Hull material</td>
+              <td>Depth rating</td>
+              <td>Compatible model</td>
+            </tr>
+            <tr>
+              <td>Aluminum</td>
+              <td>300 m</td>
+              <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+            </tr>
+            <tr>
+              <td>Stainless Steel</td>
+              <td>2000 m</td>
+              <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+            </tr>
+            <tr>
+              <td>Aluminum</td>
+              <td>100 m</td>
+              <td><a href="{{site.baseurl}}/products/wnc-m25mrs3">Research Edition Standalone Configuration</a></td>
+            </tr>
+          </table>
           </div>
       </div>
   </div>

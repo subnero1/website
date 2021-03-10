@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sensors
-banner : images/banner-solutions.jpg
+banner : images/banner-electrical.jpg
 thumbnail: images/thumbnail-sensors.jpg
 categories: accessories
 excerpt: Additional sensors for Subnero underwater modems.
@@ -39,7 +39,6 @@ excerpt: Additional sensors for Subnero underwater modems.
             <ul>
               <li>Attitude and Heading Reference System (AHRS)</li>
               <li>GPS</li>
-              <li>Depth/Pressure</li>
               <li>Low-drift clock</li>
             </ul>
           </div>
@@ -66,10 +65,6 @@ excerpt: Additional sensors for Subnero underwater modems.
               <td><a href="https://www.adafruit.com/product/4415" target="_blank">Adafruit PA1010D</a></td>
             </tr>
             <tr>
-              <td>Depth/Pressure</td>
-              <td><a href="https://bluerobotics.com/store/sensors-sonars-cameras/sensors/bar30-sensor-r1/" target="_blank">Blue Robotics Bar30 R1</a></td>
-            </tr>
-            <tr>
               <td>Low-drift clock</td>
               <td>Oven Controlled Crystal Oscillator (25 ppb)</td>
             </tr>
@@ -79,7 +74,7 @@ excerpt: Additional sensors for Subnero underwater modems.
       <hr>
       <div class='cGBxoB'>
           <div class='media hOXnHC modBlogPost'>
-            <h2> Compatibility</h2>
+            <h2>Compatibility</h2>
             <a class='media-body links collapsible' id ='batCompatibility'>
             <h2 class='right' id='batCompatibility-icon'>-</h2>
           </a>
@@ -88,6 +83,7 @@ excerpt: Additional sensors for Subnero underwater modems.
             <ul class="shortcode-list">
               <li><a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a></li>
               <li><a href="{{site.baseurl}}/products/wnc-m25mse3">WNC-M25MSE3 - Silver Edition Embedded Configuration Modem</a></li>
+              <li><a href="{{site.baseurl}}/products/wnc-m25mss3+xch">WNC-M25MSS3+xCh - Silver Edition Multi-Channel Configuration Modem</a></li>
             </ul>
           </div>
       </div>
