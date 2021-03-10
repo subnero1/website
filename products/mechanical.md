@@ -39,6 +39,7 @@ excerpt: Additional storage for Subnero underwater modems.
             <ul>
               <li>Clamps for deployment</li>
               <li>Bulkhead connectors</li>
+              <li>TODO: Update images</li>
             </ul>
           </div>
         </li>
