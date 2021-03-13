@@ -38,11 +38,11 @@ excerpt: Additional storage for Subnero underwater modems.
             <h1>Mechanical Accessories</h1>
             <ul>
               <li>Clamps for deployment</li>
-              <li>Bulkhead connectors</li>
-              <li>TODO: Update images</li>
+              <li>Right angled bulkhead connectors</li>
             </ul>
           </div>
         </li>
+        <p>Test</p>
       </ul>
       <hr>
       <div class='cGBxoB'>
@@ -54,22 +54,36 @@ excerpt: Additional storage for Subnero underwater modems.
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
           <p>Mechanical accessories for various deployment scenarios of Subnero underwater devices.</p>
+          <ul class="shortcode-list">
+              <li>- Clamps for securing your device during deployment.</li>
+              <li>- Right angled bulkhead connectors.</li>
+            </ul>
         </div>
       </div>
       <hr>
       <div class='cGBxoB'>
-          <div class='media hOXnHC modBlogPost'>
-            <h2>Compatibility</h2>
-            <a class='media-body links collapsible' id ='batCompatibility'>
-            <h2 class='right' id='batCompatibility-icon'>-</h2>
-          </a>
-          </div>
-          <div class='media modBlogPost collapsible-content' id = 'batCompatibilitydata'>
-            <ul class="shortcode-list">
-              <li><a href="{{site.baseurl}}/products/wnc-m25mps3">WNC-M25MPS3 - Platinum Edition Standalone Configuration Modem</a></li>
-              <li><a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a></li>
-            </ul>
-          </div>
+        <div class='media hOXnHC modBlogPost'>
+          <h2>Compatibility</h2>
+          <a class='media-body links collapsible' id ='batCompatibility'>
+          <h2 class='right' id='batCompatibility-icon'>-</h2>
+        </a>
+        </div>
+        <div class='media modBlogPost collapsible-content' id = 'batCompatibilitydata'>
+          <table style="width:100%">
+          <tr>
+            <td>Item</td>
+            <td>Compatibility</td>
+          </tr>
+          <tr>
+            <td>Clamps</td>
+            <td><a href="{{site.baseurl}}/products/wnc-m25mps3">Platinum Edition Standalone Configuration</a><br><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+          </tr>
+          <tr>
+            <td>Right angled bulkhead connectors</td>
+            <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+          </tr>
+        </table>
+        </div>
       </div>
   </div>
 </div>

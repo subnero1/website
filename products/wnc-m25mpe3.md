@@ -16,7 +16,7 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 - Up to 15 kbps data rate\*.
 - Up to 5 km communication range in tropical waters.
 - Ranging functionality with 0.1 m precision.
-- Doppler resiliance of ±4 knots or better.
+- Doppler resilience of ±4 knots or better.
 - Support for coherent and incoherent communication schemes.
 - Support for arbitrary signal transmission as well as recording (passband, baseband).
 - Support for user defined communication schemes using [UnetStack]({{ site.baseurl }}{%link products/unet.md %}).
@@ -62,7 +62,7 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 | -------------------------------------- | ----------------------------------------- |
 | Framework                              | [UnetStack]({{ site.baseurl }}{%link products/unet.md %})|
 | User interface                         | Interactive web UI                        |
-| Software interfaces                    | Java, Groovy, Python, C, Javascript, Julia, Matlab|
+| Software interfaces                    | Java, Groovy, Python, C, JavaScript, Julia, Matlab|
 
 ### Electrical
 
@@ -77,7 +77,7 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 
 | Feature                                | Details                                   |
 | -------------------------------------- | ----------------------------------------- |
-| Hull material                          | Aluminium                                 |
+| Hull material                          | Aluminum                                  |
 | Operating depth                        | Hull: 300 m<br> Transducer: 2000 m        |
 | Dimensions                             | SC: ⌀ 127 ✕ 400 mm<br> EC: 90 ✕ 90 ✕ 180 mm|
 | Operating temperature                  | SC: 0 to 50 °C<br>EC: 0 to 70 °C (Electronics), 0 to 50 °C (Transducer)|
