@@ -35,7 +35,7 @@ excerpt: Additional storage for Subnero underwater modems.
         </li>
         <li class='accessories'>
           <div class='hOXnHC'>
-            <h1>Cables</h1>
+            <h1>Underwater Cables</h1>
             <ul>
               <li>TODO: xx m Depth rated</li>
               <li>Multiple connection options</li>
@@ -52,7 +52,7 @@ excerpt: Additional storage for Subnero underwater modems.
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
-          <p>Available as both underwater and lab cables, Subnero cables provided the option to use Subnero products in a variety of conditions.</p>
+          <p>Available with a variety of connectivity options (e.g. Ethernet, RS232), cable types, lengths, Subnero underwater cables provide versatility to your underwater deployments.</p>
         </div>
       </div>
       <hr>
@@ -68,37 +68,37 @@ excerpt: Additional storage for Subnero underwater modems.
             <tr>
               <td>Model Number</td>
               <td>Type and Length</td>
-              <td>Termination - User</td>
-              <td>Termination - Device</td>
+              <td>Termination - User side</td>
+              <td>Termination - Device side</td>
               <td>Compatibility</td>
             </tr>
             <tr>
-              <td>TODO: xxxx</td>
+              <td>W-00T10-10</td>
               <td>Underwater cable, 10 m</td>
               <td>Power, Ethernet</td>
               <td>Subconn xxx TODO</td>
               <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
             </tr>
             <tr>
-              <td>TODO: xxxx</td>
+              <td>W-00T10-15</td>
+              <td>Underwater cable, 10 m</td>
+              <td>Power, Ethernet</td>
+              <td>Subconn xxx TODO</td>
+              <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+            </tr>
+            <tr>
+              <td>W-00T10-25</td>
               <td>Underwater cable, 25 m</td>
               <td>Power, Ethernet</td>
               <td>Subconn xxx TODO</td>
               <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
             </tr>
             <tr>
-              <td>TODO: xxxx</td>
+              <td>W-00T10-30</td>
               <td>Underwater cable, 30 m</td>
               <td>Power, Ethernet</td>
               <td>Subconn xxx TODO</td>
               <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
-            </tr>
-            <tr>
-              <td>TODO: xxxx</td>
-              <td>Power cable, 5 m</td>
-              <td>Banana plugs</td>
-              <td>Barrel jack xxx TODO</td>
-              <td><a href="{{site.baseurl}}/products/wnc-m25mse3">Silver Edition Embedded Configuration</a></td>
             </tr>
           </table>
           </div>

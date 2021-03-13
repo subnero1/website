@@ -4,7 +4,7 @@ title: Coprocessor
 banner : images/banner-electrical.jpg
 thumbnail: images/thumbnail-coprocessor.jpg
 categories: accessories
-excerpt: Coprocessor for Subnero underwater modems.
+excerpt: Co-processor for Subnero underwater modems.
 ---
 
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>
@@ -53,7 +53,7 @@ excerpt: Coprocessor for Subnero underwater modems.
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
-          <p> While Subnero modems provide flexibility to extend various aspects of the device by the user, there are at times when a customer may want to deploy their applications and algorithms to run with close proximity to the modem hardware. The co-processor option provides a powerful secondary Single Board Computer (SBC) with a Linux distribution connected directly to the modem. This SBC is directly accessible by the user over an IP address in the same subnet as the modem. Once logged into the co-processor, the customer can access the modem over the IP network, using a set of standard Unet APIs that are preinstalled in the coprocessor.</p>
+          <p> While Subnero modems provide flexibility to extend various aspects of the device by the user, there are at times when a customer may want to deploy their applications and algorithms to run with close proximity to the modem hardware. The co-processor option provides a powerful secondary Single Board Computer (SBC) with a Linux distribution connected directly to the modem. This SBC is directly accessible by the user over an IP address in the same subnet as the modem. Once logged into the co-processor, the customer can access the modem over the IP network, using a set of standard Unet APIs that are pre-installed in the co-processor.</p>
           <p><a href="https://subnero.com/wnc/2018/11/17/Underwater-modem-with-a-coprocessor.html">Read more.</a></p>
         </div>
       </div>

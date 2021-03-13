@@ -25,9 +25,9 @@ The Subnero aRecorder is a multi-hydrophone broadband data acquisition system de
 
 | Feature                 | Details                              |
 | ----------------------- | -------------------------------------|
-| Hyrdrophones            | up to 4                              |
+| Hydrophones             | up to 4                              |
 | Receiving sensitivity   | -211±3 dB re 1 V/μPa                 |
-| Horizontal directivity  | Omnidirectional ±2dB at 100 kHz      |
+| Horizontal directivity  | Omni-directional ±2dB at 100 kHz     |
 | Vertical directivity    | 270° (±3 dB) at 100 kHz              |
 | Bandwidth               | 1 Hz - 170 kHz                       |
 | Sampling rate           | 500 kSa/s (aggregate)                |

@@ -15,7 +15,7 @@ Subnero's silver edition underwater modem is the workhorse communication node to
 - Up to 15 kbps data rate\*.
 - Up to 5 km communication range in tropical waters.
 - Ranging functionality with 0.1 m precision.
-- Doppler resiliance of ±4 knots or better.
+- Doppler resilience of ±4 knots or better.
 - Support for coherent and incoherent communication schemes.
 - Support for arbitrary signal transmission as well as recording (passband, baseband).
 - Support for user defined communication schemes using [UnetStack]({{ site.baseurl }}{%link products/unet.md %}).
@@ -34,7 +34,7 @@ Subnero's silver edition underwater modem is the workhorse communication node to
     <div class='media-body product product-content'>
       <h3 style="text-transform: none;" id="embedded">Embedded Configuration</h3>
       <h4 style="text-transform: none;">WNC-M25MSE3</h4>
-      <p>Designed with ease of integration and flexibilty as the primary focus, the embedded configuration (EC) is ideal for integration to bigger platforms such as AUV, ROVs or sensors. Available with pressure hull option for free flodded platforms.</p>
+      <p>Designed with ease of integration and flexibility as the primary focus, the embedded configuration (EC) is ideal for integration to bigger platforms such as AUV, ROVs or sensors. Available with pressure hull option for free flooded platforms.</p>
     </div>
   </div>
 
@@ -79,7 +79,7 @@ Subnero's silver edition underwater modem is the workhorse communication node to
 | -------------------------------------- | ----------------------------------------- |
 | Framework                              | [UnetStack]({{ site.baseurl }}{%link products/unet.md %})|
 | User Interface                         | Interactive web UI                        |
-| Software Interfaces                    | Java, Groovy, Python, C, Javascript, Julia, Matlab|
+| Software Interfaces                    | Java, Groovy, Python, C, JavaScript, Julia, Matlab|
 
 ### Electrical
 
@@ -88,14 +88,14 @@ Subnero's silver edition underwater modem is the workhorse communication node to
 | Power supply                           | 22 - 28 VDC (24 VDC recommended)          |
 | Power consumption                      | < 4 W (receive mode, nominal)<br>< 60 W (transmit mode, avg.)<br>< 80 W (transmit mode, max.)|
 | External interface                     | Ethernet (10/100 Mbps)*                   |
-| Onboard storage                        | 32 GB*                                    |
+| On-board storage                       | 32 GB*                                    |
 
 ### Mechanical
 
 | Feature                                | Details                                   |
 | -------------------------------------- | ----------------------------------------- |
-| Hull material                          | Aluminium*                                |
-| Operating depth                        | Hull: 100 m*<br> Transducer: 2000 m        |
+| Hull material                          | Aluminum*                                 |
+| Operating depth                        | Hull: 100 m*<br> Transducer: 2000 m       |
 | Dimensions                             | SC: ⌀ 127 ✕ 280 mm<br> EC: ⌀ 105 ✕ 150 mm |
 | Operating temperature                  | SC: 0 to 40 °C<br>EC: 0 to 70 °C (Electronics), 0 to 40 °C (Transducer)|
 

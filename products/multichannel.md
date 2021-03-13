@@ -23,8 +23,8 @@ The Subnero underwater modems provide options for customization and extension at
   - Rapid environmental assessment.
   - Diversity combining techniques to enhance communication performance.
   - Positioning applications (e.g. USBL).
-<!-- - Software upgarde option for [Unity](./unity.md) to enhance communication performance using spatial diversity techniques -->
-<!-- - Software upgarde option for enabling [USBL](./usbl.md) functionality -->
+<!-- - Software upgrade option for [Unity](./unity.md) to enhance communication performance using spatial diversity techniques -->
+<!-- - Software upgrade option for enabling [USBL](./usbl.md) functionality -->
 
 
 <div id="embedded"></div>
@@ -34,7 +34,7 @@ The Subnero underwater modems provide options for customization and extension at
     <img class = "align-self-start mr-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-multichannel3.jpg"/>
     <div class='media-body product product-content'>
     <h3 style="text-transform: none;" id="surface">Acoustic Modem with Multi-Channel Recorder</h3>
-          <p>Combine a versatile aocutic modem with a powerful multi-channel acoustic recorder, ideal for long term deployments.</p>
+          <p>Combine a versatile acoustic modem with a powerful multi-channel acoustic recorder, ideal for long term deployments.</p>
     </div>
   </div>
   <div class ='media product' style='background: #f5f5f5' >   

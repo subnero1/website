@@ -14,7 +14,7 @@ Our research edition modems are designed to bridge the gap between developing ap
 
 - Up to 15 kbps data rate\*.
 - Ranging functionality with 0.1 m precision.
-- Doppler resiliance of ±4 knots or better.
+- Doppler resilience of ±4 knots or better.
 - Support for coherent and incoherent communication schemes.
 - Support for arbitrary signal transmission as well as recording (passband, baseband).
 - Support for user defined communication schemes using [UnetStack]({{ site.baseurl }}{%link products/unet.md %}).
@@ -58,7 +58,7 @@ Our research edition modems are designed to bridge the gap between developing ap
 | -------------------------------------- | ----------------------------------------- |
 | Framework                              | [UnetStack]({{ site.baseurl }}{%link products/unet.md %})|
 | User Interface                         | Interactive web UI                        |
-| Software Interfaces                    | Java, Groovy, Python, C, Javascript, Julia, Matlab|
+| Software Interfaces                    | Java, Groovy, Python, C, JavaScript, Julia, Matlab|
 
 ### Electrical
 
@@ -67,7 +67,7 @@ Our research edition modems are designed to bridge the gap between developing ap
 | Power source                           | 22 - 28 VDC (24 VDC recommended)          |
 | Power consumption                      | < 4 W (receive mode, nominal)<br>< 25 W (transmit mode, avg.)|
 | External interface                     | Ethernet (10/100 Mbps)                    |
-| Onboard storage                        | 32 GB                                     |
+| On-board storage                       | 32 GB                                     |
 
 ### Mechanical
 
