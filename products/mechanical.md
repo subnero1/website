@@ -36,6 +36,7 @@ excerpt: Additional storage for Subnero underwater modems.
         <li class='accessories'>
           <div class='hOXnHC'>
             <h1>Mechanical Accessories</h1>
+            <h3>Supporting mechanical accessories for Subnero underwater modems</h3>
             <ul>
               <li>Clamps for deployment</li>
               <li>Right angled bulkhead connectors</li>
@@ -47,7 +48,7 @@ excerpt: Additional storage for Subnero underwater modems.
       <hr>
       <div class='cGBxoB'>
         <div class='media hOXnHC modBlogPost'>
-          <h2>Production Information</h2>
+          <h2>Product Information</h2>
           <a class='media-body links collapsible' id ='batProduct'>
             <h2 class='right' id='batProduct-icon'>-</h2>
           </a>

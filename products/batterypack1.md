@@ -36,6 +36,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
         <li class='accessories'>
           <div class='hOXnHC'>
             <h1>Primary Battery Pack</h1>
+            <h3>Underwater battery packs for Subnero devices</h3>
             <ul>
               <li>Common battery type (Alkaline D-cells)</li>
               <li>In-field replaceable</li>
@@ -46,7 +47,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
       <hr>
       <div class='cGBxoB'>
         <div class='media hOXnHC modBlogPost'>
-          <h2>Production Information</h2>
+          <h2>Product Information</h2>
           <a class='media-body links collapsible' id ='batProduct'>
             <h2 class='right' id='batProduct-icon'>-</h2>
           </a>

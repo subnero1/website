@@ -36,8 +36,10 @@ excerpt: Additional storage for Subnero underwater modems.
         <li class='accessories'>
           <div class='hOXnHC'>
             <h1>Storage</h1>
+            <h3>Additional storage for Subnero underwater modems</h3>
             <ul>
-              <li>Support for up to 1 TB of additional storage:</li>
+              <li>Support for up to 1 TB of additional storage</li>
+              <li>Ideal data storage for long term deployments</li>
             </ul>
           </div>
         </li>
@@ -45,13 +47,13 @@ excerpt: Additional storage for Subnero underwater modems.
       <hr>
       <div class='cGBxoB'>
         <div class='media hOXnHC modBlogPost'>
-          <h2>Production Information</h2>
+          <h2>Product Information</h2>
           <a class='media-body links collapsible' id ='batProduct'>
             <h2 class='right' id='batProduct-icon'>-</h2>
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
-          <p>Increase the storage space available for your devices with additional storage options.</p>
+          <p>Increase the storage space available for your Subnero devices with additional storage options.</p>
           <p>Available sizes: 256 GB, 1 TB</p>
         </div>
       </div>
