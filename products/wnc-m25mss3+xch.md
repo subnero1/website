@@ -16,7 +16,7 @@ Subnero underwater modems provide options for customization and extension at man
 
 - Integrated Subnero [silver edition](./wnc-m25mss3.md) modems.
 - Multiple synchronized receiving channels.
-- Storage and computing power for real-time data processing.
+- Ability to choose between 1 - 4 additional receiving channels.
 - Scheduled and trigger based recordings.
 - Access to raw signals (passband and baseband) from all receiving channels.
 - Ability to develop and deploy user defined applications using [UnetStack]({{ site.baseurl }}{%link products/unet.md %}). Examples are:
@@ -77,6 +77,7 @@ Subnero underwater modems provide options for customization and extension at man
 | -------------------------------------- | ----------------------------------------- |
 | Power consumption                      | < 7 W (receive mode, nominal)<br>< 60 W (transmit mode, avg.)<br>< 80 W (transmit mode, max.)|
 | Dimensions                             | ⌀ 127 ✕ 324 mm                            |
+| Additional sensors                     | GPS, AHRS                                 |
 
 ## + Useful Links
 - [Underwater modem with a secondary data acquisition system](https://subnero.com/wnc/2017/12/12/Underwater-modem-with-multiple-hydrophones.html)

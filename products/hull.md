@@ -36,6 +36,7 @@ excerpt: Additional storage for Subnero underwater modems.
         <li class='accessories'>
           <div class='hOXnHC'>
             <h1>Hull Options</h1>
+            <h3>Additional hull materials for various depth ratings for Subnero underwater modems</h3>
             <ul>
               <li>Supported depths: 100 m, 300 m, 2000 m</li>
               <li>Supported materials: Aluminum, Stainless Steel</li>
@@ -46,13 +47,13 @@ excerpt: Additional storage for Subnero underwater modems.
       <hr>
       <div class='cGBxoB'>
         <div class='media hOXnHC modBlogPost'>
-          <h2>Production Information</h2>
+          <h2>Product Information</h2>
           <a class='media-body links collapsible' id ='batProduct'>
             <h2 class='right' id='batProduct-icon'>-</h2>
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
-          <p>Support for depth ratings up to 2000 m with different hull material options.</p>
+          <p>Support for depth ratings up to 2000 m with different hull materials.</p>
         </div>
       </div>
       <hr>

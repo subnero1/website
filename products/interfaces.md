@@ -36,6 +36,7 @@ excerpt: Electrical interfaces for Subnero underwater modems
         <li class='accessories'>
           <div class='hOXnHC'>
             <h1>Interfaces</h1>
+            <h3>Additional interfaces for Subnero underwater modems</h3>
             <ul>
               <li>RS232</li>
               <li>Support for up to 115200 bps</li>
@@ -46,7 +47,7 @@ excerpt: Electrical interfaces for Subnero underwater modems
       <hr>
       <div class='cGBxoB'>
         <div class='media hOXnHC modBlogPost'>
-          <h2>Production Information</h2>
+          <h2>Product Information</h2>
           <a class='media-body links collapsible' id ='batProduct'>
             <h2 class='right' id='batProduct-icon'>-</h2>
           </a>

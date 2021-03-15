@@ -156,7 +156,7 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
         </div>
         <div class='cmXrEt'>
             <p>
-            Looking for customized modems? At Subnero, we customize the products according to your needs. <a href="https://subnero.com/contact/">Contact us</a> to find out more about customized products.
+            Looking for customized modems? At Subnero, we customize the products according to your needs. <a href="mailto:sales@subnero.com">Contact us</a> to find out more about our customized products.
             </p>
         </div>
     </div>

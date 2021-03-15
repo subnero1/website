@@ -36,6 +36,7 @@ excerpt: Additional sensors for Subnero underwater modems.
         <li class='accessories'>
           <div class='hOXnHC'>
             <h1>Sensors</h1>
+            <h3>Additional sensors for Subnero underwater modems</h3>
             <ul>
               <li>Attitude and Heading Reference System (AHRS)</li>
               <li>GPS</li>
@@ -47,13 +48,13 @@ excerpt: Additional sensors for Subnero underwater modems.
       <hr>
       <div class='cGBxoB'>
         <div class='media hOXnHC modBlogPost'>
-          <h2>Production Information</h2>
+          <h2>Product Information</h2>
           <a class='media-body links collapsible' id ='batProduct'>
             <h2 class='right' id='batProduct-icon'>-</h2>
           </a>
         </div>
         <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
-          <p>Integrate additional sensors such as GPS, compass, low drift clocks to your devices to enable a new range of applications such as localization & positioning, sonar, etc.</p>
+          <p>Integrate additional sensors such as GPS, compass, low drift clocks to your devices to enable a new range of applications like localization & positioning, sonar, etc.</p>
           <h3>Specifications</h3>
           <table style="width:100%">
             <tr>
