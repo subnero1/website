@@ -10,7 +10,6 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>
   <div class='row'>
     <div class='large-12 columns'>
-      <!-- {% include section-header.html title=page.title tagline=page.tagline color=page.title_color class="big" %} -->
     </div>
   </div>
   <div class='four spacing'></div>
