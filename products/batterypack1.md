@@ -62,7 +62,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
             </tr>
             <tr>
               <td>Type</td>
-              <td>D</td>
+              <td>D (IEC R20)</td>
             </tr>
             <tr>
               <td>Number required</td>
