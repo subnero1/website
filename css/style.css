@@ -5066,27 +5066,6 @@ img {
   border-top: 2px solid #222;
 }
 
-.collapsible {
-  cursor: pointer;
-  width: 100%;
-}
-
-.collapsible h2{
-  color: #999;
-  font-size: 2.5rem;
-}
-
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .collapsible h2:hover {
-  color: #eee;
-}
-
-/* Style the collapsible content. Note: hidden by default */
-.collapsible-content {
-  display: block;
-  overflow: hidden;
-}
-
 .image-nav img{
   width:200px;
   height: auto;
@@ -5110,4 +5089,65 @@ img {
   width: 80%;
 }
 
+input[type='checkbox']{ 
+  display: none; 
+} 
 
+.wrap-collapsible{
+  display: flex;
+  align-items: flex-start;
+  margin: 1.2rem 0; 
+  flex-wrap: wrap;
+}
+
+.wrap-collapsible h2{
+  width: 50%;
+}
+
+.lbl-toggle { 
+  flex:2; 
+  font-size: 2.5rem; 
+  text-align: end;
+} 
+
+.lbl-toggle:hover { 
+  color: #bbb; 
+} 
+
+.toggle:checked + .lbl-toggle { 
+  margin-right: 0;
+}
+
+:not(.toggle:checked) + .lbl-toggle { 
+  margin-right: 0;
+}
+
+.toggle:checked + .lbl-toggle::before { 
+  content:'-';
+  display: inline-block; 
+}
+
+:not(.toggle:checked) + .lbl-toggle::before { 
+  content:'+';
+  display: inline-block; 
+  margin-right: 0;
+}
+
+.collapsible-content { 
+  max-height: 0px; 
+  overflow: hidden; 
+  transition: max-height .25s ease-in-out; 
+} 
+
+.toggle:checked + .lbl-toggle + .collapsible-content { 
+  max-height: 350px; 
+} 
+
+.toggle:checked+.lbl-toggle { 
+  border-bottom-right-radius: 0; 
+  border-bottom-left-radius: 0; 
+}
+
+.collapsible-content p, .collapsible-content table { 
+  margin-bottom: 1em; 
+}
