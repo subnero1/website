@@ -19,31 +19,29 @@ excerpt: Additional storage for Subnero underwater modems.
 
 <div class='full bg-grey'>
   <div class='row'>
-      <ul class='gfXsQG'>
-        <li class='accessories'>
+      <div class='accessories'>
+        <div class='accessories-img'>
             <div class='mod modBlogPost big'>
               <img id='main-img' src='/images/accessories-hull01.jpg'>
             </div>
             <div class='modGallery'>
-              <ul class='media modTeamMember gallery shortcode-list'>
-                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-hull01.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-hull02.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-hull03.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-hull04.jpg'></a></li>
-              </ul>
+              <div class='media modTeamMember shortcode-list'>
+                <div class="member current-li"><a class='image-nav'><img src='/images/accessories-hull01.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-hull02.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-hull03.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-hull04.jpg'></a></div>
+              </div>
             </div>
-        </li>
-        <li class='accessories'>
-          <div class='hOXnHC'>
+        </div>
+        <div class='accessories-info'>
             <h1>Hull Options</h1>
             <h3>Additional hull materials for various depth ratings for Subnero underwater modems</h3>
             <ul>
               <li>Supported depths: 100 m, 300 m, 2000 m</li>
               <li>Supported materials: Aluminum, Stainless Steel</li>
             </ul>
-          </div>
-        </li>
-      </ul>
+        </div>
+      </div>
       <hr>
       <div class='wrap-collapsible'>
         <h2>Product Information</h2>

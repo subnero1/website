@@ -19,32 +19,29 @@ excerpt: Additional storage for Subnero underwater modems.
 
 <div class='full bg-grey'>
   <div class='row'>
-      <ul class='gfXsQG'>
-        <li class='accessories'>
+      <div class='accessories'>
+        <div class='accessories-img'>
             <div class='mod modBlogPost big'>
               <img id='main-img' src='/images/accessories-mechanical01.jpg'>
             </div>
             <div class='modGallery'>
-              <ul class='media modTeamMember gallery shortcode-list'>
-                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-mechanical01.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-mechanical02.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-mechanical03.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-mechanical04.jpg'></a></li>
-              </ul>
+              <div class='media modTeamMember shortcode-list'>
+                <div class="member current-li"><a class='image-nav'><img src='/images/accessories-mechanical01.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-mechanical02.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-mechanical03.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-mechanical04.jpg'></a></div>
+              </div>
             </div>
-        </li>
-        <li class='accessories'>
-          <div class='hOXnHC'>
+        </div>
+        <div class='accessories-info'>
             <h1>Mechanical Accessories</h1>
             <h3>Supporting mechanical accessories for Subnero underwater modems</h3>
             <ul>
               <li>Clamps for deployment</li>
               <li>Right angled bulkhead connectors</li>
             </ul>
-          </div>
-        </li>
-        <p>Test</p>
-      </ul>
+        </div>
+      </div>
       <hr>
       <div class='wrap-collapsible'>
         <h2>Product Information</h2>

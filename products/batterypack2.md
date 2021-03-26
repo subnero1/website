@@ -18,31 +18,29 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
 
 <div class='full bg-grey'>
   <div class='row'>
-      <ul class='gfXsQG'>
-        <li class='accessories'>
+      <div class='accessories'>
+        <div class='accessories-img'>
             <div class='mod modBlogPost big'>
               <img id='main-img' src='/images/accessories-batterypack02.jpg'>
             </div>
             <div class='modGallery'>
-              <ul class='media modTeamMember gallery shortcode-list'>
-                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-batterypack02.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack05.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack06.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-batterypack01.jpg'></a></li>
-              </ul>
+              <div class='media modTeamMember shortcode-list'>
+                <div class="member current-li"><a class='image-nav'><img src='/images/accessories-batterypack02.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-batterypack05.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-batterypack06.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-batterypack01.jpg'></a></div>
+              </div>
             </div>
-        </li>
-        <li class='accessories'>
-          <div class='hOXnHC'>
-            <h1>Rechargeable Battery Pack</h1>
-            <h3>Underwater battery packs for Subnero devices</h3>
-            <ul>
-              <li>Li-ion battery pack</li>
-              <li>Ideal for seabed deployments</li>
-            </ul>
-          </div>
-        </li>
-      </ul>
+        </div>
+        <div class='accessories-info'>
+          <h1>Rechargeable Battery Pack</h1>
+          <h3>Underwater battery packs for Subnero devices</h3>
+          <ul>
+            <li>Li-ion battery pack</li>
+            <li>Ideal for seabed deployments</li>
+          </ul>
+        </div>
+      </div>
       <hr>
       <div class='wrap-collapsible'>
         <h2>Product Information</h2>
