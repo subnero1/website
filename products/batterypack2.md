@@ -91,11 +91,15 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
         <input id ='compatibility' class='toggle' type='checkbox' checked>
         <label class='lbl-toggle' for='compatibility'></label>
         <div class='collapsible-content'>
-          <ul class="shortcode-list">
-            <li><a href="{{site.baseurl}}/products/wnc-m25mps3">WNC-M25MPS3 - Platinum Edition Standalone Configuration Modem</a></li>
-            <li><a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a></li>
-            <li><a href="{{site.baseurl}}/products/wnc-m25mss3+xch">WNC-M25MSS3+xCh - Silver Edition Multi-Channel Configuration Modem</a></li>
-          </ul>
+          <div class="brochure-container">
+            <a href="{{site.baseurl}}/products/wnc-m25mps3">WNC-M25MPS3 - Platinum Edition Standalone Configuration Modem</a>
+          </div>
+          <div class="brochure-container">
+            <a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a>
+          </div>
+          <div class="brochure-container">
+            <a href="{{site.baseurl}}/products/wnc-m25mss3+xch">WNC-M25MSS3+xCh - Silver Edition Multi-Channel Configuration Modem</a>
+          </div>
         </div>
     </div>
   </div>
