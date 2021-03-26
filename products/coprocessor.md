@@ -19,22 +19,21 @@ excerpt: Co-processor for Subnero underwater modems.
 
 <div class='full bg-grey'>
   <div class='row'>
-      <ul class='gfXsQG'>
-        <li class='accessories'>
+      <div class='accessories'>
+        <div class='accessories-img'>
             <div class='mod modBlogPost big'>
               <img id='main-img' src='/images/accessories-coprocessor01.jpg'>
             </div>
             <div class='modGallery'>
-              <div class='media modTeamMember gallery shortcode-list'>
+              <div class='media modTeamMember shortcode-list'>
                 <div class="member current-li"><a class='image-nav'><img src='/images/accessories-coprocessor01.jpg'></a></div>
                 <div class="member"><a class='image-nav'><img src='/images/accessories-coprocessor02.jpg'></a></div>
                 <div class="member"><a class='image-nav'><img src='/images/accessories-coprocessor03.jpg'></a></div>
                 <div class="member"><a class='image-nav'><img src='/images/accessories-coprocessor04.jpg'></a></div>
               </div>
             </div>
-        </li>
-        <li class='accessories'>
-          <div class='hOXnHC'>
+        </div>
+        <div class='accessories-info'>
             <h1>nVidia Jetson TX2</h1>
             <h3>Additional processing module for Subnero underwater modems</h3>
             <ul>
@@ -42,9 +41,8 @@ excerpt: Co-processor for Subnero underwater modems.
               <li>Dual-Core nVIDIA Denver 2 64-Bit CPU</li>
               <li>8GB 128-bit LPDDR4 Memory</li>
             </ul>
-          </div>
-        </li>
-      </ul>
+        </div>
+      </div>
       <hr>
       <div class='wrap-collapsible'>
         <h2> Product Information</h2>

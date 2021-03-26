@@ -19,31 +19,29 @@ excerpt: Electrical interfaces for Subnero underwater modems
 
 <div class='full bg-grey'>
   <div class='row'>
-      <ul class='gfXsQG'>
-        <li class='accessories'>
+      <div class='accessories'>
+        <div class='accessories-img'>
             <div class='mod modBlogPost big'>
               <img id='main-img' src='/images/accessories-interfaces01.jpg'>
             </div>
             <div class='modGallery'>
-              <ul class='media modTeamMember gallery shortcode-list'>
-                <li class="member current-li"><a class='image-nav'><img src='/images/accessories-interfaces01.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-interfaces02.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-interfaces03.jpg'></a></li>
-                <li class="member"><a class='image-nav'><img src='/images/accessories-interfaces04.jpg'></a></li>
-              </ul>
+              <div class='media modTeamMember shortcode-list'>
+                <div class="member current-li"><a class='image-nav'><img src='/images/accessories-interfaces01.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-interfaces02.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-interfaces03.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='/images/accessories-interfaces04.jpg'></a></div>
+              </div>
             </div>
-        </li>
-        <li class='accessories'>
-          <div class='hOXnHC'>
+        </div>
+        <div class='accessories-info'>
             <h1>Interfaces</h1>
             <h3>Additional interfaces for Subnero underwater modems</h3>
             <ul>
               <li>RS232</li>
               <li>Support for up to 115200 bps</li>
             </ul>
-          </div>
-        </li>
-      </ul>
+        </div>
+      </div>
       <hr>
       <div class='wrap-collapsible'>
         <h2>Product Information</h2>
