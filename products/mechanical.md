@@ -17,7 +17,7 @@ excerpt: Additional storage for Subnero underwater modems.
   <div class='four spacing'></div>
 </div>
 
-<div class='full'>
+<div class='full bg-grey'>
   <div class='row'>
       <ul class='gfXsQG'>
         <li class='accessories'>
@@ -46,14 +46,11 @@ excerpt: Additional storage for Subnero underwater modems.
         <p>Test</p>
       </ul>
       <hr>
-      <div class='cGBxoB'>
-        <div class='media hOXnHC modBlogPost'>
-          <h2>Product Information</h2>
-          <a class='media-body links collapsible' id ='batProduct'>
-            <h2 class='right' id='batProduct-icon'>-</h2>
-          </a>
-        </div>
-        <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
+      <div class='wrap-collapsible'>
+        <h2>Product Information</h2>
+        <input id ='product' class='toggle' type='checkbox' checked>
+        <label class='lbl-toggle' for='product'></label>
+        <div class='collapsible-content'>
           <p>Mechanical accessories for various deployment scenarios of Subnero underwater devices.</p>
           <ul class="shortcode-list">
               <li>- Clamps for securing your device during deployment.</li>
@@ -62,14 +59,11 @@ excerpt: Additional storage for Subnero underwater modems.
         </div>
       </div>
       <hr>
-      <div class='cGBxoB'>
-        <div class='media hOXnHC modBlogPost'>
-          <h2>Compatibility</h2>
-          <a class='media-body links collapsible' id ='batCompatibility'>
-          <h2 class='right' id='batCompatibility-icon'>-</h2>
-        </a>
-        </div>
-        <div class='media modBlogPost collapsible-content' id = 'batCompatibilitydata'>
+      <div class='wrap-collapsible'>
+        <h2>Compatibility</h2>
+        <input id ='compatibility' class='toggle' type='checkbox' checked>
+        <label class='lbl-toggle' for='compatibility'></label>
+        <div class='collapsible-content'>
           <table style="width:100%">
           <tr>
             <td>Item</td>
@@ -88,5 +82,4 @@ excerpt: Additional storage for Subnero underwater modems.
       </div>
   </div>
 </div>
-{%- include collapse.html -%}
 {%- include display.html -%}

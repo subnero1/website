@@ -17,7 +17,7 @@ excerpt: Additional storage for Subnero underwater modems.
   <div class='four spacing'></div>
 </div>
 
-<div class='full'>
+<div class='full bg-grey'>
   <div class='row'>
       <ul class='gfXsQG'>
         <li class='accessories'>
@@ -45,51 +45,44 @@ excerpt: Additional storage for Subnero underwater modems.
         </li>
       </ul>
       <hr>
-      <div class='cGBxoB'>
-        <div class='media hOXnHC modBlogPost'>
-          <h2>Product Information</h2>
-          <a class='media-body links collapsible' id ='batProduct'>
-            <h2 class='right' id='batProduct-icon'>-</h2>
-          </a>
-        </div>
-        <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
+      <div class='wrap-collapsible'>
+        <h2>Product Information</h2>
+        <input id ='product' class='toggle' type='checkbox' checked>
+        <label class='lbl-toggle' for='product'></label>
+        <div class='collapsible-content'>
           <p>Support for depth ratings up to 2000 m with different hull materials.</p>
         </div>
       </div>
       <hr>
-      <div class='cGBxoB'>
-          <div class='media hOXnHC modBlogPost'>
-            <h2>Compatibility</h2>
-            <a class='media-body links collapsible' id ='batCompatibility'>
-            <h2 class='right' id='batCompatibility-icon'>-</h2>
-          </a>
-          </div>
-          <div class='media modBlogPost collapsible-content' id = 'batCompatibilitydata'>
-            <table style="width:100%">
-            <tr>
-              <td>Hull material</td>
-              <td>Depth rating</td>
-              <td>Compatible model</td>
-            </tr>
-            <tr>
-              <td>Aluminum</td>
-              <td>300 m</td>
-              <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
-            </tr>
-            <tr>
-              <td>Stainless Steel</td>
-              <td>2000 m</td>
-              <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
-            </tr>
-            <tr>
-              <td>Aluminum</td>
-              <td>100 m</td>
-              <td><a href="{{site.baseurl}}/products/wnc-m25mrs3">Research Edition Standalone Configuration</a></td>
-            </tr>
-          </table>
-          </div>
+      <div class='wrap-collapsible'>
+        <h2>Compatibility</h2>
+        <input id ='compatibility' class='toggle' type='checkbox' checked>
+        <label class='lbl-toggle' for='compatibility'></label>
+        <div class='collapsible-content'>
+          <table style="width:100%">
+          <tr>
+            <td>Hull material</td>
+            <td>Depth rating</td>
+            <td>Compatible model</td>
+          </tr>
+          <tr>
+            <td>Aluminum</td>
+            <td>300 m</td>
+            <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+          </tr>
+          <tr>
+            <td>Stainless Steel</td>
+            <td>2000 m</td>
+            <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+          </tr>
+          <tr>
+            <td>Aluminum</td>
+            <td>100 m</td>
+            <td><a href="{{site.baseurl}}/products/wnc-m25mrs3">Research Edition Standalone Configuration</a></td>
+          </tr>
+        </table>
       </div>
+    </div>
   </div>
 </div>
-{%- include collapse.html -%}
 {%- include display.html -%}

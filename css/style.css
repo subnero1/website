@@ -5137,6 +5137,7 @@ input[type='checkbox']{
   max-height: 0px; 
   overflow: hidden; 
   transition: max-height .25s ease-in-out; 
+  width: 100%;
 } 
 
 .toggle:checked + .lbl-toggle + .collapsible-content { 
@@ -5150,4 +5151,12 @@ input[type='checkbox']{
 
 .collapsible-content p, .collapsible-content table { 
   margin-bottom: 1em; 
+}
+
+.collapsible-content ul{
+  padding: 0;
+}
+
+.bg-grey{
+  background: #f5f5f5;
 }
