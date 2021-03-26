@@ -17,7 +17,7 @@ excerpt: Additional sensors for Subnero underwater modems.
   <div class='four spacing'></div>
 </div>
 
-<div class='full'>
+<div class='full bg-grey'>
   <div class='row'>
       <ul class='gfXsQG'>
         <li class='accessories'>
@@ -46,14 +46,11 @@ excerpt: Additional sensors for Subnero underwater modems.
         </li>
       </ul>
       <hr>
-      <div class='cGBxoB'>
-        <div class='media hOXnHC modBlogPost'>
-          <h2>Product Information</h2>
-          <a class='media-body links collapsible' id ='batProduct'>
-            <h2 class='right' id='batProduct-icon'>-</h2>
-          </a>
-        </div>
-        <div class='media modBlogPost collapsible-content' id = 'batProductdata'>
+      <div class='wrap-collapsible'>
+        <h2>Product Information</h2>
+        <input id ='product' class='toggle' type='checkbox' checked>
+        <label class='lbl-toggle' for='product'></label>
+        <div class='collapsible-content'>
           <p>Integrate additional sensors such as GPS, compass, low drift clocks to your devices to enable a new range of applications like localization & positioning, sonar, etc.</p>
           <h3>Specifications</h3>
           <table style="width:100%">
@@ -73,22 +70,18 @@ excerpt: Additional sensors for Subnero underwater modems.
         </div>
       </div>
       <hr>
-      <div class='cGBxoB'>
-          <div class='media hOXnHC modBlogPost'>
-            <h2>Compatibility</h2>
-            <a class='media-body links collapsible' id ='batCompatibility'>
-            <h2 class='right' id='batCompatibility-icon'>-</h2>
-          </a>
-          </div>
-          <div class='media modBlogPost collapsible-content' id = 'batCompatibilitydata'>
-            <ul class="shortcode-list">
-              <li><a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a></li>
-              <li><a href="{{site.baseurl}}/products/wnc-m25mse3">WNC-M25MSE3 - Silver Edition Embedded Configuration Modem</a></li>
-              <li><a href="{{site.baseurl}}/products/wnc-m25mss3+xch">WNC-M25MSS3+xCh - Silver Edition Multi-Channel Configuration Modem</a></li>
-            </ul>
-          </div>
+      <div class='wrap-collapsible'>
+        <h2>Compatibility</h2>
+        <input id ='compatibility' class='toggle' type='checkbox' checked>
+        <label class='lbl-toggle' for='compatibility'></label>
+        <div class='collapsible-content'>
+          <ul class="shortcode-list">
+            <li><a href="{{site.baseurl}}/products/wnc-m25mss3">WNC-M25MSS3 - Silver Edition Standalone Configuration Modem</a></li>
+            <li><a href="{{site.baseurl}}/products/wnc-m25mse3">WNC-M25MSE3 - Silver Edition Embedded Configuration Modem</a></li>
+            <li><a href="{{site.baseurl}}/products/wnc-m25mss3+xch">WNC-M25MSS3+xCh - Silver Edition Multi-Channel Configuration Modem</a></li>
+          </ul>
+        </div>
       </div>
   </div>
 </div>
-{%- include collapse.html -%}
 {%- include display.html -%}
