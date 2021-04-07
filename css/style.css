@@ -5101,7 +5101,7 @@ img {
 }
 
 .accessories .modBlogPost img{
-  width: 80%;
+  max-width: 100%;
 }
 
 input[type='checkbox']{ 
