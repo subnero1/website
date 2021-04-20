@@ -22,14 +22,14 @@ excerpt: Electrical interfaces for Subnero underwater modems
       <div class='accessories'>
         <div class='accessories-img'>
             <div class='mod modBlogPost big'>
-              <img id='main-img' src='/images/accessories-interfaces01.jpg'>
+              <img id='main-img' src='{{site.baseurl}}/images/accessories-interfaces01.jpg'>
             </div>
             <div class='modGallery'>
               <div class='media modTeamMember shortcode-list'>
-                <div class="member current-li"><a class='image-nav'><img src='/images/accessories-interfaces01.jpg'></a></div>
-                <div class="member"><a class='image-nav'><img src='/images/accessories-interfaces02.jpg'></a></div>
-                <div class="member"><a class='image-nav'><img src='/images/accessories-interfaces03.jpg'></a></div>
-                <div class="member"><a class='image-nav'><img src='/images/accessories-interfaces04.jpg'></a></div>
+                <div class="member current-li"><a class='image-nav'><img src='{{site.baseurl}}/images/accessories-interfaces01.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='{{site.baseurl}}/images/accessories-interfaces02.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='{{site.baseurl}}/images/accessories-interfaces03.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='{{site.baseurl}}/images/accessories-interfaces04.jpg'></a></div>
               </div>
             </div>
         </div>

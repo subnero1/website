@@ -22,14 +22,14 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
       <div class='accessories'>
         <div class='accessories-img'>
             <div class='mod modBlogPost big'>
-              <img id='main-img' src='/images/accessories-batterypack02.jpg'>
+              <img id='main-img' src='{{site.baseurl}}/images/accessories-batterypack02.jpg'>
             </div>
             <div class='modGallery'>
               <div class='media modTeamMember shortcode-list'>
-                <div class="member current-li"><a class='image-nav'><img src='/images/accessories-batterypack02.jpg'></a></div>
-                <div class="member"><a class='image-nav'><img src='/images/accessories-batterypack03.jpg'></a></div>
-                <div class="member"><a class='image-nav'><img src='/images/accessories-batterypack04.jpg'></a></div>
-                <div class="member"><a class='image-nav'><img src='/images/accessories-batterypack01.jpg'></a></div>
+                <div class="member current-li"><a class='image-nav'><img src='{{site.baseurl}}/images/accessories-batterypack02.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='{{site.baseurl}}/images/accessories-batterypack03.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='{{site.baseurl}}/images/accessories-batterypack04.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='{{site.baseurl}}/images/accessories-batterypack01.jpg'></a></div>
               </div>
             </div>
         </div>
