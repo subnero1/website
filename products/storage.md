@@ -22,12 +22,12 @@ excerpt: Additional storage for Subnero underwater modems.
       <div class='accessories'>
         <div class='accessories-img'>
             <div class='mod modBlogPost big'>
-              <img id='main-img' src='/images/accessories-storage01.jpg'>
+              <img id='main-img' src='{{site.baseurl}}/images/accessories-storage01.jpg'>
             </div>
             <div class='modGallery'>
               <div class='media modTeamMember shortcode-list'>
-                <div class="member current-li"><a class='image-nav'><img src='/images/accessories-storage01.jpg'></a></div>
-                <div class="member"><a class='image-nav'><img src='/images/accessories-storage02.jpg'></a></div>
+                <div class="member current-li"><a class='image-nav'><img src='{{site.baseurl}}/images/accessories-storage01.jpg'></a></div>
+                <div class="member"><a class='image-nav'><img src='{{site.baseurl}}/images/accessories-storage02.jpg'></a></div>
               </div>
             </div>
         </div>
