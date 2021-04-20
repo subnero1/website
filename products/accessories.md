@@ -40,21 +40,6 @@ excerpt: Optional upgrades and accessories for Subnero underwater modems.
 				        {% endfor %}
 					</div>
 				</li>
-				<li class="fuqHMA">
-					<div class="hOXnHC">
-						{% assign product_pages = site.pages | where:"categories","accessories" %}
-  						{% for page in product_pages %}
-  						{% if page.title contains "Rechargeable Battery Packs" %}
-				        <div class='mod modBlogPost'>
-				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-batterypack.jpg" />
-				          	<div class='content'>
-				            <h2>Rechargeable Battery Packs</h2>
-				          </div></a>
-				        </div>
-				        {% endif %}
-				        {% endfor %}
-					</div>
-				</li>
 			</ul>
 		</div>
 		<div class='cmXrEt'>

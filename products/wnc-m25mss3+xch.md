@@ -10,7 +10,7 @@ section_id: products
 
 ## Multi-channel Configuration Modem
 
-Subnero underwater modems provide options for customization and extension at many levels. For many applications, it is often a requirement to record synchronized signals from multiple hydrophones in addition to the regular communication channel. Subnero's multi-channel modems, with multiple receiving channels provide this capability thereby enabling a plethora of new applications.
+Subnero's multi-channel modems, provide the capability to record synchronized signals from multiple hydrophones, in addition to the regular communication channel thereby enabling a plethora of new applications.
 
 ## Key Features
 
@@ -32,24 +32,10 @@ Subnero underwater modems provide options for customization and extension at man
 <div class='full' style='background: #f5f5f5'>
 
   <div class ='media product' >
-    <img class = "align-self-start mr-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-multichannel3.jpg"/>
-    <div class='media-body product product-content'>
-    <h3 style="text-transform: none;" id="surface">Acoustic Modem with Multi-Channel Recorder</h3>
-          <p>Combine a versatile acoustic modem with a powerful multi-channel acoustic recorder, ideal for long term deployments.</p>
-    </div>
-  </div>
-  <div class ='media product' style='background: #f5f5f5' >   
-    <div class='media-body product product-content' style='background: #f5f5f5'>
-    <h3 style="text-transform: none;">Enhanced Performance using Spatial Diversity</h3>
-          <p>Having multiple synchronized channels lets you exploit spatial diversity gain to improve communication range and link robustness.</p>
-    </div>
-    <img class = "ml-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-multichannel1.png"/> 
-  </div>
-  <div class ='media product' >
     <img class = "align-self-start mr-3" alt="" src="{{site.baseurl}}/images/boxart-wnc-multichannel2.jpg"/>
     <div class='media-body product product-content'>
-    <h3 style="text-transform: none;" id="surface">USBL Ready</h3>
-          <p>Develop and deploy your own positioning algorithms to unlock capabilities such as USBL.</p>
+    <h3 style="text-transform: none;" id="surface">Standalone Configuration with Multiple Receiving Channels</h3>
+          <p>A modem in the standalone configuration (SC) with multiple receiving channels, operates on external power source and combines a versatile acoustic modem with a multi-channel acoustic recorder, ideal for long term deployments.</p>
     </div>
   </div>
 </div>
