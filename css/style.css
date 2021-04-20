@@ -4329,6 +4329,10 @@ p.small-title {
   /*padding-left: 30px;*/
 }
 
+.product p{
+  font-size:1.1rem;
+}
+
 .links, .socials{
   font-size: 1.1rem;
 }
