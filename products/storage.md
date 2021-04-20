@@ -28,8 +28,6 @@ excerpt: Additional storage for Subnero underwater modems.
               <div class='media modTeamMember shortcode-list'>
                 <div class="member current-li"><a class='image-nav'><img src='/images/accessories-storage01.jpg'></a></div>
                 <div class="member"><a class='image-nav'><img src='/images/accessories-storage02.jpg'></a></div>
-                <div class="member"><a class='image-nav'><img src='/images/accessories-storage03.jpg'></a></div>
-                <div class="member"><a class='image-nav'><img src='/images/accessories-storage04.jpg'></a></div>
               </div>
             </div>
         </div>

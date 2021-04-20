@@ -21,7 +21,7 @@ Subnero's silver edition underwater modem is the workhorse communication node to
 - Support for coherent and incoherent communication schemes.
 - Support for arbitrary signal transmission as well as recording (passband, baseband).
 - Support for user defined communication schemes using [UnetStack]({{ site.baseurl }}{%link products/unet.md %}).
-- Support for [multiple receiving channels](./multichannel.md) for a variety of applications.
+- Support for [multiple receiving channels](./wnc-m25mss3+xch.md) for a variety of applications.
 
 \* Depending on channel conditions and reliability requirements.
 
