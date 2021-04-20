@@ -45,7 +45,7 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 
 <div class='wrap-collapsible'>
 <h2 style="text-transform: none;" id="p_techspec">TECHNICAL SPECIFICATIONS</h2>
-<input id ='tech-specs' class='toggle' type='checkbox' checked>
+<input id ='tech-specs' class='toggle' type='checkbox'>
 <label class='lbl-toggle' for='tech-specs'></label>
 <div class='collapsible-content' markdown="1">
 
@@ -93,7 +93,7 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 
 <div class='wrap-collapsible'>
   <h2>Brochures</h2>
-  <input id ='compatibility' class='toggle' type='checkbox' checked>
+  <input id ='compatibility' class='toggle' type='checkbox'>
   <label class='lbl-toggle' for='compatibility'></label>
   <div class='collapsible-content'>
 <div class="brochure-container">

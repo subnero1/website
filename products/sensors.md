@@ -46,7 +46,7 @@ excerpt: Additional sensors for Subnero underwater modems.
       <hr>
       <div class='wrap-collapsible'>
         <h2>Product Information</h2>
-        <input id ='product' class='toggle' type='checkbox' checked>
+        <input id ='product' class='toggle' type='checkbox'>
         <label class='lbl-toggle' for='product'></label>
         <div class='collapsible-content'>
           <p>Integrate additional sensors such as GPS, compass, low drift clocks to your devices to enable a new range of applications like localization & positioning, sonar, etc.</p>
@@ -70,7 +70,7 @@ excerpt: Additional sensors for Subnero underwater modems.
       <hr>
       <div class='wrap-collapsible'>
         <h2>Compatibility</h2>
-        <input id ='compatibility' class='toggle' type='checkbox' checked>
+        <input id ='compatibility' class='toggle' type='checkbox'>
         <label class='lbl-toggle' for='compatibility'></label>
         <div class='collapsible-content'>
           <div class="brochure-container">

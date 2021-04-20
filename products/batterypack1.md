@@ -45,7 +45,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
       <hr>
       <div class='wrap-collapsible'>
         <h2>Product Information</h2>
-        <input id ='product' class='toggle' type='checkbox' checked>
+        <input id ='product' class='toggle' type='checkbox'>
         <label class='lbl-toggle' for='product'></label>
         <div class='collapsible-content'>
           <p>Designed to be used with Subnero underwater modems, the rehcargeable battery packs are ideal for seabed deployments.</p>
@@ -85,7 +85,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
       <hr>
       <div class='wrap-collapsible'>
         <h2>Compatibility</h2>
-        <input id ='compatibility' class='toggle' type='checkbox' checked>
+        <input id ='compatibility' class='toggle' type='checkbox'>
         <label class='lbl-toggle' for='compatibility'></label>
         <div class='collapsible-content'>
           <div class="brochure-container">
