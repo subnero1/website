@@ -43,7 +43,12 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 
 <div class='two spacing'></div>
 
-<h2 style="text-transform: none;" id="p_techspec">+ TECHNICAL SPECIFICATIONS</h2>
+<div class='wrap-collapsible'>
+
+<h2 style="text-transform: none;" id="p_techspec">TECHNICAL SPECIFICATIONS</h2>
+<input id ='tech-specs' class='toggle' type='checkbox' checked>
+<label class='lbl-toggle' for='tech-specs'></label>
+<div class='collapsible-content' markdown="1">
 
 ### Communication
 
@@ -84,12 +89,21 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 | Supported MIL standards                | MIL-STD-810G, MIL-STD-810E, MIL-STD-461E  |
 | Workmanship                            | - IPC class 2A<br> - Conformal coating<br> - Environmental Stress Screening (ESS)|
 
-## + Brochures
-<div class="brochure-container">
-  <a href="{{site.baseurl}}/brochures/Subnero-Modem-Brochure.pdf" target="_blank"><img class="brochure-thumb" src="{{site.baseurl}}/brochures/modem4.jpg"></a>
-  <a href="{{site.baseurl}}/brochures/Subnero-Modem-Brochure.pdf" target="_blank">Subnero Underwater Modems</a>
 </div>
-<div class="brochure-container">
-  <a href="{{site.baseurl}}/brochures/Subnero-Modem-Specifications.pdf" target="_blank"><img class="brochure-thumb" src="{{site.baseurl}}/brochures/spec.jpg"></a>
-  <a href="{{site.baseurl}}/brochures/Subnero-Modem-Specifications.pdf" target="_blank">Subnero Underwater Modems Technical Specifications</a>
+</div>
+
+<div class='wrap-collapsible'>
+  <h2>Brochures</h2>
+  <input id ='compatibility' class='toggle' type='checkbox' checked>
+  <label class='lbl-toggle' for='compatibility'></label>
+  <div class='collapsible-content'>
+  <div class="brochure-container">
+    <a href="{{site.baseurl}}/brochures/Subnero-Modem-Brochure.pdf" target="_blank"><img class="brochure-thumb" src="{{site.baseurl}}/brochures/modem4.jpg"></a>
+    <a href="{{site.baseurl}}/brochures/Subnero-Modem-Brochure.pdf" target="_blank">Subnero Underwater Modems</a>
+  </div>
+  <div class="brochure-container">
+    <a href="{{site.baseurl}}/brochures/Subnero-Modem-Specifications.pdf" target="_blank"><img class="brochure-thumb" src="{{site.baseurl}}/brochures/spec.jpg"></a>
+    <a href="{{site.baseurl}}/brochures/Subnero-Modem-Specifications.pdf" target="_blank">Subnero Underwater Modems Technical Specifications</a>
+  </div>
+  </div>
 </div>
