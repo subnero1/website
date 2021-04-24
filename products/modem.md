@@ -18,7 +18,6 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
   <div class='four spacing'></div>
 </div>
 
-<!--<div class='full' style='background:#F5F5F5'>-->
 <div class='cGBxoB'>
 <section class='bsPRnx'>
     <h1 class='thin' style='text-align: center'>Subnero M25M series acoustic modems</h1>
@@ -56,7 +55,6 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
                         {% endfor %}
                     </div>
                 </li>
-                <li class="fuqHMA"></li>
             </ul>
         </div>
         <div class='cmXrEt'>

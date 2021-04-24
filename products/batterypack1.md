@@ -38,7 +38,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
           <h3>Underwater battery packs for Subnero devices</h3>
           <ul>
             <li>Common battery type (Alkaline D-cells)</li>
-            <li>In-field replaceable</li>
+            <li>On-site replaceable</li>
           </ul>
         </div>
       </div>
@@ -48,7 +48,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
         <input id ='product' class='toggle' type='checkbox'>
         <label class='lbl-toggle' for='product'></label>
         <div class='collapsible-content'>
-          <p>Designed to be used with Subnero underwater modems, the rehcargeable battery packs are ideal for seabed deployments.</p>
+          <p>Designed to be used with Subnero underwater modems, the rechargeable battery packs are ideal for seabed deployments.</p>
           <h3>Specifications</h3>
           <table style="width:100%">
             <tr>
