@@ -33,7 +33,7 @@ excerpt: Optional upgrades and accessories for Subnero underwater modems.
 				        <div class='mod modBlogPost'>
 				        	<a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-batterypack.jpg" />
 				          	<div class='content'>
-				            <h2>Primary Battery Packs</h2>
+				            <h2>Battery Packs</h2>
 				          </div></a>
 				        </div>
 				        {% endif %}
