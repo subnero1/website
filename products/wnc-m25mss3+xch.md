@@ -57,7 +57,7 @@ Subnero's multi-channel modems, provide the capability to record synchronized si
 | Feature                                | Details                                   |
 | -------------------------------------- | ----------------------------------------- |
 |  Additional receiving channels         | up to 4                                   |
-|  Sampling rate (per channel)           | 128 kSa/s                                 |
+|  Sampling rate (per channel)           | 128 or 256 kSa/s                          |
 |  Fixed gain                            | 10 dB                                     |
 |  Programmable gain                     | 36 dB                                     |
 
