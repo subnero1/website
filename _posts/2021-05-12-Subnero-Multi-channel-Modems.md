@@ -1,4 +1,13 @@
-As you know, [Subnero modems](https://subnero.com/products/modem.html) running [UnetStack](http://unetstack.net/) software framework, are at the forefront of the underwater wireless communication technology. In addition to providing unparalleled communication and networking performance, they also provide the user with the ability to [transmit and record arbitrary waveforms](https://unetstack.net/handbook/unet-handbook_baseband_service.html). Being software defined, these devices provide the flexibility to you, the user, to develop or extend the capabilities using your own techniques. We, at Subnero are constantly working to bring you new features to help you realize __your__ vision of underwater communications and networking.
+---
+layout: post
+title: Subnero WNC product launch - Multi-channel modems
+banner : images/banner-pulse-standard.jpg
+date:  2021-05-12
+categories: wnc
+thumbnail: images/thumbnail-wnc-multichannel.jpg
+---
+
+As you know, [Subnero modems](https://subnero.com/products/modem.html) running [UnetStack](http://unetstack.net/){:target="_blank"} software framework, are at the forefront of the underwater wireless communication technology. In addition to providing unparalleled communication and networking performance, they also provide the user with the ability to [transmit and record arbitrary waveforms](https://unetstack.net/handbook/unet-handbook_baseband_service.html){:target="_blank"}. Being software defined, these devices provide the flexibility to you, the user, to develop or extend the capabilities using your own techniques. We, at Subnero are constantly working to bring you new features to help you realize __your__ vision of underwater communications and networking.
 
 Now, imagine being able to use our modems to do things that were not possible previously, with a conventional acoustic modem. For example, let's say you have a communication link, that stops working beyond a certain range. You upgrade your modem and you can extend your communication range beyond what was previously possible.
 
@@ -16,7 +25,7 @@ In addition to the extra receiving channels, the multi-channel modems are also e
 
 Some of these features will be available as a software upgrade in the form of [UnetStack premium agents](https://subnero.com/products/unet.html).
 
-For power users, the full potential of the device can be harnessed through the customizability of UnetStack. You can get direct access to raw data from all the channels in real-time, through UnetStack APIs. The out-of-the-box length of the hydrophone cables are 10m from the housing, which allow you to decide the placement of these channels depending on your application. With such flexibility, a user can develop your own array processing or spatial diversity combining techniques or positioning applications with the help of various developer tools provided by UnetStack. With [native support](https://blog.unetstack.net/harnessing-the-power-of-julia-in-unetstack) for scientific computing languages such as [Julia](https://julialang.org/), or UnetStack gateway support with Python, these devices reduce the time to deployment of your algorithms, dramatically. In short, the kinds of applications you can develop using our multi-channel modem platform is only limited by your imagination.
+For power users, the full potential of the device can be harnessed through the customizability of UnetStack. You can get direct access to raw data from all the channels in real-time, through UnetStack APIs. The out-of-the-box length of the hydrophone cables are 10m from the housing, which allow you to decide the placement of these channels depending on your application. With such flexibility, a user can develop your own array processing or spatial diversity combining techniques or positioning applications with the help of various developer tools provided by UnetStack. With [native support](https://blog.unetstack.net/harnessing-the-power-of-julia-in-unetstack){:target="_blank"} for scientific computing languages such as [Julia](https://julialang.org/){:target="_blank"}, or UnetStack gateway support with Python, these devices reduce the time to deployment of your algorithms, dramatically. In short, the kinds of applications you can develop using our multi-channel modem platform is only limited by your imagination.
 
 We hope you find our multi-channel modems exciting.
 
