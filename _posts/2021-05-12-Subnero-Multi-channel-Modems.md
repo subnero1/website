@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Subnero WNC product launch - Multi-channel modems
-banner : images/banner-pulse-standard.jpg
+title: Introducing Subnero Multi-channel Modems
+banner : images/banner-multichannel.jpg
 date:  2021-05-12
 categories: wnc
 thumbnail: images/thumbnail-wnc-multichannel.jpg
 ---
+
+# Introducing Subnero Multi-channel Modems
 
 As you know, [Subnero modems](https://subnero.com/products/modem.html) running [UnetStack](http://unetstack.net/){:target="_blank"} software framework, are at the forefront of the underwater wireless communication technology. In addition to providing unparalleled communication and networking performance, they also provide the user with the ability to [transmit and record arbitrary waveforms](https://unetstack.net/handbook/unet-handbook_baseband_service.html){:target="_blank"}. Being software defined, these devices provide the flexibility to you, the user, to develop or extend the capabilities using your own techniques. We, at Subnero are constantly working to bring you new features to help you realize __your__ vision of underwater communications and networking.
 
