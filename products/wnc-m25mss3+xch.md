@@ -18,7 +18,7 @@ Subnero's multi-channel modems, provide the capability to record synchronized si
 - Multiple synchronized receiving channels.
 - Ability to choose between 1 - 4 additional receiving channels.
 - Scheduled and trigger based recordings.
-- Access to raw signals (passband and baseband) from all receiving channels.
+- Access to raw signals from all receiving channels.
 - Ability to develop and deploy user defined applications using [UnetStack]({{ site.baseurl }}{%link products/unet.md %}). Examples are:
   - Rapid environmental assessment.
   - Diversity combining techniques to enhance communication performance.
@@ -73,11 +73,12 @@ Subnero's multi-channel modems, provide the capability to record synchronized si
 </div>
 
 <div class='wrap-collapsible'>
-  <h2>Useful Link</h2>
+  <h2>Useful Links</h2>
   <input id ='compatibility' class='toggle' type='checkbox'>
   <label class='lbl-toggle' for='compatibility'></label>
   <div class='collapsible-content' markdown="1">
 
+- [Introducing Subnero Multi-channel Modems](https://subnero.com/wnc/2021/05/12/Subnero-Multi-channel-Modems.html)
 - [Underwater modem with a secondary data acquisition system](https://subnero.com/wnc/2017/12/12/Underwater-modem-with-multiple-hydrophones.html)
 
 </div>

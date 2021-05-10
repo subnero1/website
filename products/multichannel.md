@@ -18,7 +18,7 @@ The Subnero underwater modems provide options for customization and extension at
 - Multiple synchronized receiving channels.
 - Storage and computing power for real-time data processing.
 - Scheduled and trigger based recordings.
-- Access to raw signals (passband and baseband) from all receiving channels.
+- Access to raw signals from all receiving channels.
 - Ability to develop and deploy user defined applications using [UnetStack]({{ site.baseurl }}{%link products/unet.md %}). Examples are:
   - Rapid environmental assessment.
   - Diversity combining techniques to enhance communication performance.
