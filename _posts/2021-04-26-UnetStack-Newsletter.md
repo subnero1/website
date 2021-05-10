@@ -33,6 +33,3 @@ We also took this opportunity to release smaller improvements such as:
 
 Check out our [YouTube](https://www.youtube.com/channel/UCnwSva23AuUCFPqgI0kPvdw) channel for the [latest video](https://www.youtube.com/watch?v=H1522Aa1UuY) about this latest release, as well as our [blog](https://blog.unetstack.net/whats-new-in-UnetStack-3.3).
 
-
-
-![]({{site.baseurl}}/images/pulse-YouTube-UnetStack-3.3.jpeg){: .center-image  }
