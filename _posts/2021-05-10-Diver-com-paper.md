@@ -14,7 +14,7 @@ We are proud to share that the our paper titled [_Diver Communication and Locali
 
 The paper is the fruit of several months of work by the Subnero team, in collaboration with [Dr. Mandar Chitre](https://arl.nus.edu.sg/people/mandar-chitre/){:target="_blank"}, of the [Acoustic Research Laboratories (ARL)](https://arl.nus.edu.sg/){:target="_blank"},
 
-As the title indicates, the team has developed on an underwater communication system to improve divers safety using our off the shelf software-defined as well as newly designed devices.
+As the title indicates, the team used our software-defined underwater acoustic communication and localization technology to develop a diver communication and localization system to improve operational safety of underwater divers.
 
 The paper was presented virtually by Dr Prasad Anjangi during [Oceans 2020](https://global20.oceansconference.org/) back in October 2020.
 
