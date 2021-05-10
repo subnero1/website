@@ -18,4 +18,4 @@ As the title indicates, the team used our software-defined underwater acoustic c
 
 The paper was presented virtually by Dr. Prasad Anjangi during [Global Oceans 2020](https://global20.oceansconference.org/) back in October 2020.
 
-For more details, dowlonad the paper in the link above or [contact us](info@subnero.com).
+Download the full paper in the link above or [contact us](https://subnero.com/contact/) for more details.
