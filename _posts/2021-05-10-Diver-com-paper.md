@@ -12,7 +12,7 @@ thumbnail: images/pulse-thumbnail-Diver-Comm-05-2021.jpg
 
 We are proud to share that the our paper titled [_Diver Communication and Localization System using Underwater Acoustics_](https://ieeexplore.ieee.org/abstract/document/9389462) has been published in IEEE Xplore.
 
-The paper is the fruit of several months of work across the Subnero team and the collaboration of [Professor Mandar Chitre](https://arl.nus.edu.sg/people/mandar-chitre/){:target="_blank"}, of the [Acoustic Research Laboratories (ARL)](https://arl.nus.edu.sg/){:target="_blank"},
+The paper is the fruit of several months of work by the Subnero team, in collaboration with [Dr. Mandar Chitre](https://arl.nus.edu.sg/people/mandar-chitre/){:target="_blank"}, of the [Acoustic Research Laboratories (ARL)](https://arl.nus.edu.sg/){:target="_blank"},
 
 As the title indicates, the team has developed on an underwater communication system to improve divers safety using our off the shelf software-defined as well as newly designed devices.
 
