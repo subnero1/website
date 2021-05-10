@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diver communication and localization paper published
+title: Diver Communication and Localization System using Underwater Acoustics
 banner : images/banner-pulse-standard.jpg
 date:  2021-05-10
 categories: wnc; news
