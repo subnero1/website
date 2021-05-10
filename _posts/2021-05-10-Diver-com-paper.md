@@ -4,20 +4,18 @@ title: Diver communication and localization paper published
 banner : images/banner-pulse-standard.jpg
 date:  2021-05-10
 categories: wnc; news
-thumbnail: images/pulse-thumbnail-node-modem.jpeg
+thumbnail: images/pulse-thumbnail-Diver-Comm-05-2021.jpg
 ---
 <div class='pulse-img-div'>
-    <img src="{{site.baseurl}}/images/pulse-thumbnail-node-modem.jpeg" class='pulse-img'>
+    <img src="{{site.baseurl}}/images/pulse-thumbnail-Diver-Comm-05-2021.jpg" class='pulse-img'>
 </div>
 
-We are very proud to announce that the our paper about Diver communication and localization paper has been published by IEEE Xplore.
+We are very proud to announce that the our paper about [Diver communication and localization paper](https://ieeexplore.ieee.org/abstract/document/9389462) has been published by IEEE Xplore.
 
-The paper is the fruit of several months of work across the Subnero team with the collaboration of Prof Mandar from ARL.
+The paper is the fruit of several months of work across the Subnero team and the collaboration of [Professor Mandar Chitre](https://arl.nus.edu.sg/people/mandar-chitre/){:target="_blank"}, of the [Acoustic Research Laboratories (ARL)](https://arl.nus.edu.sg/){:target="_blank"},
 
-.  The University of Haifa, deployed a Node configuration Subnero modem with an additional [co-processor](https://subnero.com/wnc/2018/11/17/Underwater-modem-with-a-coprocessor.html), that is configured with sonar-like functionalities, for their research.
+As the title indicates, the team has developed on an underwater communication system to improve divers safety using our off the shelf software-defined as well as newly designed devices.
 
-[Contact us](https://subnero.com/contact/) to find out more about software-defined acoustic modems.
+The paper was presented virtually by Dr Prasad Anjangi during [Oceans 2020](https://global20.oceansconference.org/) back in October 2020.
 
-
-
-The team of [Dr Roee Diamant](https://sites.google.com/edu.haifa.ac.il/anl/personnel){:target="_blank"}, 
+For more details, dowlonad the paper in the link above or [contact us](info@subnero.com).
