@@ -4,10 +4,10 @@ title: Diver Communication and Localization System using Underwater Acoustics
 banner : images/banner-pulse-standard.jpg
 date:  2021-05-10
 categories: wnc; news
-thumbnail: images/pulse-thumbnail-Diver-Comm-05-2021.jpg
+thumbnail: images/pulse-thumbnail-diver-comm-05-2021.jpg
 ---
 <div class='pulse-img-div'>
-    <img src="{{site.baseurl}}/images/pulse-thumbnail-Diver-Comm-05-2021.jpg" class='pulse-img'>
+    <img src="{{site.baseurl}}/images/pulse-thumbnail-diver-comm-05-2021.jpg" class='pulse-img'>
 </div>
 
 We are proud to share that our paper titled [_Diver Communication and Localization System using Underwater Acoustics_](https://ieeexplore.ieee.org/abstract/document/9389462){:target="_blank"} has been published in IEEE Xplore.
