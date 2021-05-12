@@ -3,7 +3,7 @@ layout: post
 title: Diver Communication and Localization System using Underwater Acoustics
 banner : images/banner-pulse-standard.jpg
 date:  2021-05-10
-categories: wnc; news
+categories: wnc news
 thumbnail: images/pulse-thumbnail-diver-comm-05-2021.jpg
 ---
 <div class='pulse-img-div'>
