@@ -96,10 +96,12 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
                         {% for page in product_pages %}
                         {% if page.title contains "WNC-M25MSS3+xCh" %}
                         <div class='mod modBlogPost'>
-                            <a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-multichannel.jpg" />
-                            <div class='content'>
-                            <h2>Multi-Channel Configuration <br>WNC-M25MSS3+xCh</h2>
-                            </div>
+                            <a href="{{site.baseurl}}{{page.url}}">
+                                <h2 class="new-tag"> NEW </h2>
+                                <img alt="" src="{{site.baseurl}}/images/thumbnail-wnc-multichannel.jpg" />
+                                <div class='content'>
+                                    <h2>Multi-Channel Configuration <br>WNC-M25MSS3+xCh</h2>
+                                </div>
                             </a>
                         </div>
                         {% endif %}
@@ -140,10 +142,13 @@ excerpt: Subnero's software-defined underwater acoustic modems for underwater wi
                         {% for page in product_pages %}
                         {% if page.title contains "Subnero Modem Accessories" %}
                         <div class='mod modBlogPost'>
-                            <a href="{{site.baseurl}}{{page.url}}"><img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
-                            <div class='content'>
-                            <h2>Accessories</h2>
-                          </div></a>
+                            <a href="{{site.baseurl}}{{page.url}}">
+                                <h2 class="new-tag"> NEW </h2>
+                                <img alt="" src="{{site.baseurl}}/{{page.thumbnail}}" />
+                                <div class='content'>
+                                    <h2>Accessories</h2>
+                                </div>
+                            </a>
                         </div>
                         {% endif %}
                         {% endfor %}
