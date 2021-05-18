@@ -3802,7 +3802,7 @@ p.small-title {
 
 .fullscreen .announcements h1 {
   color:#fff;
-  font-size:70px;
+  font-size:3.5em;
   font-weight:500;
   letter-spacing:0;
   line-height:1.1em;
@@ -3810,7 +3810,7 @@ p.small-title {
 
 .fullscreen .announcements h2 {
   color:#fff;
-  font-size:40px;
+  font-size:2em;
   font-weight:100;
   letter-spacing:0;
   line-height:1.1em;
@@ -3832,7 +3832,7 @@ p.small-title {
 
 @media only screen and (max-width: 1060px){
   .fullscreen .layer {
-    top: 25%;
+    top: 50%;
     padding: 20px;
   }
 
@@ -4091,7 +4091,7 @@ p.small-title {
   }
 
   .fullscreen .layer {
-    top: 25%;
+    top: 50%;
     padding: 20px;
   }
 
@@ -4319,6 +4319,18 @@ p.small-title {
   min-height: 60vh;
 }
 
+.fullscreen .announcements {
+  width: 70%;
+}
+
+.fullscreen .announcements h1 {
+  font-size:3em;
+}
+
+.fullscreen .announcements h2 {
+  font-size:2em;
+}
+
 }
 
 /*
@@ -4400,6 +4412,18 @@ p.small-title {
   flex-direction: column;
 }
 
+.fullscreen .announcements {
+  width: 70%;
+}
+
+.fullscreen .announcements h1 {
+  font-size:3em;
+}
+
+.fullscreen .announcements h2 {
+  font-size:2em;
+}
+
 }
 
 /*
@@ -4472,6 +4496,17 @@ p.small-title {
 
 .brochure-container a{
   font-size: 1.2em;
+}
+.fullscreen .announcements {
+  width: 70%;
+}
+
+.fullscreen .announcements h1 {
+  font-size:3em;
+}
+
+.fullscreen .announcements h2 {
+  font-size:2em;
 }
 }
 
@@ -4589,6 +4624,19 @@ h1{
   flex-direction: column;
 }
 
+.fullscreen .announcements {
+  width: 100%;
+  padding-left: 35px;
+}
+
+.fullscreen .announcements h1 {
+  font-size:2em;
+}
+
+.fullscreen .announcements h2 {
+  font-size:1.5em;
+}
+
 }
 
 /*
@@ -4703,6 +4751,19 @@ h1{
 
 .accessories{
   flex-direction: column;
+}
+
+.fullscreen .announcements {
+  width: 100%;
+  padding-left: 35px;
+}
+
+.fullscreen .announcements h1 {
+  font-size:2em;
+}
+
+.fullscreen .announcements h2 {
+  font-size:1.5em;
 }
 
 }
