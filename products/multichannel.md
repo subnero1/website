@@ -78,7 +78,7 @@ The Subnero underwater modems provide options for customization and extension at
 | Power consumption                      | < 7 W (receive mode, nominal)<br>< 60 W (transmit mode, avg.)<br>< 80 W (transmit mode, max.)|
 | Dimensions                             | ⌀ 127 ✕ 324 mm                            |
 
-<h3><a href="mailto:sales@subnero.com">Contact US for a quote</a></h3>
+<a href="mailto:sales@subnero.com"><button type="button">GET A QUOTE</button></a>
 
 ## + Useful Links
 - [Underwater modem with a secondary data acquisition system](https://subnero.com/wnc/2017/12/12/Underwater-modem-with-multiple-hydrophones.html)

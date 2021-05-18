@@ -78,7 +78,7 @@ Our research edition modems are designed to bridge the gap between developing ap
 | Dimensions                             | ⌀ 130 ✕ 290 mm                            |
 | Operating temperature                  | 0 to 40 °C                                |
 
-<h3><a href="mailto:sales@subnero.com">Contact US for a quote</a></h3>
+<a href="mailto:sales@subnero.com"><button type="button">GET A QUOTE</button></a>
 
 <h2>Brochures</h2>
 <div class="brochure-container">

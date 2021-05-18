@@ -103,8 +103,7 @@ Subnero's silver edition underwater modem is the workhorse communication node to
 
 - Details of optional upgrades and accessories available [here](./accessories.md).
 
-
-<h3><a href="mailto:sales@subnero.com">Contact US for a quote</a></h3>
+<a href="mailto:sales@subnero.com"><button type="button">GET A QUOTE</button></a>
 
 <h2>Brochures</h2>
 <div class="brochure-container">

@@ -39,6 +39,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
             <li>Li-ion battery pack</li>
             <li>Ideal for seabed deployments</li>
           </ul>
+          <a href="mailto:sales@subnero.com"><button type="button">GET A QUOTE</button></a>
         </div>
       </div>
       <hr>

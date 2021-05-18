@@ -41,6 +41,7 @@ excerpt: Additional sensors for Subnero underwater modems.
               <li>GPS</li>
               <li>Low-drift clock</li>
             </ul>
+            <a href="mailto:sales@subnero.com"><button type="button">GET A QUOTE</button></a>
         </div>
       </div>
       <hr>

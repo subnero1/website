@@ -41,6 +41,7 @@ excerpt: Co-processor for Subnero underwater modems.
               <li>Dual-Core nVIDIA Denver 2 64-Bit CPU</li>
               <li>8GB 128-bit LPDDR4 Memory</li>
             </ul>
+            <a href="mailto:sales@subnero.com"><button type="button">GET A QUOTE</button></a>
         </div>
       </div>
       <hr>

@@ -40,6 +40,7 @@ excerpt: Underwater battery packs for deployment of Subnero underwater modems.
             <li>Common battery type (Alkaline D-cells)</li>
             <li>On-site replaceable</li>
           </ul>
+          <a href="mailto:sales@subnero.com"><button type="button">GET A QUOTE</button></a>
         </div>
       </div>
       <hr>

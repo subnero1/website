@@ -40,6 +40,7 @@ excerpt: Electrical interfaces for Subnero underwater modems
               <li>RS232</li>
               <li>Support for up to 115200 bps</li>
             </ul>
+            <a href="mailto:sales@subnero.com"><button type="button">GET A QUOTE</button></a>
         </div>
       </div>
       <hr>

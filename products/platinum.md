@@ -90,8 +90,7 @@ Delivering performance under the toughest environmental conditions, Subnero's pl
 
 - Details of optional upgrades and accessories available [here](./accessories.md).
 
-<h3><a href="mailto:sales@subnero.com">Contact US for a quote</a></h3>
-
+<a href="mailto:sales@subnero.com"><button type="button">GET A QUOTE</button></a>
 
 ## Brochures
 <div class="brochure-container">

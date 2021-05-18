@@ -23,7 +23,7 @@ Our research edition modems are designed to bridge the gap between developing ap
 
 \* Depending on channel conditions and reliability requirements.
 
-<h3><a href="mailto:sales@subnero.com">Contact US for a quote</a></h3>
+<a href="mailto:sales@subnero.com"><button type="button">GET A QUOTE</button></a>
 
 <div class='full' style='background: #f5f5f5'>
 

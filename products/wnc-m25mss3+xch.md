@@ -26,7 +26,7 @@ Subnero's multi-channel modems, provide the capability to record synchronized si
 <!-- - Software upgrade option for [Unity](./unity.md) to enhance communication performance using spatial diversity techniques -->
 <!-- - Software upgrade option for enabling [USBL](./usbl.md) functionality -->
 
-<h3><a href="mailto:sales@subnero.com">Contact US for a quote</a></h3>
+<a href="mailto:sales@subnero.com"><button type="button">GET A QUOTE</button></a>
 
 <div id="embedded"></div>
 <div class='full' style='background: #f5f5f5'>
