@@ -4,7 +4,7 @@ title: Storage
 banner : images/banner-electrical.jpg
 thumbnail: images/thumbnail-storage.jpg
 categories: accessories
-excerpt: Additional storage for Subnero underwater modems.
+excerpt: Additional storage for Subnero underwater acoustic modems.
 ---
 
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>

@@ -3,7 +3,7 @@ layout: page
 title: WNC-M25MRS3
 banner : images/banner-research.jpg
 thumbnail : images/thumbnail-wnc-m25mrs3.jpg
-excerpt: Subnero research edition modems are geared towards academic researchers and underwater technology enthusiasts.
+excerpt: Subnero research edition of underwater acoustic modems are geared towards academic researchers and underwater technology enthusiasts.
 categories: modem
 section_id: products
 ---

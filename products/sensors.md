@@ -4,7 +4,7 @@ title: Sensors
 banner : images/banner-electrical.jpg
 thumbnail: images/thumbnail-sensors.jpg
 categories: accessories
-excerpt: Additional sensors for Subnero underwater modems.
+excerpt: Additional sensors for Subnero underwater acoustic modems.
 ---
 
 <div class='full tall' style='background-image: url({{site.baseurl}}/{{page.banner}});'>

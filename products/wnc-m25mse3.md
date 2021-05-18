@@ -3,7 +3,7 @@ layout: page
 title: WNC-M25MSE3
 banner : images/banner-silver.jpg
 thumbnail : images/thumbnail-wnc-m25mse3.jpg
-excerpt: Subnero silver edition modems are the workhorse communication nodes for use in general commercial deployments.
+excerpt: Subnero silver edition of underwater acoustic modems are the workhorse communication nodes for use in general commercial deployments.
 categories: modem
 section_id: products
 ---
