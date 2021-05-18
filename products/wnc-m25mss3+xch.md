@@ -12,6 +12,10 @@ section_id: products
 
 Subnero's multi-channel modems, provide the capability to record synchronized signals from multiple hydrophones, in addition to the regular communication channel thereby enabling a plethora of new applications.
 
+<div class="video-wrapper">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1OtxLh8z0zQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Key Features
 
 - Integrated Subnero [silver edition](./wnc-m25mss3.md) modems.
