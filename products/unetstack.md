@@ -2,7 +2,7 @@
 layout: page
 title:  Underwater Network Stack
 banner : images/banner-unetstack.jpg
-thumbnail : images/thumbnail-unetstack.jpg
+thumbnail : images/boxart-unet.jpg
 excerpt:
   Agent-based underwater network stack to transform modems into sophisticated network nodes
 categories: software

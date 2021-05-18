@@ -4,6 +4,7 @@ title:  Solutions
 banner : images/banner-solutions.jpg
 categories: solutions
 thumbnail: images/thumbnail-wnc-m25mss3-c.jpg
+excerpt: Subnero's solutions for underwater wireless communication, networking, navigation with acoustic modems and cloud-based real-time water-quality monitoring(SWAN).
 ---
 
 ## Underwater communications & networking
@@ -42,8 +43,4 @@ We provide professional deployment services and operational support for its clie
 
 While our products are flexible enough to meet most client requirements, there are times when a client requires technology customization in order to meet some special needs. We are happy to advise clients on how best our products can be used to meet these needs, and customize the products when necessary for specific applications.
 
-Featured customized solutions:
-
-- [Underwater modem with a secondary data acquisition system]({{site.baseurl}}{%link _posts/2017-12-12-Underwater-modem-with-multiple-hydrophones.md %})
-- [Underwater acoustic recorder]({{site.baseurl}}{%link _posts/2015-02-20-aRecorder.md %})
-- [Underwater modem with a co-processor]({{site.baseurl}}{%link _posts/2018-11-17-Underwater-modem-with-a-coprocessor.md %})
+<a href="https://subnero.com/contact/">Contact us</a> to find out more about customized solutions.
