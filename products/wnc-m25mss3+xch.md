@@ -73,6 +73,18 @@ Subnero's multi-channel modems, provide the capability to record synchronized si
 </div>
 
 <div class='wrap-collapsible'>
+  <h2>Brochure</h2>
+  <input id ='compatibility' class='toggle' type='checkbox'>
+  <label class='lbl-toggle' for='compatibility'></label>
+  <div class='collapsible-content'>
+<div class="brochure-container">
+  <a href="{{site.baseurl}}/brochures/Subnero-Multi-Channel-Modem-Brochure.pdf" target="_blank"><img class="brochure-thumb" src="{{site.baseurl}}/brochures/modem5.jpg"></a>
+  <a href="{{site.baseurl}}/brochures/Subnero-Multi-Channel-Modem-Brochure.pdf" target="_blank">Subnero Multi-Channel Modems</a>
+</div>
+</div>
+</div>
+
+<div class='wrap-collapsible'>
   <h2>Useful Links</h2>
   <input id ='compatibility' class='toggle' type='checkbox'>
   <label class='lbl-toggle' for='compatibility'></label>
