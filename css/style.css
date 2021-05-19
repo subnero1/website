@@ -3849,9 +3849,15 @@ p.small-title {
   .top-bar-section ul li > a{
     font-size: 1.2rem;
   }
+
 }
 
 @media only screen and (max-width: 960px) {
+  .fullscreen .layer {
+    top: 50%;
+    padding: 20px;
+  }
+
   .modTeamMember .overlay {
     opacity: 1;
     background-color: rgba(255, 255, 255, 0.8);
@@ -4177,6 +4183,19 @@ p.small-title {
     min-height: 50vh;
   }
 
+  .fullscreen .layer {
+    top: 50%;
+    padding: 20px;
+  }
+
+  .fullscreen .announcements h1 {
+    font-size:4em;
+  }
+
+  .fullscreen .announcements h2 {
+    font-size:2em;
+  }
+
 }
 
 /*
@@ -4240,6 +4259,23 @@ p.small-title {
 .posts{
   background: #f5f5f5;
   min-height: 50vh;
+}
+
+.fullscreen .layer {
+    top: 50%;
+    padding: 20px;
+  }
+
+.fullscreen .announcements {
+  width: 70%;
+}
+
+.fullscreen .announcements h1 {
+  font-size:4em;
+}
+
+.fullscreen .announcements h2 {
+  font-size:2em;
 }
 
 }
@@ -4317,6 +4353,10 @@ p.small-title {
 .posts{
   background: #f5f5f5;
   min-height: 60vh;
+}
+
+.fullscreen .layer{
+  top: 40%;
 }
 
 .fullscreen .announcements {
@@ -4410,6 +4450,10 @@ p.small-title {
 
 .accessories{
   flex-direction: column;
+}
+
+.fullscreen .layer{
+  top: 40%;
 }
 
 .fullscreen .announcements {
