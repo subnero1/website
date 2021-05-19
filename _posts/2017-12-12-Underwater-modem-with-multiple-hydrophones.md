@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Underwater modem with a secondary data acquisition system
+title: Multi-channel underwater modem
 banner : images/banner-pulse-custommodem.jpg
 date:  2017-05-18
 categories: wnc
 thumbnail: images/pulse-thumbnail-multichannel.jpg
 ---
 
-The Subnero underwater modems provide options for customization and extension at many levels. For a research application, a customer required 4 synchronized recordings of a received signal from carefully positioned hydrophones, everytime the signal was detected on the main hydrophone. In order to fulfill this requirement and manage the extra receiving channels, there is an additional analog-to-digital (ADC) convertor integrated in the modem. The second ADC is managed by the UnetStack agent named `adc2`.
+The Subnero underwater modems provide options for customization and extension at many levels. For many research applications, multiple synchronized recordings of a received signal from carefully positioned hydrophones are required everytime a signal is detected on the main hydrophone. In order to manage the extra receiving channels, there is an additional analog-to-digital (ADC) convertor integrated in the modem. The second ADC is managed by the UnetStack agent named `adc2`.
 
 At the event of detection of a signal on the main hydrophone, a baseband reception notification message `RxBasebandSignalNtf` is sent by the modem. The customer's script can look for the reception of this notification message and request a recording using the secondary data acquisition system:
 
