@@ -7,8 +7,10 @@ categories: wnc
 thumbnail: images/pulse-thumbnail-oceans19.jpg
 ---
 
-<div class="flex-video">
-<iframe src="https://www.youtube.com/embed/oDhKM-z8En8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class='video'>
+    <div class="flex-video">
+        <iframe src="https://www.youtube.com/embed/oDhKM-z8En8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 </div>
 
 OCEANS is a bi-annual event for global marine technologists, engineers, scientists, students, government officials and lawyers.

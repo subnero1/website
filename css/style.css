@@ -5316,3 +5316,7 @@ input[type='checkbox']{
   background: #f5f5f5;
 }
 
+.video{
+  margin-left: 8vw;
+  margin-right: 8vw;
+}
