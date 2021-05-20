@@ -12,10 +12,8 @@ section_id: products
 
 Subnero's multi-channel modems, provide the capability to record synchronized signals from multiple hydrophones, in addition to the regular communication channel thereby enabling a plethora of new applications.
 
-<div class='video'>
-  <div class="flex-video">
-    <iframe src="https://www.youtube.com/embed/1OtxLh8z0zQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
+<div class="flex-video video">
+  <iframe src="https://www.youtube.com/embed/1OtxLh8z0zQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Key Features
