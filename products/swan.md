@@ -10,8 +10,8 @@ section_id: products
 
 Subnero Water Assessment Network (SWAN) consists of a team of low-cost, autonomous, robotic _swans_ that can navigate autonomously, collect water samples at different locations, analyze them in the field and upload the results to a central server, where a user can monitor it from the comfort of his/her own office. Swans are usually associated with clean waters and go along well with recreational activities. A team of swans can do simultaneous spatial data sampling, over a period of time, in a cooperative and adaptive fashion making them perfect for obtaining statistical coverages. They need minimal logistical support as they return home automatically after their tasks are completed.
 
-<div class="video-wrapper">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ea0CNGSMBU8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="flex-video video">
+  <iframe src="https://www.youtube.com/embed/ea0CNGSMBU8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ## Why SWAN?

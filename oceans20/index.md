@@ -98,25 +98,24 @@ This questionnaire is *ONLY REQUIRED* for those who require CEU credits. For tho
 
 <h2 style="font-size: 26px;">Part 1</h2>
 
-
-<div class="video-wrapper"> <iframe width="672" height="378" src="https://www.youtube.com/embed/h0XucbYKg5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="flex-video video"> <iframe src="https://www.youtube.com/embed/h0XucbYKg5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 <h2 style="font-size: 26px;">Part 2</h2>
 
-<div class="video-wrapper"> <iframe width="672" height="378" src="https://www.youtube.com/embed/Z6QH1VhRL1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="flex-video video"> <iframe src="https://www.youtube.com/embed/Z6QH1VhRL1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 <h2 style="font-size: 26px;">Part 3</h2>
 
-<div class="video-wrapper"> <iframe width="672" height="378" src="https://www.youtube.com/embed/4ODQxeJeMMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="flex-video video"> <iframe src="https://www.youtube.com/embed/4ODQxeJeMMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 <h2 style="font-size: 26px;">Part 4</h2>
 
-<div class="video-wrapper"> <iframe width="672" height="378" src="https://www.youtube.com/embed/2r9sPiXNQZc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="flex-video video"> <iframe src="https://www.youtube.com/embed/2r9sPiXNQZc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 <h2 style="font-size: 26px;">Part 5</h2>
 
-<div class="video-wrapper"> <iframe width="672" height="378" src="https://www.youtube.com/embed/GzmMZYqi95o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="flex-video video"> <iframe src="https://www.youtube.com/embed/GzmMZYqi95o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 <h2 style="font-size: 26px;">Part 6</h2>
 
-<div class="video-wrapper"> <iframe width="672" height="378" src="https://www.youtube.com/embed/tBKTWG2bZkc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="flex-video video"> <iframe src="https://www.youtube.com/embed/tBKTWG2bZkc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>

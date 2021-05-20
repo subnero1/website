@@ -15,8 +15,8 @@ Our underwater modem provides a flexible platform for a variety of underwater ne
 
 Our modems are available in many configurations that cater for different application needs. The _surface configuration_ is ideally suited for gateway nodes in an underwater network, connecting the underwater network to wired or wireless networks (e.g. 3G/4G, WiFi, satellite) above water. The _node configuration_ modems come as standalone packages with their own batteries. These are typically deployed in the water column or on the seabed, and can act as network routers, repeaters and beacons. The _embedded configuration_ modems are compact OEM devices that are designed for integration into Autonomous Underwater Vehicles (AUVs) and underwater sensors, allowing the AUVs and sensors to be connected. Once in the water, the different configuration modems seamlessly integrate into a single underwater communication network.
 
-<div class="video-wrapper">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/VWZ8Nh3QgFU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="flex-video video">
+    <iframe src="https://www.youtube.com/embed/VWZ8Nh3QgFU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 Our modems are also available in several editions. The _silver edition_ modems are robust communication devices, typically suited for most standard commercial deployments. The lower-cost _research edition_ modems provide a flexible tool that allows students, researchers and hobbyists to develop and test underwater networks. The _platinum edition_ modems use components that are designed for extended range of operating conditions, and undergo extensive environmental testing. They are best suited for applications in harsh environmental conditions or increased level of robustness.
