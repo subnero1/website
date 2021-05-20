@@ -1,19 +1,21 @@
 ---
 layout: post
-title: Multi-channel underwater modem
+title: Underwater modem with a secondary data acquisition system
 banner : images/banner-pulse-custommodem.jpg
-date:  2017-05-18
+date:  2017-12-12
 categories: wnc
 thumbnail: images/pulse-thumbnail-multichannel.jpg
 ---
 
-The Subnero underwater modems provide options for customization and extension at many levels. For many research applications, multiple synchronized recordings of a received signal from carefully positioned hydrophones are required everytime a signal is detected on the main hydrophone. In order to manage the extra receiving channels, there is an additional analog-to-digital (ADC) convertor integrated in the modem. The second ADC is managed by the UnetStack agent named `adc2`.
+*This is a legacy product and is now replaced with the multi-channel modems. This product is not available for purchase anymore.*
+
+The Subnero underwater modems provide options for customization and extension at many levels. For a research application, a customer required 4 synchronized recordings of a received signal from carefully positioned hydrophones, everytime the signal was detected on the main hydrophone. In order to fulfill this requirement, we integrated 4 preamplifiers and a USB-1608G Series high-speed USB data acquisition system in our standard modem. A driver was developed (in C language) for the multi-channel acquisition system. This driver published its data to UnetStack using standard baseband recording messages, so that the customer's software could request these messages.
 
 At the event of detection of a signal on the main hydrophone, a baseband reception notification message `RxBasebandSignalNtf` is sent by the modem. The customer's script can look for the reception of this notification message and request a recording using the secondary data acquisition system:
 
 ```java
 if (msg instanceof RxBasebandSignalNtf)
-    adc2 << new RecordBasebandSignalReq(recTime: msg.rxTime)
+    phy << new RecordBasebandSignalReq(adc: 2, recTime: msg.rxTime)
 ```
 
 The time at which the signal is detected on the main hydrophone is extracted using `msg.rxTime`. The recording time can be set in the past while requesting the recording to synchronize the recorded data from the multi-channel acquisition system with the signal recorded on the main hydrophone.
