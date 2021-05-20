@@ -7,7 +7,7 @@ categories: wnc
 thumbnail: images/pulse-thumbnail-multichannel.jpg
 ---
 
-> *This is a legacy product and is now replaced with the multi-channel modems. This product is not available for purchase anymore.*
+> This is a legacy product and is now replaced with the [multi-channel modems](https://subnero.com/products/wnc-m25mss3+xch.html). This product is not available for purchase anymore.
 
 The Subnero underwater modems provide options for customization and extension at many levels. For a research application, a customer required 4 synchronized recordings of a received signal from carefully positioned hydrophones, everytime the signal was detected on the main hydrophone. In order to fulfill this requirement, we integrated 4 preamplifiers and a USB-1608G Series high-speed USB data acquisition system in our standard modem. A driver was developed (in C language) for the multi-channel acquisition system. This driver published its data to UnetStack using standard baseband recording messages, so that the customer's software could request these messages.
 
