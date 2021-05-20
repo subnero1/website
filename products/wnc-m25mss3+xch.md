@@ -96,9 +96,6 @@ Subnero's multi-channel modems, provide the capability to record synchronized si
     <div class="brochure-container">
       <a href="{{site.baseurl}}/wnc/2021/05/12/Subnero-Multi-channel-Modems.html" target="_blank">Introducing Subnero Multi-channel Modems</a>
     </div>
-    <div class="brochure-container">
-      <a href="{{site.baseurl}}/wnc/2017/12/12/Underwater-modem-with-multiple-hydrophones.html" target="_blank">Underwater modem with a secondary data acquisition system</a>
-    </div>
 </div>
 </div>
 
