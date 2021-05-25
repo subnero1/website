@@ -72,7 +72,7 @@ The **Commercial** edition of UnetStack is similar to the **Community** edition 
 The **OEM** edition is the version of UnetStack installed in the Subnero modems. You can use the various [UnetStack APIs](https://unetstack.net/handbook/unet-handbook_part_iii_building_unet_applications.html){:target="_blank"} and [open source Gateway and UnetSocket libraries](https://github.com/org-arl/unet-contrib){:target="_blank"} from any other device or computer to access the modems, without needing a separate license. 
 
 
-In addition, if you are interested in getting UnetStack installed on your OEM device, you can [contact us](mailto:sales@subnero.com).
+In addition, if you are interested in getting UnetStack installed on your OEM device, you can [contact us](https://subnero.com/contact/).
 ​
 #### 4. Commercial (Dev-tools) Edition
 The **Commercial (Dev-tools)** edition of UnetStack is similar to the **Commercial** edition but it is tagged to a specific OEM device (e.g. Subnero modem) that you own. You can use this edition of UnetStack to simulate and develop software for that OEM device, as well as to run UnetStack on your workstations to connect to and control the OEM device for development and testing of any applications involving the OEM device.
