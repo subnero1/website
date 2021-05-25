@@ -77,7 +77,7 @@ In addition, if you are interested in getting UnetStack installed on your OEM de
 #### 4. Commercial (Dev-tools) Edition
 The **Commercial (Dev-tools)** edition of UnetStack is similar to the **Commercial** edition but it is tagged to a specific OEM device (e.g. Subnero modem) that you own. You can use this edition of UnetStack to simulate and develop software for that OEM device, as well as to run UnetStack on your workstations to connect to and control the OEM device for development and testing of any applications involving the OEM device.
 
-Subnero modems may have an associated **Commercial (Dev-tools)** edition. [Contact us](mailto:sales@subnero.com) for more information on the **Commercial (Dev-tools)** license.
+Subnero modems may have an associated **Commercial (Dev-tools)** edition. [Contact us](https://subnero.com/contact/) for more information on the **Commercial (Dev-tools)** license.
 
 
 <h2>Brochures</h2>
