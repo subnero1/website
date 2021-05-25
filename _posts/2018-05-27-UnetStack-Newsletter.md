@@ -34,8 +34,8 @@ If you have not yet tried the ARL Python Tools for underwater acoustics, signal 
 
 #### Tutorial on Underwater Acoustic Networking at OCEANS '18, Kobe, Japan
 
-We will be conducting a tutorial on Underwater Acoustic Networking on Monday the 28th of May, 2018 at the OCEANS '18 conference happening in Kobe, Japan. More details can be found [here](http://www.oceans18mtsieeekobe.org/tutorial-information/){:target="_blank"}.
+We will be conducting a tutorial on Underwater Acoustic Networking on Monday the 28th of May, 2018 at the OCEANS '18 conference happening in Kobe, Japan.
  
 #### Meet us at OCEANS '18
 
-We will also be exhibiting at OCEANS '18, from May 28 to 31. Do drop by our booth, No. 33, if you are going to be at OCEANS' 18, Kobe, Japan. Check out the social events [here](http://www.oceans18mtsieeekobe.org/social-events/){:target="_blank"}.
+We will also be exhibiting at OCEANS '18, from May 28 to 31. Do drop by our booth, No. 33, if you are going to be at OCEANS' 18, Kobe, Japan.
