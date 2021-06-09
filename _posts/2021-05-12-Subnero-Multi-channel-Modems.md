@@ -3,7 +3,7 @@ layout: post
 title: Introducing Subnero Multi-channel Modems
 banner : images/banner-multichannel.jpg
 date:  2021-05-12
-categories: wnc
+categories: wnc news
 thumbnail: images/thumbnail-wnc-multichannel.jpg
 ---
 
