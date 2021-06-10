@@ -7,7 +7,7 @@ categories: news wnc
 thumbnail: images/pulse-romor.jpg
 ---
 
-Subnero, the leading global provider of underwater wireless communication technology is further expanding its Asian operations, having signed a partnership with [ROMOR Ocean Solutions](https://romor.ca/){:target="_blank"} to support Canadian business growth.
+Subnero, the leading global provider of underwater wireless communication technology is further expanding its operations, having signed a partnership with [ROMOR Ocean Solutions](https://romor.ca/){:target="_blank"} to support Canadian business growth.
 
 ROMOR Ocean Solutions, based in Nova Scotia, on the east coast of Canada, represents several well known brands as well as being a system integrator. Darrin Verge, CEO of ROMOR, has been in the ocean instrumentation sector for over 3 decades, giving him a wealth of knowledge as well as solid relationship with system manufacturers, private and public research groups, making ROMOR a reliable partner to promote and support Subnero's offering.
 
