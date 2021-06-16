@@ -14,7 +14,7 @@ Although this frequency of the crystal quartz is reasonably stable, it is imposs
 There are different oscillator types that exist to chose from including OCXOs, TCXOs, and XOs. The crystal controlled clock oscillator (XO) is a device that achieves its temperature stability from the quartz crystal's inherent temperature stability.
 A Temperature compensated crystal oscillator (TCXO) is a crystal oscillator with a temperature-sensitive reactance circuit in its oscillation loop to compensate the frequency-temperature characteristics inherent to the crystal unit. An OCXO is a crystal oscillator which is temperature controlled by a mini internal oven. This type of oscillator has a temperature controlling circuit to maintain a consistent temperature of the crystal and other key components. OCXOs are typically used when greater temperature stability is required. While this type of oscillator has a tenfold improvement over a TCXO for temperature vs. frequency stability, the OCXO tends to be higher in price and consumes more power.
 
-> NOTE: Subnero provides ![low-drift clock](https://subnero.com/products/sensors.html) as an optional upgrade to the modem for users who require a low drift clock. This clock provides much lower drift and are suitable for such applications where time synchronization is critical. 
+> For example, UnetStack-based Subnero modems can be optionally upgraded to use [low-drift clocks](https://subnero.com/products/sensors.html). Such clocks provide much better time stability and are suitable for such applications where time synchronization over long periods of time is critical.
 
 Now, when there is a possibility of clock drift, it is not easy for having multiple spatially separated modems with synchronized physical clocks. So the question arises, if the synchronization of physcial clocks across different UnetStakc enabled modems is needed, how do we synchronize them with each other?
 
@@ -85,3 +85,47 @@ To measured physical clock time, open modem's web shell and type the following:
 phy.clockCalib = mB/mA
 
 ```
+
+We show here a simple code snippet to run on two modems (say A & B) to measure the slope and compute the calibration factor to set in `phy.clockCalib`. The code presented makes measurements every hour and runs for 24 hours.
+
+
+_On modem A_:
+
+```groovy
+def interval = 3600*1000 // 1 hour in ms
+def noOfMeasurments = 24
+def phy = agent('phy')
+def systime = []
+def phytime = []
+noOfMeasurments.times {
+	systime.append(phy.rtc.getTime())
+	phytime.append(phy.time/1000)
+}
+mA = (phytime[noOfMeasurments-1] - phytime[0])/(systime[noOfMeasurments-1] - systime[0]) // slope
+```
+
+_On modem B_:
+
+```groovy
+def interval = 3600*1000 // 1 hour in ms
+def noOfMeasurments = 24
+def phy = agent('phy')
+def systime = []
+def phytime = []
+noOfMeasurments.times {
+	systime.append(phy.rtc.getTime())
+	phytime.append(phy.time/1000)
+}
+mB = (phytime[noOfMeasurments-1] - phytime[0])/(systime[noOfMeasurments-1] - systime[0]) // slope
+```
+
+Now, the modem A's clock should be set to the following to match the clocks to tick at the same rate
+
+```groovy
+phy.clockCalib = mB/mA
+
+```
+
+
+
+
