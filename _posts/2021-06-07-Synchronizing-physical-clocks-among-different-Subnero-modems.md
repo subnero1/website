@@ -101,7 +101,8 @@ noOfMeasurments.times {
 	systime.append(phy.rtc.getTime())
 	phytime.append(phy.time/1000)
 }
-mA = (phytime[noOfMeasurments-1] - phytime[0])/(systime[noOfMeasurments-1] - systime[0]) // slope
+// compute slope based on measurements
+mA = (phytime[noOfMeasurments-1] - phytime[0])/(systime[noOfMeasurments-1] - systime[0]) 
 ```
 
 _On modem B_:
@@ -116,6 +117,7 @@ noOfMeasurments.times {
 	systime.append(phy.rtc.getTime())
 	phytime.append(phy.time/1000)
 }
+// compute slope based on measurements
 mB = (phytime[noOfMeasurments-1] - phytime[0])/(systime[noOfMeasurments-1] - systime[0]) // slope
 ```
 
