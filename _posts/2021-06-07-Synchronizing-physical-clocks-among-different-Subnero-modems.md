@@ -128,6 +128,5 @@ phy.clockCalib = mB/mA
 
 ```
 
-
-
+Note the parameters used in the above code snippet such as `interval` and `noOfMeasurements` can be varied as per the user's need. The code cnippet shown in this blog is to serve as a reference code only.
 
