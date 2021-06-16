@@ -86,7 +86,7 @@ phy.clockCalib = mB/mA
 
 ```
 
-We show here a simple code snippet to run on two modems (say A & B) to measure the slope and compute the calibration factor to set in `phy.clockCalib`. The code presented makes measurements every hour and runs for 24 hours.
+We show here a simple code snippet to run on two modems (say A & B) to measure the slope and compute the calibration factor to set `phy.clockCalib` parameter. The code presented makes measurements every hour and runs for 24 hours.
 
 
 _On modem A_:
@@ -128,5 +128,5 @@ phy.clockCalib = mB/mA
 
 ```
 
-Note the parameters used in the above code snippet such as `interval` and `noOfMeasurements` can be varied as per the user's need. The code cnippet shown in this blog is to serve as a reference code only.
+Note the parameters used in the above code snippet such as `interval` and `noOfMeasurements` can be varied as per the user's need. The code snippet shown in this blog is to serve as a reference code only.
 
