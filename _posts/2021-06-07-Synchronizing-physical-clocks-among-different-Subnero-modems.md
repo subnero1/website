@@ -100,6 +100,7 @@ def phytime = []
 noOfMeasurments.times {
 	systime.append(phy.rtc.getTime())
 	phytime.append(phy.time/1000)
+	delay(interval)
 }
 // compute slope based on measurements
 mA = (phytime[noOfMeasurments-1] - phytime[0])/(systime[noOfMeasurments-1] - systime[0]) 
@@ -116,12 +117,13 @@ def phytime = []
 noOfMeasurments.times {
 	systime.append(phy.rtc.getTime())
 	phytime.append(phy.time/1000)
+	delay(interval)
 }
 // compute slope based on measurements
 mB = (phytime[noOfMeasurments-1] - phytime[0])/(systime[noOfMeasurments-1] - systime[0]) // slope
 ```
 
-Now, the modem A's clock should be set to the following to match the clocks to tick at the same rate
+Now, based on the computed slopes (mA and mB), the modem A's clock can be set to the following to match the clocks to tick at the same rate:
 
 ```groovy
 phy.clockCalib = mB/mA
