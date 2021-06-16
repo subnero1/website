@@ -57,7 +57,7 @@ To measure system time, open modem's web shell and type the following:
 
 ```
 
-To measured physical clock time, open modem's web shell and type the following:
+To measure physical clock time, open modem's web shell and type the following:
 
 ```groovy
 > phy.time
