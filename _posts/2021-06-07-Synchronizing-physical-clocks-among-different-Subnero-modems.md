@@ -16,7 +16,7 @@ A temperature compensated crystal oscillator (TCXO) is a crystal oscillator with
 
 > For example, UnetStack-based Subnero modems can be optionally upgraded to use [low-drift clocks](https://subnero.com/products/sensors.html). Such clocks provide much better time stability and are suitable for such applications where time synchronization over long periods of time is critical.
 
-Now, when there is a possibility of clock drift, it is not easy for having multiple spatially separated modems with synchronized physical clocks. So the question arises, if the synchronization of physcial clocks across different UnetStakc enabled modems is needed, how do we synchronize them with each other?
+Now, when there is a possibility of clock drift, it is not easy for having multiple spatially separated modems with synchronized physical clocks. So the question arises, if the synchronization of physical clocks across different UnetStack enabled modems is needed, how do we synchronize them with each other?
 
 There are two major problems to be addressed to synchronize clocks among different modems:
 
