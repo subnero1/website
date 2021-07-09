@@ -11,4 +11,4 @@ Subnero, provider of underwater wireless communication technology, headquartered
 
 Met Solutions, based in Busan, Republic of Korea, represents several well known brands and has many years of experience of developing hardware and software for a variety underwater platforms.
 
-We look forward to our first project in the Replublic of Korea with the collaboration of Met-Solutions.
+We look forward to our first project in the Republic of Korea with the collaboration of Met-Solutions.
