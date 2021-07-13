@@ -13,7 +13,7 @@ Subnero is delighted to add [SeaBreath](https://www.sea-breath.com/) to their li
 
 SeaBreath is based in Tokyo and will represent Subnero in Japan.
 
-They are already a distributor for a number of well known [international brands](https://www.sea-breath.com/product), Subnero offerings are the perfect addition to their existing range of products and solutions.
+Subnero offerings are the perfect addition to their existing range of products and solutions from a number of well-known [international brands](https://www.sea-breath.com/product).
 
 Every member of the team has several years experience in the subsea industry, which makes SeaBreath the perfect choice to grow the business in Japan.
 
