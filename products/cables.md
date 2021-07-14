@@ -80,7 +80,8 @@ excerpt: Additional storage for Subnero underwater acoustic modems.
             <td>W-00T10-25</td>
             <td>Underwater cable, 25 m</td>
             <td>Power, Ethernet</td>
-            <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+            <td><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a>
+              <br/><a href="{{site.baseurl}}/products/wnc-m25mrs3">Research Edition Standalone Configuration</a></td>
           </tr>
           <tr>
             <td>W-00T10-30</td>

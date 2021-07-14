@@ -67,7 +67,9 @@ excerpt: Additional storage for Subnero underwater acoustic modems.
           </tr>
           <tr>
             <td>Clamps</td>
-            <td><a href="{{site.baseurl}}/products/wnc-m25mps3">Platinum Edition Standalone Configuration</a><br><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a></td>
+            <td><a href="{{site.baseurl}}/products/wnc-m25mps3">Platinum Edition Standalone Configuration</a>
+              <br/><a href="{{site.baseurl}}/products/wnc-m25mss3">Silver Edition Standalone Configuration</a>
+              <br/><a href="{{site.baseurl}}/products/wnc-m25mrs3">Research Edition Standalone Configuration</a></td>
           </tr>
           <tr>
             <td>Right angled bulkhead connectors</td>
