@@ -1,6 +1,6 @@
 language: ruby
 rvm: 2.6
 before_script: gem install bundler:2.0.2 awesome_bot
-script: awesome_bot _posts/*.md  support/**/*.md  support/*.md products/*.md solutions/*.md contact/*.md  pulse/*.md --allow-dupe --allow-redirect --allow-ssl --skip-save-results --set-timeout 1000 --white-list http://www.smartseatech.com/en/index.aspx https://www.asianscientist.com/2017/01/print/hello-world-meet-10-made-in-asia-robots/6/ https://www.asianscientist.com
+script: awesome_bot _posts/*.md  support/**/*.md  support/*.md products/*.md solutions/*.md contact/*.md  pulse/*.md --allow-dupe --allow-redirect --allow-ssl --skip-save-results --set-timeout 1000 --white-list http://www.smartseatech.com/en/index.aspx,https://www.asianscientist.com/2017/01/print/hello-world-meet-10-made-in-asia-robots/6/,https://www.asianscientist.com
 notifications:
   email: false
