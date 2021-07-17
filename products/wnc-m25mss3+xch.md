@@ -71,7 +71,6 @@ Subnero's multi-channel modems, provide the capability to record synchronized si
 | -------------------------------------- | ----------------------------------------- |
 | Power consumption                      | < 7 W (receive mode, nominal)<br>< 60 W (transmit mode, avg.)<br>< 80 W (transmit mode, max.)|
 | Dimensions                             | ⌀ 127 ✕ 324 mm                            |
-| Additional sensors                     | GPS, AHRS                                 |
 
 </div>
 </div>
@@ -94,7 +93,7 @@ Subnero's multi-channel modems, provide the capability to record synchronized si
   <label class='lbl-toggle' for='useful-links'></label>
   <div class='collapsible-content'>
     <div class="brochure-container">
-      <a href="{{site.baseurl}}/wnc/2021/05/12/Subnero-Multi-channel-Modems.html" target="_blank">Introducing Subnero Multi-channel Modems</a>
+      <a href="{{site.baseurl}}/wnc/news/2021/05/12/Subnero-Multi-channel-Modems.html" target="_blank">Introducing Subnero Multi-channel Modems</a>
     </div>
 </div>
 </div>
